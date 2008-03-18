@@ -1,0 +1,69 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/ActionScript.tmbundle/Support/bin/XTrace.app/Contents/Resources
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+TraceServer.jar
+file
+
+
+
+
+2006-11-27T11:53:12.000000Z
+416ce369245f8d29afb104b74889b403
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+has-props
+
+icon.icns
+file
+
+
+
+
+2006-11-26T19:03:02.000000Z
+0662c9fc88cf99e2cb7a3ab2a26c200c
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+has-props
+
+XTraceIcon.ai
+file
+
+
+
+
+2006-11-26T19:03:02.000000Z
+ec945d1bf1d13c874b608c7cf7ee3c39
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+English.lproj
+dir
+

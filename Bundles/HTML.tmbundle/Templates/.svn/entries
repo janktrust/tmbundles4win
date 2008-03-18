@@ -1,0 +1,46 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/HTML.tmbundle/Templates
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+XHTML %E2%80%93 1.1
+dir
+
+HTML %E2%80%93 4.0 Strict
+dir
+
+HTML %E2%80%94 4.0 Transitional
+dir
+
+XHTML %E2%80%93 1.0 Frameset
+dir
+
+XHTML %E2%80%93 1.0 Transitional
+dir
+
+XHTML %E2%80%93 1.0 Strict
+dir
+

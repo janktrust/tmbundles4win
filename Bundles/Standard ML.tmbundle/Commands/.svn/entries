@@ -1,0 +1,76 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Standard%20ML.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Run in SML.plist
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+cf8a36635f8e74f8728ae7e86d54819b
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Build SML.tmCommand
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+26fab611a0dfd39eeb4c1d1aa2a02535
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Close struct%3Afct%3Asig.tmCommand
+file
+
+
+
+
+2007-06-13T03:17:51.000000Z
+6fbf352ac0866463472fed6356d368dd
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+CM Build.tmCommand
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+0b7f12e038c0f55f39960fd19152e68c
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

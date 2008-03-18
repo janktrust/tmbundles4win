@@ -1,0 +1,593 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/83/trunk/Bundles/CSS.tmbundle/Snippets
+END
+background-color%3A  color-hex (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-color%253A%20%20color-hex%20(background).plist
+END
+margin-top%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/margin-top%253A%20length%20(margin).plist
+END
+font%3A size font (font).plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/font%253A%20size%20font%20(font).plist
+END
+opacity%3A [for Safari, FF and IE] (opacity).plist
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/opacity%253A%20%5Bfor%20Safari,%20FF%20and%20IE%5D%20(opacity).plist
+END
+background%3A  color image repeat attachment position (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background%253A%20%20color%20image%20repeat%20attachment%20position%20(background).plist
+END
+text-transform%3A none (text).plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-transform%253A%20none%20(text).plist
+END
+border-left-style%3A style (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-left-style%253A%20style%20(border).plist
+END
+direction%3A ltr%7Crtl (direction).plist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/direction%253A%20ltr%257Crtl%20(direction).plist
+END
+border-color%3A color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-color%253A%20color%20(border).plist
+END
+border%3A   size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border%253A%20%20%20size%20style%20color%20(border).plist
+END
+properties { } ( } ).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/properties%20%7B%20%7D%20(%20%7D%20).plist
+END
+Fixed Position Bottom 100% wide IE6.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/Fixed%20Position%20Bottom%20100%25%20wide%20IE6.tmSnippet
+END
+color%3A  color-name (color).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/color%253A%20%20color-name%20(color).plist
+END
+cursor%3A url (cursor).plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/cursor%253A%20url%20(cursor).plist
+END
+border-right-width%3A size (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-right-width%253A%20size%20(border).plist
+END
+list-style%3A type position image (list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/list-style%253A%20type%20position%20image%20(list).plist
+END
+font-size%3A size (font).plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/font-size%253A%20size%20(font).plist
+END
+scrollbar.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/scrollbar.tmSnippet
+END
+word-spacing%3A  normal (word).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/word-spacing%253A%20%20normal%20(word).plist
+END
+letter-spacing%3A   length-em (letter).plist
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/letter-spacing%253A%20%20%20length-em%20(letter).plist
+END
+white-space%3A  normal%3Apre%3Anowrap (white).plist
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/white-space%253A%20%20normal%253Apre%253Anowrap%20(white).plist
+END
+selection.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/selection.tmSnippet
+END
+border-bottom-color%3A size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-bottom-color%253A%20size%20style%20color%20(border).plist
+END
+display%3A table-types (display).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/display%253A%20table-types%20(display).plist
+END
+display%3A block (display).plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/display%253A%20block%20(display).plist
+END
+text-align%3A left%3Acenter%3Aright (txt).plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-align%253A%20left%253Acenter%253Aright%20(txt).plist
+END
+padding-bottom%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/padding-bottom%253A%20length%20(margin).plist
+END
+border-left-color%3A color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-left-color%253A%20color%20(border).plist
+END
+border-left%3A size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-left%253A%20size%20style%20color%20(border).plist
+END
+font-family%3A   family (font).plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/font-family%253A%20%20%20family%20(font).plist
+END
+font-variant%3A   normal%3Asmall-caps (font).plist
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/font-variant%253A%20%20%20normal%253Asmall-caps%20(font).plist
+END
+background-image%3A  url (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-image%253A%20%20url%20(background).plist
+END
+text-decoration%3A none%3Aunderline%3Aoverline%3Aline-through%3Ablink (text).plist
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-decoration%253A%20none%253Aunderline%253Aoverline%253Aline-through%253Ablink%20(text).plist
+END
+font%3A   style variant weight size%3Aline-height font -family (font).plist
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/font%253A%20%20%20style%20variant%20weight%20size%253Aline-height%20font%20-family%20(font).plist
+END
+background-repeat%3A  r%3Ar-x%3Ar-y%3An-r (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-repeat%253A%20%20r%253Ar-x%253Ar-y%253An-r%20(background).plist
+END
+border-bottom-style%3A size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-bottom-style%253A%20size%20style%20color%20(border).plist
+END
+padding%3A   all (padding).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/padding%253A%20%20%20all%20(padding).plist
+END
+border-bottom%3A size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-bottom%253A%20size%20style%20color%20(border).plist
+END
+border-width%3A width (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-width%253A%20width%20(border).plist
+END
+margin-right%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/margin-right%253A%20length%20(margin).plist
+END
+border-top-style%3A style (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-top-style%253A%20style%20(border).plist
+END
+clear%3A value (clear).plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/clear%253A%20value%20(clear).plist
+END
+position%3A type (position).plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/position%253A%20type%20(position).plist
+END
+color%3A  color-hex (color).plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/color%253A%20%20color-hex%20(color).plist
+END
+marker-offset%3A auto (marker).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/marker-offset%253A%20auto%20(marker).plist
+END
+border-right%3A size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-right%253A%20size%20style%20color%20(border).plist
+END
+text-shadow%3A color-hex x y blur (text).plist
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-shadow%253A%20color-hex%20x%20y%20blur%20(text).plist
+END
+margin%3A   all (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/margin%253A%20%20%20all%20(margin).plist
+END
+border-right-style%3A style (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-right-style%253A%20style%20(border).plist
+END
+display%3A common-types (display).plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/display%253A%20common-types%20(display).plist
+END
+list-style-type%3A numeric (list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/list-style-type%253A%20numeric%20(list).plist
+END
+border-left-width%3A size (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-left-width%253A%20size%20(border).plist
+END
+background-color%3A  transparent (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-color%253A%20%20transparent%20(background).plist
+END
+cursor%3A type (cursor).plist
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/cursor%253A%20type%20(cursor).plist
+END
+background-image%3A  none (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-image%253A%20%20none%20(background).plist
+END
+padding%3A   T R B L (padding).plist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/padding%253A%20%20%20T%20R%20B%20L%20(padding).plist
+END
+padding-right%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/padding-right%253A%20length%20(margin).plist
+END
+border-top-color%3A color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-top-color%253A%20color%20(border).plist
+END
+list-style-type%3A other (list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/list-style-type%253A%20other%20(list).plist
+END
+border-top%3A size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-top%253A%20size%20style%20color%20(border).plist
+END
+letter-spacing%3A   length-px (letter).plist
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/letter-spacing%253A%20%20%20length-px%20(letter).plist
+END
+word-spacing%3A  length (word).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/word-spacing%253A%20%20length%20(word).plist
+END
+text-shadow%3A none (text).plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-shadow%253A%20none%20(text).plist
+END
+font-style%3A   normal%3Aitalic%3Aoblique (font).plist
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/font-style%253A%20%20%20normal%253Aitalic%253Aoblique%20(font).plist
+END
+background-attachment%3A scroll%3Afixed (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-attachment%253A%20scroll%253Afixed%20(background).plist
+END
+padding-left%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/padding-left%253A%20length%20(margin).plist
+END
+list-style-type%3A roman-alpha-greek (list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/83/trunk/Bundles/CSS.tmbundle/Snippets/list-style-type%253A%20roman-alpha-greek%20(list).plist
+END
+list-style-type%3A asian (list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/list-style-type%253A%20asian%20(list).plist
+END
+z-index%3A index (z).plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/z-index%253A%20index%20(z).plist
+END
+visibility%3A type (visibility).plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/visibility%253A%20type%20(visibility).plist
+END
+border-right-color%3A color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-right-color%253A%20color%20(border).plist
+END
+border-bottom-width%3A size style color (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-bottom-width%253A%20size%20style%20color%20(border).plist
+END
+margin-left%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/margin-left%253A%20length%20(margin).plist
+END
+float%3A left%3Aright%3Anone (float).plist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/float%253A%20left%253Aright%253Anone%20(float).plist
+END
+padding-top%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/padding-top%253A%20length%20(margin).plist
+END
+list-style-image%3A url (list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/list-style-image%253A%20url%20(list).plist
+END
+margin%3A V H (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/margin%253A%20V%20H%20(margin).plist
+END
+text-indent%3A length (text).plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-indent%253A%20length%20(text).plist
+END
+margin-bottom%3A length (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/margin-bottom%253A%20length%20(margin).plist
+END
+text-transform%3A capitalize%3Aupper%3Alower (text).plist
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-transform%253A%20capitalize%253Aupper%253Alower%20(text).plist
+END
+border-top-width%3A size (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-top-width%253A%20size%20(border).plist
+END
+color%3A  color-rgb (color).plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/color%253A%20%20color-rgb%20(color).plist
+END
+list-style-type%3A marker(list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/list-style-type%253A%20marker(list).plist
+END
+overflow%3A type (overflow).plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/overflow%253A%20type%20(overflow).plist
+END
+text-shadow%3A color-rgb x y blur (text).plist
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/text-shadow%253A%20color-rgb%20x%20y%20blur%20(text).plist
+END
+list-style-position%3A pos (list).plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/list-style-position%253A%20pos%20(list).plist
+END
+font-weight%3A weight (font).plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/font-weight%253A%20weight%20(font).plist
+END
+display%3A inline (display).plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/display%253A%20inline%20(display).plist
+END
+border-style%3A style (border).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/border-style%253A%20style%20(border).plist
+END
+filter%3A AlphaImageLoader [for IE PNGs] (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/filter%253A%20AlphaImageLoader%20%5Bfor%20IE%20PNGs%5D%20(background).plist
+END
+padding%3A   V H (padding).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/padding%253A%20%20%20V%20H%20(padding).plist
+END
+vertical-align%3A type (vertical).plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/vertical-align%253A%20type%20(vertical).plist
+END
+!important CSS (!).plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/!important%20CSS%20(!).plist
+END
+margin%3A T R B L (margin).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/margin%253A%20T%20R%20B%20L%20(margin).plist
+END
+background-color%3A  color-rgb (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-color%253A%20%20color-rgb%20(background).plist
+END
+background-position%3A  position (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-position%253A%20%20position%20(background).plist
+END
+background-color%3A  color-name (background).plist
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/background-color%253A%20%20color-name%20(background).plist
+END
+marker-offset%3A length (marker).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/57/trunk/Bundles/CSS.tmbundle/Snippets/marker-offset%253A%20length%20(marker).plist
+END

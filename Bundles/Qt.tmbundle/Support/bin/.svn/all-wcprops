@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/bin
+END
+run_qt_project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/bin/run_qt_project.rb
+END
+insert_super.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/bin/insert_super.rb
+END
+search.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/bin/search.rb
+END
+build_qt_project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/bin/build_qt_project.rb
+END
+insert_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/117/trunk/Bundles/Qt.tmbundle/Support/bin/insert_class.rb
+END
+find_qt_project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/bin/find_qt_project.rb
+END
+declaration_to_implementation.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/bin/declaration_to_implementation.rb
+END

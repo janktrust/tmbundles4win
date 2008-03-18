@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/postgres-pr/typeconv
+END
+array.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/postgres-pr/typeconv/array.rb
+END
+bytea.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/postgres-pr/typeconv/bytea.rb
+END
+conv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/postgres-pr/typeconv/conv.rb
+END
+TC_conv.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/postgres-pr/typeconv/TC_conv.rb
+END

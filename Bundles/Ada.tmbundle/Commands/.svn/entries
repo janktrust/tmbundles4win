@@ -1,0 +1,28 @@
+8
+
+dir
+345
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Ada.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+Build and Run.tmCommand
+file
+
+
+
+
+2007-12-23T09:58:25.000000Z
+5b1e265212bf7ee848f539cbd7b9e20c
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+

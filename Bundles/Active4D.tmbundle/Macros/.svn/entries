@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Active4D.tmbundle/Macros
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Move to EOL and insert %3A=.plist
+file
+
+
+
+
+2006-05-26T06:20:45.000000Z
+781bed8147c14e7c3689fea4460ebc35
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Move to EOL and Insert %3Cbr %3A%3E.tmMacro
+file
+
+
+
+
+2006-05-31T16:29:16.000000Z
+c0c1c05069741359cbf053972f817ee4
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Move to EOL and Insert LF.plist
+file
+
+
+
+
+2006-05-31T16:20:30.000000Z
+f0953ba63fe34034967649ffda24ed79
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+

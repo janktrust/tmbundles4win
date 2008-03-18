@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Java.tmbundle/Templates/Hibernate%20Mapping%20Document
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+hibernate-tmpl.hbm.xml
+file
+
+
+
+
+2005-11-09T15:25:29.000000Z
+eebac55c780a18b9bef18d31d6b3d49a
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+info.plist
+file
+
+
+
+
+2006-05-23T19:55:12.000000Z
+b96486d0d12797118003c9ab9feddc19
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+

@@ -1,0 +1,40 @@
+8
+
+dir
+463
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Preferences
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+Template (Haml).tmPreferences
+file
+481
+
+
+
+2008-03-10T20:00:53.000000Z
+6c5bf754e78f7bcb8107aa1f499f055b
+2008-03-10T20:36:09.436176Z
+481
+gcheshire
+
+Template (ERB).tmPreferences
+file
+481
+
+
+
+2008-03-10T20:00:53.000000Z
+2c333547d52c8d53b5d99ce04d5b22e1
+2008-03-10T20:36:09.436176Z
+481
+gcheshire
+

@@ -1,0 +1,208 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Objective-C.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Cocoa Method Signature Completion.tmCommand
+file
+424
+
+
+
+2008-02-18T19:13:13.000000Z
+1e2448621b5f82b6982289ed10fddc5c
+2008-02-18T19:35:23.621178Z
+424
+gcheshire
+
+Insert NSLog() for current method.tmCommand
+file
+381
+
+
+
+2008-02-03T16:35:30.000000Z
+f4221ebfed79b5b17a9f0bdd9611f15a
+2008-02-03T17:35:50.913162Z
+381
+gcheshire
+
+Lookup Cocoa Class.plist
+file
+193
+
+
+
+2007-09-22T03:58:20.000000Z
+0e6547ccc3dd3517ab4e5541042c0920
+2007-09-22T04:36:22.000940Z
+193
+gcheshire
+
+Documentation for Selector.tmCommand
+file
+451
+
+
+
+2008-03-02T20:20:27.000000Z
+51410de7e1486cb2fcec7f0289f866ae
+2008-03-02T20:35:12.199580Z
+451
+gcheshire
+
+Generate Index.tmCommand
+file
+381
+
+
+
+2008-02-03T16:35:30.000000Z
+3edae6d985cd22c414f96c72b214d4c6
+2008-02-03T17:35:50.913162Z
+381
+gcheshire
+
+Delete Outer Method.tmCommand
+file
+
+
+
+
+2007-04-30T02:46:18.000000Z
+6b64ffdda56df76f82d9f8127af27de4
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+Cocoa Function Completion.tmCommand
+file
+440
+
+
+
+2008-02-24T12:10:02.000000Z
+5c75f18b2d56ab153d9d7b17c9d35930
+2008-02-24T12:35:19.481849Z
+440
+gcheshire
+
+Format Method Signature.plist
+file
+
+
+
+
+2007-04-30T02:46:18.000000Z
+fae89d61eb536e1aec097500c7f85bcc
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+Wrap in [[alloc] init] (alloc).plist
+file
+
+
+
+
+2006-06-16T13:19:23.000000Z
+8b7dae28c9b20bd4cb64feb2297385fc
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+Help.tmCommand
+file
+381
+
+
+
+2008-02-03T16:35:30.000000Z
+c3a8d7370c6ec99daff71e1cfb8afd4a
+2008-02-03T17:35:50.913162Z
+381
+gcheshire
+
+Cocoa Context.tmCommand
+file
+432
+
+
+
+2008-02-21T17:21:52.000000Z
+2f008a7a4c1df294a1a9a4e2e800a2d6
+2008-02-21T17:35:18.879923Z
+432
+gcheshire
+
+Insert Matching Start Bracket.tmCommand
+file
+392
+
+
+
+2008-02-08T21:47:10.000000Z
+790e009865b9a19d52f650061ce9a4bb
+2008-02-08T22:35:31.305632Z
+392
+gcheshire
+
+Reflow Method Call.tmCommand
+file
+
+
+
+
+2007-04-30T02:46:18.000000Z
+eb2009f483babb007d142543e58acb51
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+Insert Call to Super.plist
+file
+381
+
+
+
+2008-02-03T16:35:30.000000Z
+62b9e30c2872c36e02b715485dac2e25
+2008-02-03T17:35:50.913162Z
+381
+gcheshire
+
+Completion%3A Inside @selector.tmCommand
+file
+438
+
+
+
+2008-02-23T23:08:26.000000Z
+013b146236c177cceff28d1b864ae313
+2008-02-23T23:35:27.280098Z
+438
+gcheshire
+

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Test/rubylexer
+END
+regtest.rb
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Test/rubylexer/regtest.rb
+END
+p.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Test/rubylexer/p.rb
+END
+newsyntax.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Test/rubylexer/newsyntax.rb
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Test/rubylexer/COPYING
+END
+g.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Test/rubylexer/g.rb
+END
+w.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Test/rubylexer/w.rb
+END

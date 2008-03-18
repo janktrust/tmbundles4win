@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/74/trunk/Bundles/SWIG.tmbundle/Snippets
+END
+%feature.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/74/trunk/Bundles/SWIG.tmbundle/Snippets/%25feature.tmSnippet
+END
+%template.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/74/trunk/Bundles/SWIG.tmbundle/Snippets/%25template.tmSnippet
+END
+%ignore.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/74/trunk/Bundles/SWIG.tmbundle/Snippets/%25ignore.tmSnippet
+END
+%include.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/74/trunk/Bundles/SWIG.tmbundle/Snippets/%25include.tmSnippet
+END
+%module.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/74/trunk/Bundles/SWIG.tmbundle/Snippets/%25module.tmSnippet
+END
+%rename.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/74/trunk/Bundles/SWIG.tmbundle/Snippets/%25rename.tmSnippet
+END

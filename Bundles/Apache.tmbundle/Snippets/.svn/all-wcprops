@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/58/trunk/Bundles/Apache.tmbundle/Snippets
+END
+AllowOverride (allow).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/422/trunk/Bundles/Apache.tmbundle/Snippets/AllowOverride%20(allow).tmSnippet
+END
+Options (opt).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/58/trunk/Bundles/Apache.tmbundle/Snippets/Options%20(opt).tmSnippet
+END
+VirtualHost (vhost).plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/422/trunk/Bundles/Apache.tmbundle/Snippets/VirtualHost%20(vhost).plist
+END
+VirtualHost.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/413/trunk/Bundles/Apache.tmbundle/Snippets/VirtualHost.tmSnippet
+END

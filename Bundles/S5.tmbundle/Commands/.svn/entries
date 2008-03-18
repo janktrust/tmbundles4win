@@ -1,0 +1,76 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/S5.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Convert to HTML.tmCommand
+file
+
+
+
+
+2006-06-12T00:00:32.000000Z
+01c508064d85733e31c1dab477f090cd
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Help.tmCommand
+file
+273
+
+
+
+2007-11-12T09:18:09.000000Z
+336e0377b1cfe395e8e99cd60deb3c21
+2007-11-12T09:36:02.702961Z
+273
+gcheshire
+
+Copy theme files.tmCommand
+file
+
+
+
+
+2006-06-15T01:25:58.000000Z
+95a7a675ceffbbf6219c9355f497bbe8
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Present.tmCommand
+file
+
+
+
+
+2006-06-12T02:07:33.000000Z
+0e7af22cfbe64f73bb1a92a0e21c221f
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

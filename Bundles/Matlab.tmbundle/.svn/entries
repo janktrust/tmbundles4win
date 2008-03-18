@@ -1,0 +1,55 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Matlab.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+DragCommands
+dir
+
+Commands
+dir
+
+Preferences
+dir
+
+Snippets
+dir
+
+info.plist
+file
+262
+
+
+
+2007-11-04T00:58:40.000000Z
+99f4916f082e6802ef71e4e1c3b97ce6
+2007-11-04T01:36:58.612214Z
+262
+gcheshire
+
+Syntaxes
+dir
+

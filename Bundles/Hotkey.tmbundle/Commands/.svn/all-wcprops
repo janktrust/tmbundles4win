@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/64/trunk/Bundles/Hotkey.tmbundle/Commands
+END
+Help.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/64/trunk/Bundles/Hotkey.tmbundle/Commands/Help.tmCommand
+END
+ctrl-shift-1.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/64/trunk/Bundles/Hotkey.tmbundle/Commands/ctrl-shift-1.plist
+END
+ctrl-shift-2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/64/trunk/Bundles/Hotkey.tmbundle/Commands/ctrl-shift-2.plist
+END
+ctrl-shift-3.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/64/trunk/Bundles/Hotkey.tmbundle/Commands/ctrl-shift-3.plist
+END
+ctrl-shift-4.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/64/trunk/Bundles/Hotkey.tmbundle/Commands/ctrl-shift-4.plist
+END
+ctrl-shift-5.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/64/trunk/Bundles/Hotkey.tmbundle/Commands/ctrl-shift-5.plist
+END

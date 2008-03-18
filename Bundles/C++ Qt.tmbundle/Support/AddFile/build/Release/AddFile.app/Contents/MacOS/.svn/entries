@@ -1,0 +1,29 @@
+8
+
+dir
+278
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Support/AddFile/build/Release/AddFile.app/Contents/MacOS
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+AddFile
+file
+365
+
+
+
+2008-01-12T04:54:21.000000Z
+e789ca93170f3d05cffd1c903924e6ec
+2008-01-12T05:35:55.201433Z
+365
+gcheshire
+has-props
+

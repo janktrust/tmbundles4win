@@ -1,0 +1,280 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/HTML.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Insert Close Tag.plist
+file
+296
+
+
+
+2007-11-24T08:45:40.000000Z
+152828b9166b015539bdacec59cab289
+2007-11-24T09:36:14.757068Z
+296
+gcheshire
+
+Convert to named entities excl tags.plist
+file
+
+
+
+
+2006-09-21T17:38:29.000000Z
+803346ef4dfa2beb06dfeb0cd8ed3c51
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Persistent Include.tmCommand
+file
+
+
+
+
+2006-08-09T06:47:44.000000Z
+ddc1e89450a6122b9989e6f57594ea36
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Encrypt Line %3A Selection (ROT 13).tmCommand
+file
+
+
+
+
+2006-10-13T23:14:37.000000Z
+31f5e43d2c60486f22a107a1c48c4e53
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Decode Numeric URL Escapes in Line %3A Selection.plist
+file
+
+
+
+
+2006-07-02T13:37:01.000000Z
+a23dcde5ed2ec6388bfa190ccac952b6
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+CodeCompletion HTML Tags.tmCommand
+file
+411
+
+
+
+2008-02-15T06:46:10.000000Z
+3b25b4f309667fda3e160cc6c4a8f703
+2008-02-15T07:35:34.769081Z
+411
+gcheshire
+
+Update Includes.tmCommand
+file
+
+
+
+
+2006-08-09T06:47:44.000000Z
+22ce408366b7a27b0322e167bce685ea
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Wrap Each Selected Line in Open%3AClose Tag.plist
+file
+
+
+
+
+2006-07-29T13:40:13.000000Z
+23fd51603bf4ddfc6b4f2332fe7e136f
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Strip HTML tags.plist
+file
+
+
+
+
+2005-11-24T06:17:35.000000Z
+0eac8590bc8b3b2af0e3aef6d07f8694
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Insert Entity%E2%80%A6.plist
+file
+
+
+
+
+2007-06-10T16:57:35.000000Z
+ea5f1dbb963aaff18be0d3d1aa8cdb5d
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+About Persistent Includes.tmCommand
+file
+
+
+
+
+2007-05-08T16:20:34.000000Z
+d7194aafda7c94a724bf09254ee63f26
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+W3C validation.plist
+file
+
+
+
+
+2007-07-27T04:12:46.000000Z
+9413cea1ea9311f077034c45a385607c
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Tidy.plist
+file
+204
+
+
+
+2007-09-26T01:52:40.000000Z
+2a84236edc5f6742678c54579e08d226
+2007-09-26T02:36:18.348449Z
+204
+gcheshire
+
+Refresh All Active Browsers.plist
+file
+
+
+
+
+2007-02-12T10:35:37.000000Z
+8db86604fd86b6074f0565ede03fd942
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Insert Tag Pair.plist
+file
+
+
+
+
+2007-06-07T11:56:06.000000Z
+0dfc06861f76364621299ef49ececdf2
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Documentation for Tag.plist
+file
+269
+
+
+
+2007-11-10T15:15:57.000000Z
+278d80daba0a5bb780889aff7bb6196a
+2007-11-10T15:36:03.317311Z
+269
+gcheshire
+
+Decode HTML Entities.plist
+file
+
+
+
+
+2006-07-02T13:37:01.000000Z
+4792ca6a34103529f4b3494bb4efe6f1
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Convert to HTML Entities.plist
+file
+
+
+
+
+2006-07-02T13:37:01.000000Z
+d205515316792296672b05a785a9572f
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Convert Line %3A Selection to URL Escapes.plist
+file
+
+
+
+
+2006-10-12T01:37:31.000000Z
+e35a578587007ae33328c7ff8497075c
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Preview in All Active Browsers.plist
+file
+294
+
+
+
+2007-11-22T06:57:43.000000Z
+ab818833ae2c8264d19ac1430e630ee7
+2007-11-22T07:36:27.069745Z
+294
+gcheshire
+
+CodeCompletion HTML Attributes.tmCommand
+file
+418
+
+
+
+2008-02-17T21:25:25.000000Z
+27635bacd0e6d02af37794c581750fce
+2008-02-17T21:35:30.614331Z
+418
+gcheshire
+

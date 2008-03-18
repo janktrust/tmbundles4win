@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Nemerle.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:33:31.978846Z
+69
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Compile & Run.tmCommand
+file
+
+
+
+
+2006-10-01T09:45:42.000000Z
+aa134a305738d32d8e56f4147bc92377
+2007-07-29T06:33:31.978846Z
+69
+gcheshire
+
+Compile Macro.tmCommand
+file
+
+
+
+
+2006-10-01T09:45:42.000000Z
+0d72ddeab5dc82110949963b3f7c2fd5
+2007-07-29T06:33:31.978846Z
+69
+gcheshire
+
+Compile Library.tmCommand
+file
+
+
+
+
+2006-10-01T09:45:42.000000Z
+ad0e477af8361bec1789eeb5bd6764eb
+2007-07-29T06:33:31.978846Z
+69
+gcheshire
+

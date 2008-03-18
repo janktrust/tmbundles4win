@@ -1,0 +1,58 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Context%20Free.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T05:59:03.747568Z
+57
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Commands
+dir
+
+Preferences
+dir
+
+Snippets
+dir
+
+info.plist
+file
+
+
+
+
+2007-03-04T20:11:31.000000Z
+08264adcf79c45a3d37877f4dbfb6b63
+2007-07-29T05:59:03.747568Z
+57
+gcheshire
+
+Support
+dir
+
+Syntaxes
+dir
+
+Templates
+dir
+

@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/ActionScript.tmbundle/Templates/MTASC%20Sample.tmTemplate
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+info.plist
+file
+238
+
+
+
+2007-10-19T12:42:03.000000Z
+597066c4c023e9e65c8da969222800b9
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+class.as
+file
+238
+
+
+
+2007-10-19T12:42:03.000000Z
+e6a64d6c9e997861777e8e0592303b00
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+

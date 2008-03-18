@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Pascal.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Preferences
+dir
+
+Commands
+dir
+
+Snippets
+dir
+
+info.plist
+file
+235
+
+
+
+2007-10-17T19:19:12.000000Z
+ee996ebdc27daf29dc14e9f05621168c
+2007-10-17T19:36:17.105427Z
+235
+gcheshire
+
+Syntaxes
+dir
+

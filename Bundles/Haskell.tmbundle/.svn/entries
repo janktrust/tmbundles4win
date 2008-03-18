@@ -1,0 +1,55 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Haskell.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Commands
+dir
+
+Preferences
+dir
+
+Snippets
+dir
+
+info.plist
+file
+200
+
+
+
+2007-09-24T08:54:02.000000Z
+72f23bb549e727f53b28c06ca271d957
+2007-09-24T09:37:05.874466Z
+200
+gcheshire
+
+Support
+dir
+
+Syntaxes
+dir
+

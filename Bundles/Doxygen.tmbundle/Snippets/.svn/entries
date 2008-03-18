@@ -1,0 +1,208 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Doxygen.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Class (dxc) Cocoa.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+622a9baa7ce6afb0f8ecf34831234f3d
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Class PHP doc only.tmSnippet
+file
+
+
+
+
+2006-11-27T18:53:20.000000Z
+d7421af103e113f6efb3008edafb24e2
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Doxygen Private Section.plist
+file
+
+
+
+
+2006-09-02T10:07:17.000000Z
+6a8f621a9e9a666164f5bddd6469b60b
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Doxygen Public Section.plist
+file
+
+
+
+
+2006-09-02T10:07:17.000000Z
+5908667301c2115b5e691d946688d09f
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Block Comment (with Doxygen2).tmSnippet
+file
+
+
+
+
+2006-10-27T22:37:42.000000Z
+019f766d9165c145e8aacfb1809fb974
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Doxygen class.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+18c8f7dad9a03c52ef197f88b936954b
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Doxygen class variable.plist
+file
+
+
+
+
+2006-09-02T10:07:17.000000Z
+50668b2e33b762ad784a2a9e8ab957c4
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Doxygen page.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+6da75d382dcc12c61c778e23046194f9
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Function (dxf) Cocoa.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+bb25352881b9d23da4f4dd4ce82419d2
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Page (dxp) PHP Template.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+c887d5817d26bdecd57e712eca4f0c48
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Page (dxp) Cocoa.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+9c2650e83a827a02f1083b34ff43133c
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Block Comment (with Doxygen).tmSnippet
+file
+
+
+
+
+2006-10-27T22:37:42.000000Z
+55b46ee2a6e5c4354098a0c4a899bc0d
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Group (dxg).plist
+file
+
+
+
+
+2006-09-02T10:07:17.000000Z
+ebedeb36cd631140d3b47d0e65a78107
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Class variable (dxv) Cocoa.plist
+file
+
+
+
+
+2006-09-02T10:07:17.000000Z
+2244287ac3e2707ec34ab9c8504688f2
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+Doxygen function.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+b86be0816384cf6ded9e073112c5b9d1
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+

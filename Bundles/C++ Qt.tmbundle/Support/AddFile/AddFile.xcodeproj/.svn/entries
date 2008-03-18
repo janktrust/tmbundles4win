@@ -1,0 +1,52 @@
+8
+
+dir
+278
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Support/AddFile/AddFile.xcodeproj
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+mblsha.mode1v3
+file
+365
+
+
+
+2008-01-12T04:54:21.000000Z
+9eb172029c37a49df843502ce1346f32
+2008-01-12T05:35:55.201433Z
+365
+gcheshire
+
+project.pbxproj
+file
+365
+
+
+
+2008-01-12T04:54:21.000000Z
+a9791d3c935bfe76674de0a952f519f4
+2008-01-12T05:35:55.201433Z
+365
+gcheshire
+
+mblsha.pbxuser
+file
+365
+
+
+
+2008-01-12T04:54:21.000000Z
+bb327e479db7c37a53383ecf6b869a76
+2008-01-12T05:35:55.201433Z
+365
+gcheshire
+

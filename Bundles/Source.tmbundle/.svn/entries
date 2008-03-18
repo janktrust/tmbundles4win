@@ -1,0 +1,55 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Source.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Commands
+dir
+
+Preferences
+dir
+
+Macros
+dir
+
+Snippets
+dir
+
+info.plist
+file
+262
+
+
+
+2007-11-04T00:58:40.000000Z
+c00e2bb1e9c14309ffae47139dd54ac0
+2007-11-04T01:36:58.612214Z
+262
+gcheshire
+
+Support
+dir
+

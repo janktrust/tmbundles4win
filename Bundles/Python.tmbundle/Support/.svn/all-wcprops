@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support
+END
+tmproj.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/tmproj.py
+END
+docmate.py
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/docmate.py
+END
+pymate_output.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/pymate_output.py
+END
+pymate.py
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/pymate.py
+END
+browse_pydocs.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/browse_pydocs.py
+END
+getpyencoding.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/getpyencoding.pl
+END
+cleanup_whitespace.py
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/cleanup_whitespace.py
+END

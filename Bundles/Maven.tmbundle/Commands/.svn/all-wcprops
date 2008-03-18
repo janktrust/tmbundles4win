@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands
+END
+arbitrarytaskinshell.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/arbitrarytaskinshell.tmCommand
+END
+verify.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/verify.tmCommand
+END
+install.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/install.tmCommand
+END
+runArbitraryTask.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/runArbitraryTask.tmCommand
+END
+Redo Previous Task (in shell).tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/Redo%20Previous%20Task%20(in%20shell).tmCommand
+END
+redoprevioustask.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/redoprevioustask.tmCommand
+END
+test(focused).tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/test(focused).tmCommand
+END
+Compile 2.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/Compile%202.tmCommand
+END
+Release Perform.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/Release%20Perform.tmCommand
+END
+test.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/test.tmCommand
+END
+clean.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/clean.tmCommand
+END
+arbitrarytask.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/arbitrarytask.tmCommand
+END
+site%3Arun.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/site%253Arun.tmCommand
+END
+testCurrentFile.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/testCurrentFile.tmCommand
+END
+integrationTest.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/integrationTest.tmCommand
+END
+Release Clean.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/Release%20Clean.tmCommand
+END
+Release Rollback.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/Release%20Rollback.tmCommand
+END
+package.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/package.tmCommand
+END
+profilemanager.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/profilemanager.tmCommand
+END
+deploy.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/deploy.tmCommand
+END
+Release Branch.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/Release%20Branch.tmCommand
+END
+Release Prepare.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/Release%20Prepare.tmCommand
+END
+integration-test.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/452/trunk/Bundles/Maven.tmbundle/Commands/integration-test.tmCommand
+END

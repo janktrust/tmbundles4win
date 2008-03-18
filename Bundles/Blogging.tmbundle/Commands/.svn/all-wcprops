@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands
+END
+Preview.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands/Preview.tmCommand
+END
+Post to Weblog.plist
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands/Post%20to%20Weblog.plist
+END
+Setup Blogs.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands/Setup%20Blogs.tmCommand
+END
+Blog (blog).tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands/Blog%20(blog).tmCommand
+END
+Help.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/273/trunk/Bundles/Blogging.tmbundle/Commands/Help.tmCommand
+END
+Fetch Post.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands/Fetch%20Post.plist
+END
+Fetch Categories.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands/Fetch%20Categories.tmCommand
+END
+View Post.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/59/trunk/Bundles/Blogging.tmbundle/Commands/View%20Post.tmCommand
+END

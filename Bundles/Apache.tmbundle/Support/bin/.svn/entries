@@ -1,0 +1,42 @@
+8
+
+dir
+343
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Apache.tmbundle/Support/bin
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-12-22T21:36:12.340810Z
+343
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+apache_doc.rb
+file
+402
+
+
+
+2008-02-11T14:34:02.000000Z
+3e60a58c4a006749bf4b877626ce830b
+2008-02-11T14:35:38.619328Z
+402
+gcheshire
+has-props
+
+tailLog
+file
+
+
+
+
+2007-12-22T20:53:27.000000Z
+0aa125f1b34e0371f2b3f269d490e01f
+2007-12-22T21:36:12.340810Z
+343
+gcheshire
+has-props
+

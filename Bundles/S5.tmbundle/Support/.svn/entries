@@ -1,0 +1,46 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/S5.tmbundle/Support
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+s5.tmpl
+file
+
+
+
+
+2006-07-15T16:19:44.000000Z
+b1fcfb992b661f25ccb55deac4074ea7
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+lib
+dir
+
+ui
+dir
+

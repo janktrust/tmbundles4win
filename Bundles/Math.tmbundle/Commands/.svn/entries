@@ -1,0 +1,136 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Math.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Evaluate and Replace Expression.plist
+file
+
+
+
+
+2005-11-27T21:33:03.000000Z
+a3229bf5fcdf749174c23ae0a6a4aafb
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Evaluate Expression.plist
+file
+
+
+
+
+2005-11-24T06:17:35.000000Z
+a2dff50d438f273022739dffaf06f193
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Decimal to Octal.tmCommand
+file
+
+
+
+
+2006-09-13T18:21:51.000000Z
+9911c20dcda0cca0282d01bc90544104
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Evaluate, Round and Replace Expression.plist
+file
+
+
+
+
+2006-04-27T04:12:50.000000Z
+5cb940911b521ab7b967c8033900f588
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Hex to Decimal.tmCommand
+file
+
+
+
+
+2006-06-06T16:31:33.000000Z
+0ea4e5bf253bd996e5aa333880a92ea5
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Decimal to Hex.tmCommand
+file
+
+
+
+
+2006-06-05T14:27:14.000000Z
+40d9b03b35de5fc9f68e1e01769c0b61
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Subtract Selected Numbers.plist
+file
+
+
+
+
+2005-11-24T06:17:35.000000Z
+c8a801079fb4e63407a1bef5998099a7
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Add Selected Numbers.plist
+file
+
+
+
+
+2007-03-04T23:07:34.000000Z
+622f2a10617f657db17368f39be11275
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Send Line %3A Selection to Google Calculator.tmCommand
+file
+
+
+
+
+2007-05-02T01:43:07.000000Z
+a7105fab4951a054ce201cd4a4ec12fd
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+

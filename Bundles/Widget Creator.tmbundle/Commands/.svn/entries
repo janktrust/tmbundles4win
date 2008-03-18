@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Widget%20Creator.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:19:38.182606Z
+77
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Create Widget Calling Current Document.tmCommand
+file
+
+
+
+
+2006-11-25T04:28:05.000000Z
+51c77e1401bfa23bbc91f8d389db492b
+2007-07-29T07:19:38.182606Z
+77
+gcheshire
+
+Create Widget With Contents of Document.tmCommand
+file
+
+
+
+
+2006-11-25T04:28:05.000000Z
+8817f1dc930afb8125aecce75eea7b52
+2007-07-29T07:19:38.182606Z
+77
+gcheshire
+
+Help.tmCommand
+file
+
+
+
+
+2006-11-23T17:44:28.000000Z
+f822f209e99c1fadb0559aaf1d56d24f
+2007-07-29T07:19:38.182606Z
+77
+gcheshire
+

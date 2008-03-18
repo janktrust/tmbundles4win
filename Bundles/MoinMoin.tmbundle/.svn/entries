@@ -1,0 +1,58 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/MoinMoin.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Commands
+dir
+
+Preferences
+dir
+
+Snippets
+dir
+
+info.plist
+file
+274
+
+
+
+2007-11-12T10:02:07.000000Z
+9dfbb731410dd01c8130ecf32faa4f4c
+2007-11-12T10:36:09.084824Z
+274
+gcheshire
+
+Support
+dir
+
+Syntaxes
+dir
+
+Templates
+dir
+

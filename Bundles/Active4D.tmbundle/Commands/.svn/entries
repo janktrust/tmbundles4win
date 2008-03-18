@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Active4D.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Build Query.plist
+file
+
+
+
+
+2006-08-28T18:47:45.000000Z
+af2b909f7654d26a181e83b0ee060e4d
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Open Include File.plist
+file
+
+
+
+
+2006-05-26T06:20:45.000000Z
+a74c912a7c3373f20250039218a3632a
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+New Circuit.tmCommand
+file
+
+
+
+
+2006-07-17T01:30:42.000000Z
+04b0229d376ed580fa619d013c6187b0
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+

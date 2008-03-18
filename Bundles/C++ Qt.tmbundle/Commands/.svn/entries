@@ -1,0 +1,220 @@
+8
+
+dir
+139
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+Documentation for Word %3A Selection (fuzzy).tmCommand
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+97235eab3231cdc58ea03d710b4b9139
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Class Declaration with Doxygen.tmCommand
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+f56c854b2531436ba464fdeb6465ed0a
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Display Fuzzy Documentation.tmCommand
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+13f20c2e1298961cb864d6edce975c15
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Declaration to Implementation (with Doxygen).tmCommand
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+39f5b787dbacd72b6230e63b52ab19e6
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Documentation for Word %3A Selection.tmCommand
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+e267564a93c4a46ba2dd23f838336975
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Class Declaration.tmCommand
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+00d4669566b89f7e4e87b30dd557cdd6
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Reformat Block Comment.tmCommand
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+e9885a4ec96ee015de4252f75c1d817e
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Insert Call to Super.tmCommand
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+0884f604b2f38c0340522d47663bd56f
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Add File.tmCommand
+file
+278
+
+
+
+2007-11-13T04:41:29.000000Z
+989bcd4d3e57d4cae1062862b35890b6
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+Run Application.tmCommand
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+30c90e2b1ed90f36560dcf24387508bb
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Build & Run.tmCommand
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+840bbc91ac906ed7400edd5626618924
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+qmake Manual.tmCommand
+file
+
+
+
+
+2006-10-04T22:20:54.000000Z
+fb6eee81d8e1316ee35983187b0c3499
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Implementation to Declaration.tmCommand
+file
+348
+
+
+
+2007-12-24T22:40:40.000000Z
+864874607c56db63608b490d684ad47b
+2007-12-24T23:35:54.113606Z
+348
+gcheshire
+
+Declaration to Implementation.tmCommand
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+0e748dd510e0d893b3fe43734c4a2aae
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Display Documentation.tmCommand
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+a085d3ccfec3e28fe763d90aa9f3552c
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Build.tmCommand
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+676adf2826003aa832fdb022ff25cd21
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+Doc Lookup.tmCommand
+file
+
+
+
+
+2006-10-04T22:20:54.000000Z
+48d1ceff58f724740d6c15476431dd32
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+

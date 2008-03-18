@@ -1,0 +1,58 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/F-Script.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-30T19:05:04.169143Z
+81
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Preferences
+dir
+
+Commands
+dir
+
+Macros
+dir
+
+Snippets
+dir
+
+info.plist
+file
+
+
+
+
+2007-03-04T20:11:31.000000Z
+e42f3b4cf7e61164eb6840d1963e2e5c
+2007-07-29T06:14:09.767613Z
+62
+gcheshire
+
+Support
+dir
+
+Syntaxes
+dir
+

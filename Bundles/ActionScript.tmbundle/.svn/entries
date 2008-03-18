@@ -1,0 +1,58 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/ActionScript.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Commands
+dir
+
+Preferences
+dir
+
+Snippets
+dir
+
+info.plist
+file
+167
+
+
+
+2007-09-11T08:22:13.000000Z
+93a19a9623fa6ebbc1d7962d1112eac4
+2007-09-11T08:36:20.111602Z
+167
+gcheshire
+
+Support
+dir
+
+Syntaxes
+dir
+
+Templates
+dir
+

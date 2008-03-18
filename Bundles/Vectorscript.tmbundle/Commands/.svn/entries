@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Vectorscript.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:18:28.960399Z
+76
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Help.tmCommand
+file
+
+
+
+
+2007-05-08T16:23:08.000000Z
+332423af58b7edd83d5eb483e6035f2f
+2007-07-29T07:18:28.960399Z
+76
+gcheshire
+
+Lookup.tmCommand
+file
+
+
+
+
+2006-08-29T17:48:38.000000Z
+36f056b25b4a77303bc09ec43cadfd11
+2007-07-29T07:18:28.960399Z
+76
+gcheshire
+

@@ -1,0 +1,28 @@
+8
+
+dir
+160
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/RSpec.tmbundle/Syntaxes
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-09-10T16:37:13.379372Z
+160
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+RSpec.tmLanguage
+file
+
+
+
+
+2007-09-10T15:39:18.000000Z
+ea1a986ffab2a9c3e0e5857f3993fcb3
+2007-09-10T16:37:13.379372Z
+160
+gcheshire
+

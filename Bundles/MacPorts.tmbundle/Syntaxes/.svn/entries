@@ -1,0 +1,40 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/MacPorts.tmbundle/Syntaxes
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+MacPorts Portfile.tmLanguage
+file
+471
+
+
+
+2008-03-08T23:31:53.000000Z
+ac489415c8d00438239bab469dface8c
+2008-03-08T23:35:21.256779Z
+471
+gcheshire
+

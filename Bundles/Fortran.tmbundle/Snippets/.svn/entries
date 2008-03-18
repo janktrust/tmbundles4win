@@ -1,0 +1,1084 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Fortran.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:14:09.767613Z
+62
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Equality.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+aa057ad8d82790c68d42aa7b8d8736aa
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Open.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+f180c2d00c6a97c30ff0988a96efb083
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+merge.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+b342a6f364e7998eaa4c16e155d549f9
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+subroutine.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+98a13b593336dd20951b0c59eefda2e6
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+named%3A do.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+af1f93ec84260708cfb8b37be1f547b1
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Not.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+4587fe457644d3bcb03259ee1421fefc
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+And.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+561487abcc7b50eb12cfaf6ac999ebc8
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Minimum Value.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+55dd5232a48b429c92fad3a0a22c58ba
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Custom Type.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+1223ba619ad4666bacb5dadf6b9dcfe0
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+read (Sequential Access).tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+f8a3d739251dfa7826c84a5e8714748b
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+data.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+78ae0b8f8c30dabc559aff3fbb4a18b6
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Maximum Value.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+efbd201d3ae4e2d94093e109541c6bc7
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+where.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9db5f1d4593821b65d9f8c220089549f
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+case.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+46bdeab4c32da2dc9e0bd5908f2abdc5
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Or.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9f0ed7c8b70f8919b085f84a86e36740
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Less Than.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+e4a0950ba2746210523ae82cbf299d85
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Upper Bound.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+8b5cb9d1ecb88e48476f6eba7c57795b
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Allocate and Deallocate array.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+f9304c970e4425bcc2215afcd67cc3cc
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+module.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9d3649d9a68cc56f781ba1b20005f10f
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Non-Equality.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+13776c253eccc7d6029f01c581f2dc14
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Write.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+87ded0fdd453cfcdbcf6dd569c9d4355
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Random Number.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+ae3a5220ebda6eeb598d37fe6e65317d
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Integer.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+3782e9540bf62dd25ad14338e88be709
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Type Definition.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+5d8f5343840c2fe2c84eb5351dfd984c
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+implicit none.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+6c8c36199eb95ca3c270897d2ab67754
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Deallocate Array.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+342a9454c059db92b2a890bc3c6e6aa2
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+module procedure.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+5d853cb0d43ac8e13f071fa9bcfcc5c8
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Close File.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+c54a1820bc05d31f9809d9839c93f50a
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+where (single line).tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+bdc953a0d2cbba1c1b0696376df0d201
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Logical.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+301ba0a5c152fe9a56c66fee1d2a8803
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+program.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9f9927057fcb6b0781e5e2560cb395f4
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+named%3A select case.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+8b59f3edbc2ab40b4c16e6a28b12c796
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Size.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+95e9d3ab57e6822cb6a088aaf2a52e7a
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+select case.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9ef61bd956f5f1546ef8c61f94895c4e
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Custom Type.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+04ccbb0c91e6a28bcfe4be4371273ea4
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+_TRUE_.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+4b4cd591302f4be450c888777d1d33af
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+pack.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+f2021104cd5538d8bf9250940af733c6
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Random Seed.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+c2c1e66e5e07294d294edef0726131a1
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Sum of Elements.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+2dbacde66c490f56d658fb9567e3f56f
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+count.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+918c6cc4f9c42af2c0d963f69e132c0b
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Index of Minimum.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9f08df24ee0291d0313071736e209530
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Index of Maximum.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+42044c29c8d82fe27aa4c900f0e34fb2
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+do while.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+3c4ff25e53dd235c07f7d7467f6bfb3d
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Character.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+30afac6aa453e2cf08af7650711df202
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Integer.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+d28725914deb98eb03ef1734b2b2871d
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Input File.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+2133ec17bb0d313036af226abdb095f0
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Less or Equal.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+92b1097142028ebf8292c41fe0b04ea8
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Output File.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+fcf11b1e0da35b8c44e74e6ab84f5188
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+do.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+38df2a65ce3634494e56dd7cd38d01ea
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Greater Than.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+87024661882d3d75d9d4d70bf553df82
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+elseif.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+41d04760d2308223333f94fc2c1cb69c
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Read.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+deae658c145ca2510b8c869c1b6115ba
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Logical.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+fca0da7642a765e7ad865fe6a46d139e
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+write (Sequental Access).tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+0d6161dd2563a49d1f97aeecad867f09
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Real.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+146c31ce07f49305089a39c618c6e2e7
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Dot Product of Vectors.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+dfb0d33ab46e9cdb3ea135d4e543fea1
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Line Continuation.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+5985b61704b10aa2a6b9c2c7325d9023
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Allocate Array.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+b9d4466c42d46be7d5199d9e59125ac5
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Real.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+0835feffe30784d02070aa846835f985
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+min.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+488d5f76f7fe4711ebce3ae41afcd9bc
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Wrap Selection in Array Brackets.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+675759ad4c2543a36981f1b0ae4af643
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+max.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+dac020d2f36f25864e5a7a0292a98e88
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Quick Character.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+c881bd2a9d99b45182db50d4af30501c
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+print.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+aa919e9afc5777f1c9255135807594a5
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+if.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+1fab1dac5748f048731a675ae5c80805
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+cycle.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+1541cabdd98dde7dea2af18aec2c19c9
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+interface.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+3e372624495190e23b23bf516fcc9b18
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Open File.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+3b2bd1dfabe151b681bebc1ec079676e
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Product of Elements.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9eaf71ec302fb40cc21ebf3ca28bc4b4
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Implied do.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+3d5e99f2bede07bd0e90718fb952b0c7
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Equal.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+f60d4dbb4f6c08daf4c27000724f0773
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+all.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+8fbae877aafb7905b0bea83260235903
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+read.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+2cd49f423fe1fd23a0f6c16e7e1ea2a7
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+spread.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+9171e3a061f40552c46850cb3d0732fc
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+forall.tmSnippet
+file
+417
+
+
+
+2008-02-16T17:03:08.000000Z
+bf52527677ae6ae43912ec59283beced
+2008-02-16T17:35:27.971755Z
+417
+gcheshire
+
+Lower Bound.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+e2683fcbc4fffb289ec46493061385a5
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+unpack.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+829c7e5135a4b8fb21b92d159f1e1d01
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Greater or Equal.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+584fff793a320ee54784bfa12f0a5a7c
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Matrix Multiplication.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+82274cf7b66f6737f5469a517efa61e2
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+stop.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+7cb2d32868031f369444cff11564f1fd
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+function.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+6d1e863dbc11a6b7df4a349834c334f5
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Scratch File.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+1444efdb73484cf67c2fa12d05293b13
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+reshape.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+7a8ef334decbf2448edadb0854d2e306
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+any.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+f7c3c5d8533b3e204db702ec0e43eeca
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+_FALSE_.tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+2b66888312eb6bebfd1da7440668b07a
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Inquire (by Unit).tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+b5a0c40f1674e0dbc12fd94fca66c741
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+Inquire (by Filename).tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+e89ec0a9d29a5a4ee8355fb7ab1d67d9
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+
+if (single line).tmSnippet
+file
+337
+
+
+
+2007-12-18T08:42:10.000000Z
+31aaa479e2863c3f0a6b6cf6a45f277a
+2007-12-18T10:36:50.235537Z
+337
+gcheshire
+

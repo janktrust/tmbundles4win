@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/57/trunk/Bundles/CVS.tmbundle/Support
+END
+versioned_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/57/trunk/Bundles/CVS.tmbundle/Support/versioned_file.rb
+END
+cvs_commit.rb
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/57/trunk/Bundles/CVS.tmbundle/Support/cvs_commit.rb
+END
+cvs_diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/57/trunk/Bundles/CVS.tmbundle/Support/cvs_diff.rb
+END
+diff.rb
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/57/trunk/Bundles/CVS.tmbundle/Support/diff.rb
+END
+working_copy.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/57/trunk/Bundles/CVS.tmbundle/Support/working_copy.rb
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Support/RakeMate
+END
+run_rake_task.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Support/RakeMate/run_rake_task.rb
+END
+rake_mate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/73/trunk/Bundles/Ruby.tmbundle/Support/RakeMate/rake_mate.rb
+END

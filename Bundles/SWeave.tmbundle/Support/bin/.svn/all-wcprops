@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/74/trunk/Bundles/SWeave.tmbundle/Support/bin
+END
+latexmk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/74/trunk/Bundles/SWeave.tmbundle/Support/bin/latexmk.pl
+END
+LaTeXTidy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/74/trunk/Bundles/SWeave.tmbundle/Support/bin/LaTeXTidy.pl
+END
+latexErrWarnHtml.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/74/trunk/Bundles/SWeave.tmbundle/Support/bin/latexErrWarnHtml.py
+END

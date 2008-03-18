@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/78/trunk/Bundles/Xcode.tmbundle/Support/bin
+END
+run_xcodebuild.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/319/trunk/Bundles/Xcode.tmbundle/Support/bin/run_xcodebuild.sh
+END
+xcode_to_tmproj
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/78/trunk/Bundles/Xcode.tmbundle/Support/bin/xcode_to_tmproj
+END
+find_objroot.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/409/trunk/Bundles/Xcode.tmbundle/Support/bin/find_objroot.rb
+END
+xcode_version.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/189/trunk/Bundles/Xcode.tmbundle/Support/bin/xcode_version.rb
+END
+format_build.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/113/trunk/Bundles/Xcode.tmbundle/Support/bin/format_build.rb
+END
+format_build_output.rb
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/243/trunk/Bundles/Xcode.tmbundle/Support/bin/format_build_output.rb
+END
+find_xcode_project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/78/trunk/Bundles/Xcode.tmbundle/Support/bin/find_xcode_project.rb
+END
+xcode_project.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/78/trunk/Bundles/Xcode.tmbundle/Support/bin/xcode_project.rb
+END
+parse_build.rb
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/472/trunk/Bundles/Xcode.tmbundle/Support/bin/parse_build.rb
+END
+run_xcode_target.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/332/trunk/Bundles/Xcode.tmbundle/Support/bin/run_xcode_target.rb
+END

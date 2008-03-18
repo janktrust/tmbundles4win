@@ -1,0 +1,1960 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Groovy.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+class ___ TestCase.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+a76544993cf1e32017a950d2042e165b
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+final var.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+128589618f314a2ce88ad0b21e468d18
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+tearDown().tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+dbe7394b29073e59ca333448bbc45915
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+class __ with constructor.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+81b1deeb03ee32e8d34de2982f875472
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+assertSame.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b2544026ed5919c4977e706d4df0e4d3
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+Thread_start { __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+9915374b07e5fb021d7a8ef5a1558239
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+each pair map.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+e4e3f6a53f6cf413fe750f58f976adfc
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+static final var.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+d4bbfcacfbd5f221092bb139fb941a37
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+private void method() { %E2%80%A6 }.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+f9d37cb12aba12a9070b83a04c5403cb
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+to Double.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+81c627e8f1fcb21746817339a1a6aeb2
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+for in.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+2b9160006f6d3dd9e55a096372cb16b3
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to List.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+faf1a98c799706aca17306eba322b3cf
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+class __ singleton.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+d581efde93509f25d34b5e11cba2d008
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+New Closure.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+9a86d480776014cfa9b44fe83ac27379
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+as Float.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+58ac0d608afb325931788ca21c8e8224
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+eachFileRecurse { file -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+fc9d4173e37193b49d5273ec1938525b
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+while ___ {___}.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+9bce2645ffa4c1c200563a480d758256
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+private static var.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+30d023d674d479429f59ac24e1692e49
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+else %E2%80%A6.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+57f7fab4bf2240975f7ed401c2d1b1af
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+as Writable.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+efe901fbbae30ba5fb2f817ac785964b
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+#!%3Ausr%3Alocal%3Abin%3Agroovy -w.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b2e6f6aa67f5573eaf3669b0f7c544d7
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachFile { file -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+bb538e2dd3785125deec72ce5c554aec
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to URL.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+3c5ea0abc4a604d9707a78b5c2314377
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+private method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+0e74d818757bd098cb8e9459e8410c44
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+def __ closure = {__} .tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b0c20bf0f656dd22a9b591f09b1a1c3c
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+Ant __ replace.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+95e92adfe00b41fbe88764c2578b74b9
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+Block Comment.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+f0736a5c5ea77b5b9146d9bece7ba9b4
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachLine { line -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+a73146273e1dedd10fbbe31f5afd94b6
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+def test __ {__}.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+aaa3d00f78e3db70a92d67f7ee234e03
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+new File(__)_eachLine { __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+8c5510e5d50286f9cbea39f531d16e3e
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+static .tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+2ae1c5fcd0f44b06a84ab3cd03374eb2
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+downto(num) { n -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+9e902255a79661b426710316616f0b78
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+try __ catch__ finally.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+34895672e0b776a40165686f44469e43
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+private static final.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+286a679196b50fedc4300287453eba5c
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+withInputStream { in -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+1a49f7654b2d7234f48a08e0391b614c
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachDir { dir -%3E __ } .tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+6f5357d4068263397b930093d4c6540a
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+every { e -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+bb03ac0b9d60944c17e57046e85063a4
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to Character.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+68f1027da4ba676243b63a06049c4412
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+eachValue { val -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+4f7ceda96fd7af45052d99cce5f6b9a6
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+assertTrue.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+92cf53156070cddcf45f2ff3983146d8
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+@author.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+e73dc8eb7763686cdd98292342b13245
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+as Synchronized.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+02eeb88b3d79020840ee00bfd1258b67
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+upto(num) { n -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+3c057ac9c65adc883ea3063054cc3972
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+grep(%3Apattern%3A) { match -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+99652114ea28ac1493b00b59797b5926
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+assertNull(__).tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b235d6285cef32fb82bafa4588e0a57e
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachDirMatch.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+4d19fc7cee7c06ffe9a20a63f62181a9
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+withStream { in -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+f9db79e6caff7c90cd92bf58fedc2ade
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+setUp().tmSnippet
+file
+314
+
+
+
+2008-01-11T04:28:20.000000Z
+739979939589c20a508cb9ee1bf6cc57
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+to Array.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+3eb5f0b6bb22d342e8f5814b9956e4ee
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+eachKey { key -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+879f069f7d2368e0c300a2000aa951ae
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachObject { obj -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+2397e51aa3b950933c673def8c79eeb8
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to BigDecimal.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+f33a7985f31f6dc66add86057b5e3d88
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+gcl__ parseClass.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+5bd9bf94e1a144e8212eaccf2702d0b7
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+Constructor.tmSnippet
+file
+314
+
+
+
+2008-01-11T04:28:20.000000Z
+26bfa4144d2f0fee5c437a4f99141f1e
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+case %E2%80%A6 break.tmSnippet
+file
+
+
+
+
+2007-03-09T22:03:30.000000Z
+7d035d2d9698ea01f0d6c4a3a5b4907e
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+var.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+6bdb574501679cc2039d7786c9a5462a
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+else.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+57f7fab4bf2240975f7ed401c2d1b1af
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+splitEachLine(separator) { line -%3E __ } copy.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+0269988dae9d6488fb0170043aa6127a
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+withWriter(charset) { w -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b7435ed3269cc891096378d4951cb3f4
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+final method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+23bbe837099ac2b19b77d31d37ddd3f4
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+switch__case.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+7465b26870f281d53fd707af99cb0c73
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+withPrintWriter { pw -%3E __}.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b2606fc4446fe04e00286df3d909ad53
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+print.tmSnippet
+file
+431
+
+
+
+2008-02-21T14:12:26.000000Z
+91a7d6d3b7a4eaf0fe5efa27c2eeab12
+2008-02-21T14:35:31.262247Z
+431
+gcheshire
+
+private final var.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+4d82e3ebf4aa9459430ded1588c135ad
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+withWriter { w -%3E __}.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+08f4641fdef98376e077d1fe45f909ba
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+static var.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+1020fb4318aa23d835181de381760600
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+class __ with cunstructor, parent.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+b0277c36b4128462b6263318ea624010
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+static final method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+0d68e3ca1f2f091309d40c857663ee19
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to URI.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+bf26861c88e8a931beaa10281a9076bf
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+def __ method() {__}.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+0917448b020517f919d724ef3ba3011f
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+elseif ___.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b750ba99fc84d7aa550752dcdde7b89a
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachMatch(regex) { match -%3E __ } .tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+d5384584f4aefae4ce4a607c0f4aec82
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+sleep(secs).tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+401c49bf6c45f94ff3d2443132685653
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+Hash Pair %E2%80%94 key %3A %22value%22.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+6f70693683a8c7d8a6ada69ece1eb7d9
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+try __ catch__.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+40e011f1bd8c2b613610a5a426bbe8b0
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+assert(__).tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+48e72b7707b0fcdcfcd3b2d6c214caa8
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to Boolean.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+8c42209b9c005ef7c9d01726e98208d3
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+private var.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+7277ac5a906d7049735fc36d35d622d9
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachWithIndex.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+a418370ff47a6766601d17483c806c02
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+println .tmSnippet
+file
+431
+
+
+
+2008-02-21T14:12:26.000000Z
+191f8c0c2a0a837c04d2576b1f31272f
+2008-02-21T14:35:31.262247Z
+431
+gcheshire
+
+static final String.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+d23289a66829386aa0346ff1857a5013
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+sleep(secs) { __ %3A%3A on interrupt }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+c6f2c46ce8be72d560a3f90bbf046212
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+New Method.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+a3b916ed284dbfce92e1ba6407e2d1d2
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+collect { e -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+37b5c8f2e8efa2cb71f8937b37c04627
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+private static final method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+f4ddaf00d7e5334c8bb5123c98ed083f
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+collect element.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+3a748afff96501aabfebcf3ef1d76c06
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+withOutputStream { out -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+6b6f269719cf2d80d035439d50e530e8
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to Integer.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+3845c9a4b5d00a41ecfb8956cada689f
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+reverseEach { e -%3E __ } .tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b4bd81bd14dd2d714b6c4d97d4bb716a
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+as Immutable.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+d70e9b55869797d85aad112689dc7aba
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+class __ .tmSnippet
+file
+431
+
+
+
+2008-02-21T14:12:26.000000Z
+08a50ebcf8f555417368c5ef733aae58
+2008-02-21T14:35:31.262247Z
+431
+gcheshire
+
+as BigDecimal.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+43199cdb8f79240dbf519a48f3765e30
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+if else.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+e6eab92b5a649b42156bdd34be0b58b9
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to Float.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+39654d52b443f474991748bd7a56e66d
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+case.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+8d694a860d38298b69c78d9d4fb3cf3d
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+test case.tmSnippet
+file
+314
+
+
+
+2008-01-11T04:28:20.000000Z
+411d08c3f6ce95ce3ece7c96a4317b5d
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+step(to,amount) { n -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+20c49f4ab88b309660e9c170042a6ae1
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+all{ e -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+899b452d1f357f4aa0b76ab8033dc48b
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+withReader { r -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+f4a20a53262a5d3d282b5c145483c649
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to BigInteger.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+9182732d12b244e60a7a0b6073315a69
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+eachDirMatch { dir -%3E %E2%80%A6 }.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+17e5e396c4eb5b2155986b290bfe5f7e
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+private static final String.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+ff2c421375e99d732ca073b71dfa3519
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+private static %E2%80%A6.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+30d023d674d479429f59ac24e1692e49
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+as String.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+1e1a1f53aecd2fa7ae39c365eacb7b80
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+copy__ fileset include%3Aexclude.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+1c4234222777741b8d20d6afc2d5f9a7
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+static %E2%80%A6.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+082632f86c3b615f6592eaf549712b71
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+static main method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+072abf0ceae812a6634bc8334b5e07b3
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachDirRecurse { dir -%3E %E2%80%A6 }.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+745982e70c5d3d7a7672cd71b26a465a
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+switch__case__default.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+c43cc16628b6d9409ccd0c2116affcc6
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+Thread_startDaemon { __ } .tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+722f2077f3740869b759571644318dd7
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+Wrap Selection in Try%3ACatch.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+fc1bd9c9bfcc9969c60c5b21d7ecd234
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+private static method() { %E2%80%A6 }.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+cd360dbad6ec6f068eb8a4985d99c4de
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+if %E2%80%A6 else %E2%80%A6{__}.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+d5b04340e10a110153a83f8867d46064
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+each element.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+c29919b1495083dc9f619e0fe5dfd770
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+assertFalse.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+7971cadef2bffe1ec6d585a00dcf455c
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+assertNotEquals(__).tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+9c932af9a2927b0ef4898a869ef55f83
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachFileMatch { file -%3E __ } .tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+0cfec1a244bf14eaad5e1a84019bea15
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+withWriterAppend(charset) { __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+22967142db0f322c7eb183a70392f888
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+Continue Block Comment.tmSnippet
+file
+314
+
+
+
+2008-01-11T04:28:20.000000Z
+d5c00f24d768da34ca46591015ca9ee3
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+find { e -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+085e31c7d17672539310cf3984c41524
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+run after.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+f795fe7ad527ab20b9273a2b2fe369b0
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+if %E2%80%A6 {__}.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+35855b497c591fe8e6ca0058c7270748
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+as Double.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+17780b44011608a14ad376ef30dd4c02
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+times { n -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+c6b1247dac10b6629767f2c78c27b989
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+@param.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+fe69d5fd72596a2c52f15df6bc027aa5
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+static final.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+03e8e2e22d50ff645b554979f4ad39ca
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+for %E2%80%A6 in %E2%80%A6 {} 2.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+71276e31e3398d2af6b10db573adf65f
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+as BigInteger.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+9ae6602766ed076ddee5dde80bb3b2f8
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+mkdir.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+086863f9dbeed638bb34b29ee7a980bb
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+static final %E2%80%A6.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+d4bbfcacfbd5f221092bb139fb941a37
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+static method() { %E2%80%A6 }.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+2b5ab6fcdbbf171800b0d63082e680aa
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+eachByte { byte -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+5c7fb86ecae8b5f8fed1acc40268d573
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+copy__ file.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+5640f1d511c368f33d171fec66c7ff58
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+as Set.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+f65227cea52eb80e8065cafeba2080c7
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+Private Variable.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+912e34a6c03ffd09d68af024d626bfe3
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+private static method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+edb5d382452a5d80e8ca4ae22d2d8dc6
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+copy__ fileset.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+ae40527f8d989b69028d69702ea270ba
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+private final method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+ad414beb49002c8dec76958f1c8bee1e
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachDirRecurse.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+ffd79f50cf47cc0555619f47af8b5a2f
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+def %E2%80%A6 (variable).tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+b00659a402cd504438ace79008cda8c7
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+assertEquals(__).tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+20afa5261580a4da5fe15f288b7b47c5
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+@param copy.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+99c49b1e5688b1c5d2d91e6076d89bf3
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+assertNotNull(__).tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+9fee41a199d631f5573343f6cded79dd
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+replaceAll(regex) { match -%3E __}.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+a17aa7cff446928acdc805fe1371341d
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+if.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+8f8db60205297ac20068dbd3bf09bf71
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+shouldFail(__) { __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+00c6bdeda2f96938c04356b565ab5e38
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+Hash Pair.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+ba5c260858f211381db6ba5067e7bbb7
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+each { e -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+aee16d9ffd42210a490f7b4bf60e74ba
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+withStreams { Socket s -%3E __}.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+b6cba9a60046efad83e7ad9328b02828
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+to String.tmSnippet
+file
+
+
+
+
+2007-03-02T22:50:10.000000Z
+bba735ab84f206e1ecaa46b899833d00
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+class %E2%80%A6 .tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+dd816467f4bb2bdd268675e225021092
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+sort { __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+9006f6b51a58012a7503c684d2208773
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+eachWithIndex { e, i -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+ea7e192ba13f794858c8e6331a8c97b1
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+findAll { e -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+678a6245271a31b012a48fd964dcebbd
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+for %E2%80%A6 in %E2%80%A6 {}.tmSnippet
+file
+315
+
+
+
+2007-12-03T03:16:02.000000Z
+745d66aa15df8016c566b84b63ef13dd
+2007-12-03T03:37:58.178818Z
+315
+gcheshire
+
+private %E2%80%A6.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+dbe621a3a93d249f5ab4e13cf51a9cbf
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+void method() { %E2%80%A6 }.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+7c15ede56a4eb75cab7ecb1421447663
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+def __ Object.tmSnippet
+file
+
+
+
+
+2007-12-03T03:16:02.000000Z
+13f28bee48424751bdbbe35e7dcfb778
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+static method.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+434453ecd4e936c0b5b9323ce53328f6
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+
+private method() { %E2%80%A6 }.tmSnippet
+file
+314
+
+
+
+2007-12-03T01:28:46.000000Z
+9aa298f1bd0aff7c8ecedb7c5a7674b2
+2007-12-03T01:38:10.809015Z
+314
+gcheshire
+
+any{ e -%3E __ }.tmSnippet
+file
+362
+
+
+
+2008-01-11T04:28:20.000000Z
+8b5d5a48bb9395f8b2613353c1de5bcf
+2008-01-11T04:38:22.945971Z
+362
+gcheshire
+

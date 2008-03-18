@@ -1,0 +1,43 @@
+8
+
+dir
+278
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Support/AddFile/build/Release/AddFile.app/Contents/Resources
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+AppController.rb
+file
+365
+
+
+
+2008-01-12T04:54:21.000000Z
+69203b01476346f5e2b237146a2131a6
+2008-01-12T05:35:55.201433Z
+365
+gcheshire
+
+rb_main.rb
+file
+
+
+
+
+2007-11-13T04:41:29.000000Z
+55a69a52587af28cf679e8428476e266
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+English.lproj
+dir
+

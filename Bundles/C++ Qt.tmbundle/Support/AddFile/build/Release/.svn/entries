@@ -1,0 +1,19 @@
+8
+
+dir
+278
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Support/AddFile/build/Release
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+AddFile.app
+dir
+

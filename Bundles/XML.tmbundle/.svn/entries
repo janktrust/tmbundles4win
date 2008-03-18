@@ -1,0 +1,67 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/XML.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Commands
+dir
+
+Preferences
+dir
+
+Snippets
+dir
+
+info.plist
+file
+262
+
+
+
+2007-11-04T00:58:40.000000Z
+b3e58b7d7cb0241f44900020be879c6c
+2007-11-04T01:36:58.612214Z
+262
+gcheshire
+
+README
+file
+
+
+
+
+2004-12-09T14:57:38.000000Z
+a95a1c657f78485be2ce0c23548ad9b3
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Syntaxes
+dir
+
+Templates
+dir
+

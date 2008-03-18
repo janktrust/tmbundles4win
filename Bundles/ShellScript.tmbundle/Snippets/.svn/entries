@@ -1,0 +1,148 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/ShellScript.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+#!%3Ausr%3Abin%3Aenv (!env).plist
+file
+
+
+
+
+2006-10-22T13:37:55.000000Z
+2ac3fef2303ccd7d59e7ca5eacdcfb91
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+here document (here).plist
+file
+
+
+
+
+2007-03-09T20:27:50.000000Z
+4eae3e200733553fad6c6a0f4d4d02cf
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+if ... then (if).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d6e0c8565b23f7c64434632126754961
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+until %E2%80%A6 (done).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+24099eb316954dd9d1108ef355bdb1ce
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+for %E2%80%A6 in %E2%80%A6 done (forin).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+a8e0d3197186be8f72ed6223244721c7
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+elif .. (elif).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+4e97aad8aa6873a46f4ae46539146ff3
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+for ... done (for).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+4bcb230aaf70a5f1032b634cad30fe36
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+function (fun).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+9a8ce66de599d785f8ba9881ef26f746
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+case .. esac (case).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+45a38774acf95dbd459fc97ce64fc051
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+while %E2%80%A6 (done).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d72786fa63914850fd0fb8c7cf19d0db
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/PyMate
+END
+pymate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/390/trunk/Bundles/Python.tmbundle/Support/PyMate/pymate.rb
+END
+plistlib.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/317/trunk/Bundles/Python.tmbundle/Support/PyMate/plistlib.py
+END
+tmhooks.py
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/390/trunk/Bundles/Python.tmbundle/Support/PyMate/tmhooks.py
+END
+sitecustomize.py
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/71/trunk/Bundles/Python.tmbundle/Support/PyMate/sitecustomize.py
+END

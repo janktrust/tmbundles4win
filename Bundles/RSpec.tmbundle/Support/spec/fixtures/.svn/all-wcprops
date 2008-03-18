@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/160/trunk/Bundles/RSpec.tmbundle/Support/spec/fixtures
+END
+example_failing_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/160/trunk/Bundles/RSpec.tmbundle/Support/spec/fixtures/example_failing_spec.rb
+END
+example_passing_spec.rb
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/160/trunk/Bundles/RSpec.tmbundle/Support/spec/fixtures/example_passing_spec.rb
+END

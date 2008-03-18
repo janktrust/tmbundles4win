@@ -1,0 +1,256 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Scilab.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+plot(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+985c4ca3516e0258a3a8dcd4e1ab1dfa
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+eye(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+3ef99e107680a616a13ca4cd6199fde3
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+getd(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+35094c600554c84598cf9c6e8f6ec2f1
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+exec(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+624a3da5a07f136a2f382d2c5e584ccb
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+getf(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+92f0ee529081f2d980f288e40031fdc7
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+elseif.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+3476cc6d6fdb17bef63909bfcce88ba9
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+get_absolute_file_path(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+b0e2f094d3f6de0c3cb90cb619904aa0
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+for ___ end.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+c14143d7a0a0fff5e40fac624a8876b2
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+case.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+5ca17242638671eedae659ac6bba1d83
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+legend(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+1fb018564c5791ca93c8739f3bff2005
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+zeros(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+ae12e4e958884b5ff6870ab44045e67c
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+if ___ end.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+ec05dd9870ef8caa07626786d944532d
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+ones(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+3c70c66bb29e7af2f744225b20fe9e38
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+plot3d(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+e1eacc3557092e5b981c84e658a2eb8f
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+function.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+fd6c794141ec6452563b1ec1ec3f4830
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+xtitle(__).tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+c596d743c6f0195782f6aafa8b271218
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+if ___ else ___ end.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+f690486cd1fdced7b81508eb395e7352
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+select ___ case ___ end.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+171c14c425ba50fb2a3f13d6717e1c6f
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+while ___ end.tmSnippet
+file
+
+
+
+
+2007-03-06T10:43:26.000000Z
+c1e090b559952929329b46d97a935a7a
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

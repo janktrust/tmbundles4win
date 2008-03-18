@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands
+END
+Insert Close Tag.plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/296/trunk/Bundles/HTML.tmbundle/Commands/Insert%20Close%20Tag.plist
+END
+Convert to named entities excl tags.plist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Convert%20to%20named%20entities%20excl%20tags.plist
+END
+Persistent Include.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Persistent%20Include.tmCommand
+END
+Encrypt Line %3A Selection (ROT 13).tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Encrypt%20Line%20%253A%20Selection%20(ROT%2013).tmCommand
+END
+Decode Numeric URL Escapes in Line %3A Selection.plist
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Decode%20Numeric%20URL%20Escapes%20in%20Line%20%253A%20Selection.plist
+END
+CodeCompletion HTML Tags.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/411/trunk/Bundles/HTML.tmbundle/Commands/CodeCompletion%20HTML%20Tags.tmCommand
+END
+Update Includes.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Update%20Includes.tmCommand
+END
+Wrap Each Selected Line in Open%3AClose Tag.plist
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Wrap%20Each%20Selected%20Line%20in%20Open%253AClose%20Tag.plist
+END
+Strip HTML tags.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Strip%20HTML%20tags.plist
+END
+Insert Entity%E2%80%A6.plist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Insert%20Entity%25E2%2580%25A6.plist
+END
+About Persistent Includes.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/About%20Persistent%20Includes.tmCommand
+END
+W3C validation.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/W3C%20validation.plist
+END
+Tidy.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/204/trunk/Bundles/HTML.tmbundle/Commands/Tidy.plist
+END
+Refresh All Active Browsers.plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Refresh%20All%20Active%20Browsers.plist
+END
+Documentation for Tag.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/269/trunk/Bundles/HTML.tmbundle/Commands/Documentation%20for%20Tag.plist
+END
+Insert Tag Pair.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Insert%20Tag%20Pair.plist
+END
+Decode HTML Entities.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Decode%20HTML%20Entities.plist
+END
+Convert to HTML Entities.plist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Convert%20to%20HTML%20Entities.plist
+END
+Convert Line %3A Selection to URL Escapes.plist
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/svn/!svn/ver/64/trunk/Bundles/HTML.tmbundle/Commands/Convert%20Line%20%253A%20Selection%20to%20URL%20Escapes.plist
+END
+Preview in All Active Browsers.plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/294/trunk/Bundles/HTML.tmbundle/Commands/Preview%20in%20All%20Active%20Browsers.plist
+END
+CodeCompletion HTML Attributes.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/418/trunk/Bundles/HTML.tmbundle/Commands/CodeCompletion%20HTML%20Attributes.tmCommand
+END

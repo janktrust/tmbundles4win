@@ -1,0 +1,88 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Source.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+%5Cn.plist
+file
+
+
+
+
+2006-05-21T11:06:01.000000Z
+8d3a6a3d27e7140a63b20fef73218cfe
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Escaped Single Quote Pair%3A %5C'..%5C'.plist
+file
+
+
+
+
+2006-05-21T11:06:01.000000Z
+a620df9503e5be3b10eb2219586929f9
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Continue line comment.plist
+file
+
+
+
+
+2006-08-13T22:38:49.000000Z
+1be7666f503eb92adba6163c316b8e1e
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Frame text.plist
+file
+
+
+
+
+2006-05-21T11:06:01.000000Z
+c2eb5d416d41be95f720a276200918e1
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Escaped Quote Pair%3A %5C%22..%5C%22.plist
+file
+
+
+
+
+2006-05-21T11:06:01.000000Z
+4ab85ee2dacffd983b7b023e9e1f6ece
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

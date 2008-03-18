@@ -1,0 +1,43 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Rails.tmbundle/Support/lib
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:07:49.882663Z
+73
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+rails_bundle_tools.rb
+file
+
+
+
+
+2006-03-03T21:20:53.000000Z
+b072a96ad29006dbd72794816ce2418b
+2007-07-29T07:07:49.882663Z
+73
+gcheshire
+
+rails
+dir
+

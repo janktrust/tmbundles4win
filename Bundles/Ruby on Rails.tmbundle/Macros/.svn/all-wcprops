@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/128/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros
+END
+Add %3A Remove Unique Index.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Add%20%253A%20Remove%20Unique%20Index.tmMacro
+END
+Rename Table.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Rename%20Table.tmMacro
+END
+Add %3A Remove Several Columns.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Add%20%253A%20Remove%20Several%20Columns.tmMacro
+END
+Rename Column.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Rename%20Column.tmMacro
+END
+Add %3A Remove Index.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Add%20%253A%20Remove%20Index.tmMacro
+END
+Add %3A Remove Several Columns (marcc).tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Add%20%253A%20Remove%20Several%20Columns%20(marcc).tmMacro
+END
+Create %3A Drop Table.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Create%20%253A%20Drop%20Table.tmMacro
+END
+Drop %3A Create Table.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Drop%20%253A%20Create%20Table.tmMacro
+END
+Rename %3A Rename Several Columns.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Rename%20%253A%20Rename%20Several%20Columns.tmMacro
+END
+Add %3A Remove Named Index.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Add%20%253A%20Remove%20Named%20Index.tmMacro
+END
+Add %3A Remove Column.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Add%20%253A%20Remove%20Column.tmMacro
+END
+Remove %3A Add Column.tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Remove%20%253A%20Add%20Column.tmMacro
+END
+Rename %3A Rename Several Columns (mncc).tmMacro
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Macros/Rename%20%253A%20Rename%20Several%20Columns%20(mncc).tmMacro
+END

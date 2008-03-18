@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Objective-C.tmbundle/Syntaxes
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Objective-C++.plist
+file
+
+
+
+
+2007-07-07T17:42:30.000000Z
+9ba6b8de5bda7e99a841214d902a05f6
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+Strings File.tmLanguage
+file
+
+
+
+
+2006-11-10T10:17:29.000000Z
+f0b838034bff9564a8aba147699f509e
+2007-07-29T06:52:37.458434Z
+70
+gcheshire
+
+Objective-C.tmLanguage
+file
+433
+
+
+
+2008-02-21T20:38:55.000000Z
+bf0524b1ae80836b8ad18808348e62dd
+2008-02-21T21:35:29.028154Z
+433
+gcheshire
+

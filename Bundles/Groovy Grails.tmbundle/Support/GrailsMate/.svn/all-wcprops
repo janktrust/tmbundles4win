@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate
+END
+create_domain_class.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/create_domain_class.rb
+END
+test_app.rb
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/test_app.rb
+END
+GrailsTask.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/GrailsTask.rb
+END
+install_plugin.rb
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/install_plugin.rb
+END
+run_app.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/run_app.rb
+END
+create_controller.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/create_controller.rb
+END
+run_grails_task.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/run_grails_task.rb
+END
+GrailsMate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/GrailsMate.rb
+END
+war.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/war.rb
+END
+list_plugins.rb
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/291/trunk/Bundles/Groovy%20Grails.tmbundle/Support/GrailsMate/list_plugins.rb
+END

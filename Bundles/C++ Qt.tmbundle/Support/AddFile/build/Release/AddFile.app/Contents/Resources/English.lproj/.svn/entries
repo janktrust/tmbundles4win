@@ -1,0 +1,32 @@
+8
+
+dir
+278
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Support/AddFile/build/Release/AddFile.app/Contents/Resources/English.lproj
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+InfoPlist.strings
+file
+
+
+
+
+2007-11-13T04:41:29.000000Z
+3fbf1e7f57ccaf273a039845bb4158de
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+has-props
+
+MainMenu.nib
+dir
+

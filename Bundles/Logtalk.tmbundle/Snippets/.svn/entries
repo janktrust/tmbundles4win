@@ -1,0 +1,316 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Logtalk.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Instance with category.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+8d1a069153a8f748b4f826350e609a81
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Class with metaclass.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+37673eca389cd57b3ed18df116bb2392
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Prototype with category.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+6c1065f0b5a4fc5b175840d7b0ca2493
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Public predicate.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+ccc419eaeae6cbb908f38e2db8cb1fe3
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Private predicate (no arguments).tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+26eb7954e31611a86fb4cd5ed1acf0f8
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Class with category.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+18371439573e984b60056ce15b64feec
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Protocol.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+198f002e8fe3d1b8e88d6aabc818a8eb
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Public predicate (no arguments).tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+ceb0b6bf50e39f9117bc96463a0764a3
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Instance.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+80a1213d6da229594570125c91852cb7
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Prototype.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+0d75b1b325019d9aaf894c080ca39b8c
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Class.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+99198069586e6acdf8ce3371195643e6
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Protected predicate.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+fd258799bc45366467a37bcc460928ae
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Prototype with parent.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+4e959f73c55fe0c582d8eda1f8e37e9a
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Category.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+9e561170cfeaa3a43fa7a7ff6a487de7
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Protected predicate (no arguments).tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+3a406e205482ed7dd8b21bf821e3d824
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Instance with protocol.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+4893fd0859bf81d2332984e9269996ad
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Extended protocol.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+2db92c0350d056624bdb8e7057f93757
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Prototype with protocol.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+c9699f14cf522efa797bc7ec57348626
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Class with protocol.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+c4a2df83c8b24469f9bbdc5e86daeaf2
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Instance with all.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+d71407f50094a182ab7329b930ce6627
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Class with all.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+0bf289d5e0c23f148d248acdf7c62404
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Prototype with all.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+09777a82e1b11d3d0e28b0a470b93771
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+Private predicate.tmSnippet
+file
+414
+
+
+
+2008-02-15T20:17:26.000000Z
+5d8b2aa40083b7cf0a4e017b370014a3
+2008-02-15T20:35:37.367581Z
+414
+gcheshire
+
+Category with protocol.tmSnippet
+file
+290
+
+
+
+2007-11-17T22:58:52.000000Z
+42192ab58d4b7113b18014dd3787a728
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+

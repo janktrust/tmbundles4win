@@ -1,0 +1,88 @@
+8
+
+dir
+463
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/test/app_fixtures/app/views/users
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+existing_views.js.rjs
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+67bbcca224eb13c34c51ca928e179105
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+existing_views.html.erb
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+67bbcca224eb13c34c51ca928e179105
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+new.html.erb
+file
+470
+
+
+
+2008-03-08T16:22:13.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-03-08T16:36:42.004030Z
+470
+gcheshire
+
+existing_views.xml.builder
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+67bbcca224eb13c34c51ca928e179105
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+existing_views.wacky.erb
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+67bbcca224eb13c34c51ca928e179105
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+create.html.erb
+file
+470
+
+
+
+2008-03-08T16:22:13.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2008-03-08T16:36:42.004030Z
+470
+gcheshire
+

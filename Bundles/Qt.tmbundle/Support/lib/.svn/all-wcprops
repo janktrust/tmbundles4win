@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/lib
+END
+camelcase.rb
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/lib/camelcase.rb
+END
+ctags.rb
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/lib/ctags.rb
+END
+run_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/lib/run_helper.rb
+END
+rails_bundle_tools.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/lib/rails_bundle_tools.rb
+END
+common.rb
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Support/lib/common.rb
+END

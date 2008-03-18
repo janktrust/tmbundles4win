@@ -1,0 +1,100 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/GetBundle.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Install AutoUpdater.tmCommand
+file
+
+
+
+
+2006-10-17T20:19:03.000000Z
+fcb04008e750a5b3a60c800df81e73fc
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+List Installed Bundles.tmCommand
+file
+
+
+
+
+2006-10-17T20:19:03.000000Z
+77096cf91a5021f8088166fc373a59ec
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+Show Bundles on Repository.tmCommand
+file
+
+
+
+
+2007-03-04T20:56:10.000000Z
+ae8bd4062583f39b5b2fa4702c6aca69
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+Remove AutoUpdater.tmCommand
+file
+
+
+
+
+2006-10-17T20:19:03.000000Z
+9e1b12c3f5a7e31e04973227d0b1c2a6
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+Update Installed Bundles.tmCommand
+file
+261
+
+
+
+2007-11-02T15:20:30.000000Z
+dd0da25fae60057e0ec032daf48e7901
+2007-11-02T15:36:17.830377Z
+261
+gcheshire
+
+Install Bundle.tmCommand
+file
+261
+
+
+
+2007-11-02T15:20:30.000000Z
+b48a68c5b9d2cd6c21a8d5294a62db83
+2007-11-02T15:36:17.830377Z
+261
+gcheshire
+

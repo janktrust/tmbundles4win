@@ -1,0 +1,112 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Standard%20ML.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+itos.tmSnippet
+file
+
+
+
+
+2007-06-13T03:19:05.000000Z
+044a2e520a00bae426665ef29115ab70
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+RedBlackSet.tmSnippet
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+87a2187b5f0b73050ac9f09463b77199
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+RedBlackMap.tmSnippet
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+3c0fb85acdff1eb6b162b89aa478963a
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Base Funsig.tmSnippet
+file
+
+
+
+
+2007-06-13T03:19:05.000000Z
+186aab40cbd803551b81cc5812545970
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Base Functor.tmSnippet
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+c47705cb0c5a3e646b361c4f676d13ce
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Base Structure.tmSnippet
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+d840c60ee981d73741ccb141aa4a2427
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Base Signature.tmSnippet
+file
+
+
+
+
+2007-06-11T14:47:59.000000Z
+617344a951330a33e345fab0afa3f693
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

@@ -1,0 +1,196 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Python.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Documentation for Module.plist
+file
+
+
+
+
+2005-11-02T13:08:04.000000Z
+7b288ce13ae81f2363e2c1d75b04a94f
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Check Python Syntax.plist
+file
+
+
+
+
+2006-07-21T19:45:27.000000Z
+87243c39cdacbb45fbd4d9bb4040f14d
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Run Script.plist
+file
+377
+
+
+
+2008-02-05T10:49:28.000000Z
+dd8b97c99c7b0d3b9cad40dc3c882610
+2008-01-30T09:35:22.397775Z
+377
+gcheshire
+
+Show Symbol.tmCommand
+file
+
+
+
+
+2007-05-17T22:17:19.000000Z
+f3e0073a047e4d8f3abeecc86afdb1eb
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Run Script.tmCommand
+file
+383
+
+
+
+2008-02-04T14:53:12.000000Z
+dee3e0a1c732a36bba254e3844b39293
+2008-02-04T15:35:20.396733Z
+383
+gcheshire
+
+Run Project Unittests.plist
+file
+
+
+
+
+2006-06-01T14:49:48.000000Z
+d076fd4ab9c21e28cf0ab1c01cc52010
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Debug Script in Terminal.plist
+file
+
+
+
+
+2005-11-02T13:08:04.000000Z
+640d7a69029ebab8c6fef590b4332623
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+New Function.plist
+file
+241
+
+
+
+2007-10-19T20:39:37.000000Z
+39d7f7ab05ab72286cbe716114b79de3
+2007-10-19T21:36:26.667887Z
+241
+gcheshire
+
+Run Script in Python.plist
+file
+
+
+
+
+2006-06-08T01:42:33.000000Z
+34e854b4d0d4c9b879f61c72db6cfc8d
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Execute Line%3ASelection as Python.tmCommand
+file
+
+
+
+
+2006-12-11T20:52:54.000000Z
+4b8963b452c11eeb7130d35736fb049b
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Documentation for Current Word.tmCommand
+file
+260
+
+
+
+2007-11-02T07:30:04.000000Z
+d5c994b8ba1532ccf64eefd560df4bf8
+2007-11-02T07:36:19.248610Z
+260
+gcheshire
+
+Copy Symbol.tmCommand
+file
+
+
+
+
+2007-05-17T22:17:19.000000Z
+78e0770019d836de9404b56c9c8752bc
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Cleanup Whitespace.plist
+file
+
+
+
+
+2005-11-17T21:12:54.000000Z
+723b80a887aa2a18cf7e3c49ff6cddee
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Documentation in Browser.plist
+file
+
+
+
+
+2006-12-11T03:09:48.000000Z
+90a09f22cf8c58280809a03750a4f580
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+

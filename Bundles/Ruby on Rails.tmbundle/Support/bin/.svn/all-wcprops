@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/128/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin
+END
+generate_quick_migration.rb
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/477/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/generate_quick_migration.rb
+END
+show_schema.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/463/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/show_schema.rb
+END
+rake_helper.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/477/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/rake_helper.rb
+END
+insert_add_column_or_create_table.rb
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/insert_add_column_or_create_table.rb
+END
+intelligent_go_to_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/306/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/intelligent_go_to_file.rb
+END
+go_to_alternate_file.rb
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/go_to_alternate_file.rb
+END
+fixture_auto_complete.rb
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/463/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/fixture_auto_complete.rb
+END
+create_partial_from_selection.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/477/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/create_partial_from_selection.rb
+END
+intelligent_migration_snippet.rb
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/intelligent_migration_snippet.rb
+END
+generate.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/477/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/generate.rb
+END
+go_to_file_on_current_line.rb
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/470/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/go_to_file_on_current_line.rb
+END
+list_plugins.rb
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/477/trunk/Bundles/Ruby%20on%20Rails.tmbundle/Support/bin/list_plugins.rb
+END

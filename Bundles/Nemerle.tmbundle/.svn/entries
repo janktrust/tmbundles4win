@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Nemerle.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:33:31.978846Z
+69
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+DragCommands
+dir
+
+Commands
+dir
+
+Snippets
+dir
+
+info.plist
+file
+262
+
+
+
+2007-11-04T00:58:40.000000Z
+2c254b0bd9329e3dc2d144e998b0f6eb
+2007-11-04T01:36:58.612214Z
+262
+gcheshire
+
+Syntaxes
+dir
+

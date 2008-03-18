@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/HTML.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+DragCommands
+dir
+
+Commands
+dir
+
+Preferences
+dir
+
+Macros
+dir
+
+Snippets
+dir
+
+info.plist
+file
+347
+
+
+
+2007-12-24T06:46:38.000000Z
+c406e2b935f6c98b441588054bebd4e8
+2007-12-24T07:35:46.389095Z
+347
+gcheshire
+
+Support
+dir
+
+Syntaxes
+dir
+
+Templates
+dir
+

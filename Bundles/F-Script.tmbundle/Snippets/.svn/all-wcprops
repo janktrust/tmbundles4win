@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/62/trunk/Bundles/F-Script.tmbundle/Snippets
+END
+ifTrue%3AifFalse (itf).plist
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/62/trunk/Bundles/F-Script.tmbundle/Snippets/ifTrue%253AifFalse%20(itf).plist
+END
+ifTrue%3A (it).plist
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/62/trunk/Bundles/F-Script.tmbundle/Snippets/ifTrue%253A%20(it).plist
+END
+to%3Aby%3Ado%3A (tbd).plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/62/trunk/Bundles/F-Script.tmbundle/Snippets/to%253Aby%253Ado%253A%20(tbd).plist
+END
+ifFalse%3AifTrue%3A (ift).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/62/trunk/Bundles/F-Script.tmbundle/Snippets/ifFalse%253AifTrue%253A%20(ift).plist
+END
+to%3Ado%3A (td).plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/62/trunk/Bundles/F-Script.tmbundle/Snippets/to%253Ado%253A%20(td).plist
+END
+ifFalse%3A (if).plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/62/trunk/Bundles/F-Script.tmbundle/Snippets/ifFalse%253A%20(if).plist
+END

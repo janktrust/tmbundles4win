@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Syntaxes
+END
+Qt C++.tmLanguage
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Syntaxes/Qt%20C++.tmLanguage
+END
+qmake Project.tmLanguage
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Syntaxes/qmake%20Project.tmLanguage
+END

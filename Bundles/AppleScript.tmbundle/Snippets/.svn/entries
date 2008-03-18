@@ -1,0 +1,388 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/AppleScript.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Split%3AJoin Helper Functions.tmSnippet
+file
+
+
+
+
+2006-10-24T19:01:15.000000Z
+3246c2840a4e4a5d1833830ec7720038
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+prop parent %E2%80%A6.tmSnippet
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+6f23525f196f17248344d19da4d566ee
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Select Menu Item with UI Scripting.tmSnippet
+file
+
+
+
+
+2006-09-21T12:25:10.000000Z
+93e60b9317f85a58a0d04f0dde459deb
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Application(s) (choose).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+4d19efe3d40025ab8a1ec4287fcddb72
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Text Field (dialog).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+3b8d9d509c28a70333a9e347a4824da1
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+if %E2%80%A6 end (if).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+54f180eca86e5208ae9be07e45d87ca6
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+repeat with in.tmSnippet
+file
+
+
+
+
+2006-07-18T06:59:25.000000Z
+6989865e666c6d19caa0def50a587de5
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+tell application %E2%80%A6 (tell).plist
+file
+
+
+
+
+2006-06-27T22:25:48.000000Z
+0bcbc1b9271efd6aeaebc1c27b90a76b
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+on function %E2%80%A6 end (on).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+f3679d5d991703bca8d0c74ffa93c16d
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+do shell script %E2%80%A6 (shell).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+1517eec006707b6c6f244d4d23ecba3e
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+considering %E2%80%A6 end considering (con).tmSnippet
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+e79134ce0ff49e171412a3f9b5725d07
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+script %E2%80%A6 end (script).tmSnippet
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+afce1dcfd818b781b37fb627b14f5925
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+repeat %E2%80%A6 end (repeat).plist
+file
+
+
+
+
+2006-07-18T06:59:25.000000Z
+fe4af88513026183cf9595431e31e848
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+repeat while ___.tmSnippet
+file
+
+
+
+
+2006-07-18T06:59:25.000000Z
+d9ab499ef89bd59f1f5f1e194a01d43e
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Color (choose).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+117a151e4ac30011617019913d2467c8
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Folder(s) (choose).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+ff4c050887a42c3f1bc914cecf7f9577
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+OK%3ACancel%3AOther (dialog).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+ce3a8c7b2282c45348cffa3c9efed36c
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+using terms from [app] %E2%80%A6 end (terms).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+838cd0543ad6283c62aff33c34624cfe
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+File(s) (choose) .plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+9e041c8925013a09c262ece98ec2fbad
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+display alert (alert).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+3ca6f441b6aae0fd2520f3a932d252c3
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+try %E2%80%A6 on error %E2%80%A6 end (try).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+83a878ea34a5b41d48be1eac16b0e6f2
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+with timeout %E2%80%A6 end (timeout).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+bfb7a415e197295b1868b18c17838c9a
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+OK%3ACancel (dialog).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+6e968e8367d58c2041a5465fde472b21
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+OK (dialog).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+2be59c260b31deee1b60fc9d776b22c9
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+New File (choose).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+9bf598fd0d3758b137e41e6b450d38b1
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+ignoring %E2%80%A6 end ignoring (ign).tmSnippet
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+a3fd6b0df7e9d0dccf29a3dd91c8b3cf
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Check that UI Scripting is Enabled.tmSnippet
+file
+
+
+
+
+2007-03-18T17:19:58.000000Z
+c7c0d2b7901384ba1d3cce7de282e84d
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+choose from list (choose).plist
+file
+
+
+
+
+2006-06-11T13:04:23.000000Z
+a1f305850496d1b044529495883dfbb7
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+change text item delimiters.tmSnippet
+file
+
+
+
+
+2006-06-21T09:00:03.000000Z
+2eee8eaa99cc1526a966a3187a169b37
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+URL (choose).plist
+file
+
+
+
+
+2006-06-11T04:15:57.000000Z
+bcc40603b97eee6324cb4740b1fbafcd
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+

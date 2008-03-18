@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/R.tmbundle/Syntaxes
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:07:49.882663Z
+73
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Rd (R Documentation).tmLanguage
+file
+
+
+
+
+2007-03-03T04:25:58.000000Z
+6420a331de0205d45e836be6323aa0d0
+2007-07-29T07:07:49.882663Z
+73
+gcheshire
+
+R Console.tmLanguage
+file
+
+
+
+
+2006-10-15T00:21:47.000000Z
+b1eb95edfc46cb373d7acb669cbd7483
+2007-07-29T07:07:49.882663Z
+73
+gcheshire
+
+R.plist
+file
+
+
+
+
+2006-11-08T01:36:59.000000Z
+efaeec470d650aaa941eaa8de734d3ba
+2007-07-29T07:07:49.882663Z
+73
+gcheshire
+

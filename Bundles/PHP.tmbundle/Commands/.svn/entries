@@ -1,0 +1,172 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/PHP.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-30T19:05:04.169143Z
+81
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Jump to Included File.tmCommand
+file
+
+
+
+
+2007-05-11T13:10:57.000000Z
+b7f9523e5f5147ceaf9173c4ba8647ab
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc Help.tmCommand
+file
+
+
+
+
+2007-02-26T00:25:45.000000Z
+29235665b7f4ab6197da18e0fc9a2ed3
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Wrap Docblock at 80 Characters.tmCommand
+file
+
+
+
+
+2007-02-26T00:25:45.000000Z
+31bc3ee2c6c09a2f8bae5149ba5014a3
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Help.tmCommand
+file
+273
+
+
+
+2007-11-12T09:34:18.000000Z
+f7b6545d79a4181d748bd5d7a25aeac2
+2007-11-12T09:36:02.702961Z
+273
+gcheshire
+
+Post-doc.tmCommand
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+fec2ee4c19fe8747ba7fcc20607aa6f2
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Run PHP.plist
+file
+
+
+
+
+2007-07-08T14:51:25.000000Z
+97827bd44f06506b792e5179016c7ef0
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Completion.tmCommand
+file
+175
+
+
+
+2007-09-15T20:07:08.000000Z
+05b7e9f65ce5649977804574862b480a
+2007-09-15T20:36:25.911245Z
+175
+gcheshire
+
+Validate syntax.plist
+file
+
+
+
+
+2007-07-29T19:27:55.000000Z
+2d757ce51c7da23fb97866c69001b3d1
+2007-07-30T19:05:04.169143Z
+81
+gcheshire
+
+Documentation for Tag.tmCommand
+file
+
+
+
+
+2007-02-26T00:25:45.000000Z
+8869f119209301c4c737fb5eeecd921d
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Lookup word in PHP manual.plist
+file
+
+
+
+
+2007-07-25T12:12:55.000000Z
+29e8303e342f62c9a79b5e25bb786f22
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Special%3A Return Inside an Empty Tag.tmCommand
+file
+214
+
+
+
+2007-10-05T18:38:16.000000Z
+651bee7d3df936ae1191e5b030232501
+2007-10-05T19:36:10.859721Z
+214
+gcheshire
+
+Function Tooltip.tmCommand
+file
+93
+
+
+
+2007-08-14T02:12:13.000000Z
+63293e292fb321fe2d575fd690ab1bc8
+2007-08-14T19:39:30.939695Z
+93
+gcheshire
+

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>export RUBYLIB="$TM_BUNDLE_SUPPORT/GrailsMate${RUBYLIB:+:$RUBYLIB}"
+TM_RUBY=${TM_RUBY:-ruby}
+TM_GRAILS=${TM_GRAILS:-grails}
+
+require_cmd "$TM_GRAILS" "If you have installed grails, then you need to either &lt;a href="help:anchor='search_path'%20bookID='TextMate%20Help'"&gt;update your &lt;tt&gt;PATH&lt;/tt&gt;&lt;/a&gt; or set the &lt;tt&gt;TM_GRAILS&lt;/tt&gt; shell variable (e.g. in Preferences / Advanced)"
+
+require_cmd "$TM_RUBY" "We need Ruby to proceed."
+
+export TM_GRAILS=`which $TM_GRAILS`
+export TM_RUBY=`which $TM_RUBY`
+
+"${TM_RUBY}" -- "$TM_BUNDLE_SUPPORT/GrailsMate/list_plugins.rb"</string>
+	<key>input</key>
+	<string>none</string>
+	<key>keyEquivalent</key>
+	<string>^@G</string>
+	<key>name</key>
+	<string>List Plugins</string>
+	<key>output</key>
+	<string>showAsHTML</string>
+	<key>scope</key>
+	<string>source.groovy, source.java, source.java-props, text.xml, text.html.grails</string>
+	<key>uuid</key>
+	<string>A77539E3-ACBE-4AD4-9DE8-625340CBACC7</string>
+</dict>
+</plist>

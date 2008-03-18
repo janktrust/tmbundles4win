@@ -1,0 +1,436 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Latex.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Item[description].plist
+file
+
+
+
+
+2006-09-12T09:46:18.000000Z
+5969211c9c243a77b22745334b6a295e
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Section.tmSnippet
+file
+
+
+
+
+2007-08-04T16:36:44.000000Z
+bc2f8c3ef7a412c45c8d1a2d902833da
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+Paragraph.tmSnippet
+file
+
+
+
+
+2007-06-30T02:01:56.000000Z
+3e8a12107e3d2f629a1abf921fbbc281
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Lines to list environment.plist
+file
+
+
+
+
+2006-11-08T21:54:09.000000Z
+52442bd90a2bd4e9dfa0a180485970bb
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Part.tmSnippet
+file
+
+
+
+
+2007-03-25T01:01:41.000000Z
+72e03d1d964625f5f8a598edfce2f931
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+%5Csection .. (section).plist
+file
+
+
+
+
+2007-06-11T09:38:19.000000Z
+06192ed48aff47d3b0a58ed0738f4847
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Page.tmSnippet
+file
+
+
+
+
+2007-08-04T16:36:44.000000Z
+226422c59b21ffb01942ed8e80c54668
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+Displaymath ($$).plist
+file
+
+
+
+
+2006-09-12T09:46:18.000000Z
+ae72a9ab69bc5a5f094f6eb5a32f556f
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Change Style of selected text.plist
+file
+
+
+
+
+2006-09-12T09:46:18.000000Z
+f6f3d71f1a4bde4ef7b16ae1863dc21d
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Equation.tmSnippet
+file
+
+
+
+
+2006-10-07T19:33:39.000000Z
+c9d75bd3d385d462f3d40e7cf3306adc
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Chapter.tmSnippet
+file
+
+
+
+
+2007-06-11T09:38:19.000000Z
+1c8e2a7fbe6636b2e50d97b0a62ef85b
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Wrap in %5Cleft-%5Cright.plist
+file
+
+
+
+
+2007-02-11T14:29:58.000000Z
+85dea382f9cbfba1c0cd30c7a9971836
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Tabular.tmSnippet
+file
+
+
+
+
+2006-09-16T02:44:32.000000Z
+0b87782cff5a0dc747f9bc11c95edddf
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Split.tmSnippet
+file
+
+
+
+
+2006-10-07T19:33:39.000000Z
+2ea6bd00cbea663fc58ef73954c69322
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Beamer Overlay Specification.tmSnippet
+file
+119
+
+
+
+2007-08-25T14:36:09.000000Z
+c739bd92d6e746d96adcf0de7bdf323a
+2007-08-25T15:36:23.682740Z
+119
+gcheshire
+
+Cases.tmSnippet
+file
+
+
+
+
+2007-02-11T14:29:58.000000Z
+57b94a3cdadc8dd2456a298b1bcb8209
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+New Line.tmSnippet
+file
+
+
+
+
+2006-09-17T05:32:07.000000Z
+3dac302f058746d6ff40f2c15d592f6f
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Wrap selection in double quotes.tmSnippet
+file
+
+
+
+
+2006-09-12T09:46:18.000000Z
+21e425942c7d3a33cd09ab949e07ee3c
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Wrap Selection in Environment.plist
+file
+
+
+
+
+2006-09-12T23:59:24.000000Z
+14255f0a99bf8cc55729aecd3a4254eb
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Matrix.tmSnippet
+file
+
+
+
+
+2006-10-07T19:33:39.000000Z
+0d7d7fd42bbe1235c3078eb28d36efe1
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Gather(ed).tmSnippet
+file
+
+
+
+
+2006-10-07T19:33:39.000000Z
+d06b234c3067abb33fe153f5ac36bb9d
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Itemize.tmSnippet
+file
+
+
+
+
+2006-10-08T01:58:16.000000Z
+4938e5614f6a4bf330e9546d667a9f7b
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+%5Csubsubsection .. (ssub).plist
+file
+
+
+
+
+2007-06-11T09:38:19.000000Z
+35f061e5ab1d473c1e1f462833310e4c
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Listing.tmSnippet
+file
+
+
+
+
+2007-08-04T16:36:44.000000Z
+cdabbfc5eddca63a78d97bdae72cdc11
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+%5Csubsection .. (sub).plist
+file
+
+
+
+
+2007-06-11T09:38:19.000000Z
+5278ed0782da3be12b3a1104e87143ee
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Unnumbered Equation.tmSnippet
+file
+
+
+
+
+2006-10-29T18:09:06.000000Z
+b9b9f28f2ca54fab2f7d0b92899e004a
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Sub Paragraph.tmSnippet
+file
+
+
+
+
+2007-06-30T02:01:56.000000Z
+fa10a27165f981561a07bedff300ff64
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Figure.tmSnippet
+file
+
+
+
+
+2007-08-04T16:36:44.000000Z
+cc4000f8d83c73b34d6be786cb614ace
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+Math mode %5C( %5C).plist
+file
+
+
+
+
+2006-09-12T09:46:18.000000Z
+c65ae36486352e2bd4cf132f2eb2a8e9
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Description.tmSnippet
+file
+
+
+
+
+2006-10-08T01:58:16.000000Z
+e6f096e2eb7fa04b97e40ed655fa422b
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Enumerate.tmSnippet
+file
+
+
+
+
+2006-10-08T01:58:16.000000Z
+9e2048ec0b70d8db509bde7fafa115a2
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+Table.tmSnippet
+file
+
+
+
+
+2007-08-04T16:36:44.000000Z
+4761699cfb659a68c1df33ffe558460b
+2007-08-06T17:51:20.640816Z
+84
+gcheshire
+
+Align.tmSnippet
+file
+
+
+
+
+2006-10-07T19:33:39.000000Z
+5fa32afd07b9a41442515fdce235e7ff
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+%5Cbegin{}%E2%80%A6%5Cend{}.tmSnippet
+file
+
+
+
+
+2006-09-20T10:53:45.000000Z
+93d035f8a24a9d2d0bfa1f4eaeac93c2
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+

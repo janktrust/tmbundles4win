@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Source.tmbundle/Macros
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+EOL + LF.plist
+file
+
+
+
+
+2006-05-21T11:06:01.000000Z
+7befb4e5b7b52601349a0588722f399f
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Move to BOL and Insert LF.plist
+file
+482
+
+
+
+2008-03-10T21:07:20.000000Z
+96bed456c4ec01ec4bfa8e44643bd852
+2008-03-10T21:35:26.770805Z
+482
+gcheshire
+
+Move to EOL and Insert Terminator + LF.plist
+file
+
+
+
+
+2006-05-21T11:06:01.000000Z
+b1756a137fd9707a60e392170d7c2a29
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

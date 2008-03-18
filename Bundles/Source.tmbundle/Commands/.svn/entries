@@ -1,0 +1,136 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Source.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Insert Block Comment.tmCommand
+file
+
+
+
+
+2007-04-10T19:54:55.000000Z
+1e6fa7db4c9403ab0e82263a478ef827
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Reformat Comment.tmCommand
+file
+
+
+
+
+2006-08-24T01:01:27.000000Z
+18f171beec716d8eaa4e8418e8cf4afa
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Toggle CamelCase vs Underscore.tmCommand
+file
+
+
+
+
+2007-02-26T01:40:04.000000Z
+a2b082b4b0553c8829f5860483c90105
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Align Assignments.tmCommand
+file
+401
+
+
+
+2008-02-11T11:53:36.000000Z
+a221024efa4230b31fe12fb8ea481d02
+2008-02-11T12:35:23.199027Z
+401
+gcheshire
+
+Move to EOL and Insert %22;%22.plist
+file
+
+
+
+
+2006-05-21T11:06:01.000000Z
+ad1a665023c4656e944cb39242058245
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Tabify.plist
+file
+
+
+
+
+2006-03-08T01:50:52.000000Z
+2ecbe0673451de1c3ec1ab84242dc3e9
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Toggle Single%3ADouble String Quotes.plist
+file
+
+
+
+
+2006-08-17T00:05:16.000000Z
+cbe4b2b30dc390fd6e812f29ee88042c
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Insert Source Header.tmCommand
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+89e6bfad18fe5f77c2a7c745a92baba4
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Toggle comment.plist
+file
+
+
+
+
+2007-06-01T16:15:10.000000Z
+dd99d6592472139070a34a0f90ec4743
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

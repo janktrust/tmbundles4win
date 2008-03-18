@@ -1,0 +1,64 @@
+8
+
+dir
+463
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Ruby%20on%20Rails.tmbundle/script
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+txt2html
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+a64522cdd230d7c3603e6257af07e633
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+destroy
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+80c243b5b76419e85d59cd280b0bdaef
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+generate
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+a08f0389d5cb2aa4ff5b2cb667e9a02a
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+
+clean_bundle_file_names
+file
+
+
+
+
+2008-03-08T16:22:13.000000Z
+ff4f02f0b670c45bb6630cf08c0ccee0
+2008-03-07T23:39:01.591867Z
+463
+gcheshire
+

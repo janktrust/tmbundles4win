@@ -1,0 +1,53 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Active4D.tmbundle/Support/bin
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+open_include.rb
+file
+
+
+
+
+2006-06-07T19:44:09.000000Z
+4231e3af2d72c35b975c5e5bf2c01630
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+has-props
+
+new_circuit.rb
+file
+185
+
+
+
+2007-09-20T09:38:14.000000Z
+f804158e5707780198843b66709a7a36
+2007-09-20T10:36:12.991927Z
+185
+gcheshire
+

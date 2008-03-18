@@ -1,0 +1,112 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/SWeave.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+SWeave in R.tmCommand
+file
+
+
+
+
+2006-11-14T05:08:26.000000Z
+bd95c2775efcf1a217a139fc1d653498
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Sweave, Typeset & View.tmCommand
+file
+126
+
+
+
+2007-08-27T13:03:02.000000Z
+d0b74208f6839fa63a66188d3dd20c72
+2007-08-27T13:36:21.818223Z
+126
+gcheshire
+
+View (PDF).tmCommand
+file
+
+
+
+
+2006-11-14T05:08:26.000000Z
+f0b1625e6ddf9d8a4869cf5e8df2aa82
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+setwd.tmCommand
+file
+
+
+
+
+2006-11-14T05:08:26.000000Z
+182c688b3c3f9777a8b41c828a968e61
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Help.tmCommand
+file
+
+
+
+
+2007-04-06T19:25:26.000000Z
+cf65ccdfe53edf2e1ce1223ba72e69fb
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+SWeave project in R.tmCommand
+file
+
+
+
+
+2006-11-14T05:08:26.000000Z
+23c4d8e32d37ac2c74c9d4c5ceef98f4
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Toggle Code Output.tmCommand
+file
+
+
+
+
+2007-02-15T16:18:46.000000Z
+e0d10a1041acbfd26ccfd014eefc3150
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

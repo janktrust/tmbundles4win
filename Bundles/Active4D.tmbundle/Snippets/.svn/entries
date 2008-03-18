@@ -1,0 +1,772 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Active4D.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+fusebox_makeUrl __ (fm).tmSnippet
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+64f59d9916d72166522e5526ab989310
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+for each (table) __ end for each (fet).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+35d1e306bb2819f0085cff4f5dbe1d72
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+query selection __ (qs).tmSnippet
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+deff93d863e716e4ac256a4b45bb9557
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+write to console .. (wc).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+2c816c5c4c1ad3ae9b357c729570e6e0
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+records in selection .. (ris).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+3a12ffaabb76d008d83dc1e1d2ab8673
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+for each (array) __ end for each (fea).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+742cedc133b06fb7b90bb7e69af12743
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+include .. (inc).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+8649a697396ebc13ddab06b6b6e8508c
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+write .. (w).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+3295ed6002bceaaae6b8986a3d875bdc
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array real .. set array .. (arrs).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+a4259227314e331c3f1874123b02e2ff
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+size of array .. (sa).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+9358b482c9d6e7606f4fe3f7f20f8543
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+if .. end if (if).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d500bfee8950bc42f530bd68ec108ad5
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Cnumber __ %3A%3E (num).tmSnippet
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+73d87a486ba7596277596f9218bd3908
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+while(not(end selection([..]))) end while (whe).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+eb9854b842dc00c616e9271dd7c47b21
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Cstring .. %3A%3E from session (ss).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+a577658222eba11bf199fe892d494986
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+query .. (q).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+d25ee38dc0fcf9b4c6e8b62f5d6dcbfe
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+for each (string) __ end for each (fes).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+40fd105a014e25649b69d9ffc63c915f
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+find in array .. (fia).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+32f9c8c7692ab29f44f3637b7af53b30
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+for ( .. size of array(..)) .. end for (fors).plist
+file
+
+
+
+
+2006-08-28T18:47:45.000000Z
+f2d7947db9e7aafbea295201b88cfa59
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+writeln .. (wl).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+be2d9933dd62a734d7c034c19aaf88ba
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+session{__} (s).tmSnippet
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+966604c494ce05fcd5be4fe795103aea
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array text .. (art).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+2ba7dfe3f6718aa42b6da8169ec6f104
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+for .. end for (for).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+7ed46f9f607228610a1340b37ea3edc7
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+choose .. (ch).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+88ca841cd16926adbd0a1318ff8d0943
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+fusebox.head.addJS .. (js).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+c46e192b0c415432cf399e80cb9dd0bf
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array date .. set array .. (ards).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+fdc6ce5aa731f049f932cba3c6f7c34c
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Active4D = block.plist
+file
+
+
+
+
+2006-06-17T00:24:53.000000Z
+a1feaae81bf9068de15e67fdf7f213c2
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+if .. else end if (ife).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+4be85fe006bc215d188f1a252931ab1b
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+repeat .. until (rep).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+37e7d2e4715b920fba000f418d9df8d2
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array boolean .. (arb).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+5e359c6f0b74e3858a964a4e3a814bb9
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+size of array .. (sa) 2.plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+905153f225b52b129a8b9cc74d582fa1
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+a4d.debug.dump array .. (da).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+0430b25069fa5acf508645641178b4e0
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array string .. set array .. (arss).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+a3e850acb6ec5f384908204047fe92ac
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+a4d.debug.dump collection($attributes) (dat).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+77219241caad98060680fcd00ce221cd
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+method (..) .. end method (me).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+9a91b8b2ccb20927bcf790c20451015a
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Cstring .. %3A%3E from attributes (at).plist
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+6668652c17ff1f7ba9fbe8fad9e885f2
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array longint .. (arl).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+a48397dc2527b37d7db0a7fa7426c56e
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+RowSet.newFromSelection .. (rs).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+69b6e1b44e2e56d3d74af9a062e3aefc
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+fusebox redirect __ (fr).tmSnippet
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+98805e2eab0fee035a39e5c38fa22827
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+$attributes .. (at).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+366e5fa939bd5325cde4484ffc01c9d8
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+case of .. end case (case).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+c3432e621f9cc652cecb528e448e53fb
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Cstring .. %3A%3E from form field (ff).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+854aebee629ade4386752df2e02774a8
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+XFA (xfa).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+00f6f032f4a9e36e844a6678cf6b88fb
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array text .. set array .. (arts).plist
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+cf3d27d1c625b470ae7833dfae68573d
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+a4d.debug.dump collection .. (dc).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+17b228e6764a4fde8350a92223325d02
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+fusebox.head.addCSS .. (css).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+976f029928624d6dd29e00f5f951cfc9
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+order by .. (ob).plist
+file
+
+
+
+
+2006-06-17T00:26:22.000000Z
+37c9b7accabedb349994434d9cfb46b5
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+while .. end while (wh).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d5f545df220e49016aac52eb64a63d4d
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array real .. (arr).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+587df3a79d537588e0a77753fdb6b073
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Ctime __ %3A%3E.tmSnippet
+file
+
+
+
+
+2006-08-28T18:47:45.000000Z
+985c37ed312e507a599e7b5160680878
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+Standard Header.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d7c2da988d6321ac664c358045928a38
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+case of .. else end case (casee).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+ca557c4bc7fe8ed9b6386d24eb9453bd
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array boolean .. set array .. (arbs).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+135214695686f0f0c32d43fb132532ed
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Cstring .. %3A%3E (st).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+7cbcd2fc269a9e709796da6a460eaa9a
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+selection to array .. (sta).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+03b1174ef181b5414b8aacf097f39486
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+for each .. end for each (fe).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+3624bb288b53a4d3a3cbc3688b13d646
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array longint .. set array .. (arls).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+f335d21c2eac43e1baa0f35e5b2d3771
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+method .. end method (mn).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+cce854d0b275df86b94b30f1849f17cd
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+array date .. (ard).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+f2b7bb9299f62596a6d76514e2d4f5da
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3CRowSet ..%3E %3C%3ARowSet%3E (rs).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+850e9166b9395c7b01f1ebfee5307186
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Cboolean __ %3A%3E (bool).tmSnippet
+file
+
+
+
+
+2006-06-17T00:44:23.000000Z
+6bd557b8bf7998c851b2ee64b4959348
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+writebr .. (wb).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+e811dec1a469b41f92010f5560dcfe49
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+
+%3Cdate __%3A%3E.tmSnippet
+file
+
+
+
+
+2006-08-28T18:47:45.000000Z
+b5480e4cfcc9f9e37e7f2a14bf6aec0b
+2007-07-29T06:07:20.876630Z
+58
+gcheshire
+

@@ -1,0 +1,269 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands
+END
+Check LaTeX (chktex).tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/228/trunk/Bundles/Latex.tmbundle/Commands/Check%20LaTeX%20(chktex).tmCommand
+END
+Watch document.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/103/trunk/Bundles/Latex.tmbundle/Commands/Watch%20document.tmCommand
+END
+Toggle Starred.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Toggle%20Starred.tmCommand
+END
+Set Master File.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/Set%20Master%20File.tmCommand
+END
+Insert LaTeX Command Based on Current Word.plist
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/120/trunk/Bundles/Latex.tmbundle/Commands/Insert%20LaTeX%20Command%20Based%20on%20Current%20Word.plist
+END
+BibDesk completion.plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/BibDesk%20completion.plist
+END
+Remove Column.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Remove%20Column.tmCommand
+END
+Edit Config File.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Edit%20Config%20File.tmCommand
+END
+Open Master File.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/93/trunk/Bundles/Latex.tmbundle/Commands/Open%20Master%20File.tmCommand
+END
+Command Based on Current Word %3A Selection%E2%80%A6.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/!svn/ver/119/trunk/Bundles/Latex.tmbundle/Commands/Command%20Based%20on%20Current%20Word%20%253A%20Selection%25E2%2580%25A6.tmCommand
+END
+Typewriter.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Typewriter.tmCommand
+END
+Run BibTeX.plist
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/Run%20BibTeX.plist
+END
+Reformat.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Reformat.tmCommand
+END
+Set Engine for this File.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/Set%20Engine%20for%20this%20File.tmCommand
+END
+Bibliography Completion.plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/93/trunk/Bundles/Latex.tmbundle/Commands/Bibliography%20Completion.plist
+END
+Find in TeXniscope.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/228/trunk/Bundles/Latex.tmbundle/Commands/Find%20in%20TeXniscope.plist
+END
+Enhanced Insert Label From Document.plist
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/93/trunk/Bundles/Latex.tmbundle/Commands/Enhanced%20Insert%20Label%20From%20Document.plist
+END
+Greek letter.plist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Greek%20letter.plist
+END
+Build Citation.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/93/trunk/Bundles/Latex.tmbundle/Commands/Build%20Citation.tmCommand
+END
+View package documentation.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/View%20package%20documentation.plist
+END
+verb.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/verb.tmCommand
+END
+Insert LaTeX Template.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/98/trunk/Bundles/Latex.tmbundle/Commands/Insert%20LaTeX%20Template.tmCommand
+END
+Insert environment closers.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Insert%20environment%20closers.plist
+END
+Convert Selection to Table.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Convert%20Selection%20to%20Table.tmCommand
+END
+View README.plist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/272/trunk/Bundles/Latex.tmbundle/Commands/View%20README.plist
+END
+Set Engine Parameters for this File.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/Set%20Engine%20Parameters%20for%20this%20File.tmCommand
+END
+Italic.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Italic.tmCommand
+END
+Add Column.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Add%20Column.tmCommand
+END
+Run Makeindex.plist
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/Run%20Makeindex.plist
+END
+030 LaTeX Tidy.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/030%20LaTeX%20Tidy.plist
+END
+LaTeX and view.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/LaTeX%20and%20view.plist
+END
+Insert Command Based on Current Word.plist
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Insert%20Command%20Based%20on%20Current%20Word.plist
+END
+Small Caps.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Small%20Caps.tmCommand
+END
+Show Label as Tool Tip.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/93/trunk/Bundles/Latex.tmbundle/Commands/Show%20Label%20as%20Tool%20Tip.tmCommand
+END
+Show Outline.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/157/trunk/Bundles/Latex.tmbundle/Commands/Show%20Outline.tmCommand
+END
+Bold.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Bold.tmCommand
+END
+configure.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/84/trunk/Bundles/Latex.tmbundle/Commands/configure.tmCommand
+END
+Insert Item Based on Current Environment.plist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/118/trunk/Bundles/Latex.tmbundle/Commands/Insert%20Item%20Based%20on%20Current%20Environment.plist
+END
+Underline.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Underline.tmCommand
+END
+Create Table.plist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Create%20Table.plist
+END
+Open Included Item.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/93/trunk/Bundles/Latex.tmbundle/Commands/Open%20Included%20Item.tmCommand
+END
+Change Current.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Change%20Current.tmCommand
+END
+Trash aux Files.plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/176/trunk/Bundles/Latex.tmbundle/Commands/Trash%20aux%20Files.plist
+END
+Wrap in Command.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/67/trunk/Bundles/Latex.tmbundle/Commands/Wrap%20in%20Command.tmCommand
+END

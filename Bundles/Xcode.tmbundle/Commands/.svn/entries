@@ -1,0 +1,184 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Xcode.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Open Project in Xcode.tmCommand
+file
+
+
+
+
+2007-03-07T21:46:46.000000Z
+d4f1e882e096127d3c9ebbcc26f804ca
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Open Frontmost Xcode Project.plist
+file
+
+
+
+
+2005-11-24T00:36:59.000000Z
+1560dc62fa589b7f419d6b619a77b184
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+List Files in Active Target.plist
+file
+
+
+
+
+2006-04-29T14:58:27.000000Z
+86e7f92af8185107fbcc72879d79e1df
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Import Xcode Project%E2%80%A6.plist
+file
+
+
+
+
+2006-06-06T20:34:47.000000Z
+3131face3e33bc5a9f66a38e7090bc4d
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+New Project%E2%80%A6.tmCommand
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+654baf316484a4e86efb66caac783207
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+Build & Run.plist
+file
+
+
+
+
+2007-03-02T19:08:32.000000Z
+21f2e2192517696f7e0584b69ad2a7aa
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Run Tests.tmCommand
+file
+318
+
+
+
+2007-12-04T05:42:36.000000Z
+5cd7182a27d3cacf6cd385ac34023bac
+2007-12-04T06:35:51.467827Z
+318
+gcheshire
+
+Jump to Next Error.tmCommand
+file
+222
+
+
+
+2007-10-08T21:53:25.000000Z
+9535c4b42754e17329fb313a532f22f0
+2007-10-08T22:36:32.792531Z
+222
+gcheshire
+
+Help.tmCommand
+file
+332
+
+
+
+2007-12-14T20:53:57.000000Z
+b5892cd12fdc28ea6e5331bf2dc6ee0e
+2007-12-14T21:36:02.801604Z
+332
+gcheshire
+
+Add to Active Target.plist
+file
+
+
+
+
+2006-05-31T13:30:30.000000Z
+85ab209a0487a0c46d18624a76d39535
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Build.plist
+file
+
+
+
+
+2006-06-07T19:01:20.000000Z
+60871330355314c060da1f7c75e72729
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Run (xcode target).plist
+file
+
+
+
+
+2007-03-02T19:08:32.000000Z
+b9868bd51e30a8c7a73d2e240361ee65
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Clean.plist
+file
+
+
+
+
+2006-06-07T19:01:20.000000Z
+137fdb536ce02914eee98744ad08d6be
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+

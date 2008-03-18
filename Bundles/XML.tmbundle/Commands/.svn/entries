@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/XML.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+XMLlint.plist
+file
+
+
+
+
+2006-06-14T01:06:22.000000Z
+78d9210b360f2395421fbe90a667ac54
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+
+Tidy XML.plist
+file
+160
+
+
+
+2007-09-10T16:26:14.000000Z
+6db1ebe8d9519653745b230cc8579f1a
+2007-09-10T16:37:13.379372Z
+160
+gcheshire
+
+Create XSL Generator for Selection.plist
+file
+
+
+
+
+2007-05-09T08:42:02.000000Z
+c8c88441d426ce16dc6006fd34ca2855
+2007-07-29T07:20:28.813288Z
+78
+gcheshire
+

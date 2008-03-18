@@ -1,0 +1,53 @@
+8
+
+dir
+139
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Support/lib/assistant_search
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+main.cpp
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+ca7b796186bfceea6da2704cabd19477
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+assistant_search.pro
+file
+
+
+
+
+2006-10-09T11:51:16.000000Z
+3966404ac48337b9cf40707efd7d3fee
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+
+assistant_search
+file
+
+
+
+
+2006-10-09T16:06:37.000000Z
+c6b039a3d468b496da7d1e99bbc09d90
+2007-08-30T03:37:02.350706Z
+139
+gcheshire
+has-props
+

@@ -1,0 +1,53 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/SCons.tmbundle/Support/bin
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+scons_html_wrapper.py
+file
+
+
+
+
+2006-04-03T23:40:17.000000Z
+51299c8297bc89b321b1de0aa1a428ed
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+scons_gcc_filter.py
+file
+
+
+
+
+2006-08-01T13:49:38.000000Z
+a6b64514179f8372be01e7ca67bf1a05
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+has-props
+

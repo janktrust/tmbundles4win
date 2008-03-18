@@ -1,0 +1,79 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Python.tmbundle/Support/PyMate
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+pymate.rb
+file
+390
+
+
+
+2008-02-06T21:26:28.000000Z
+365837ddbce5d9d5f25564bee4b0bd64
+2008-02-06T21:35:39.890602Z
+390
+gcheshire
+
+plistlib.py
+file
+317
+
+
+
+2007-12-04T02:27:16.000000Z
+6621f870eee55e23ba19200a6bbbaa15
+2007-12-04T02:36:44.754053Z
+317
+gcheshire
+
+TextInput.nib
+dir
+
+tmhooks.py
+file
+390
+
+
+
+2008-02-06T21:26:28.000000Z
+a452994f592e5497e7c0838c7bd411e9
+2008-02-06T21:35:39.890602Z
+390
+gcheshire
+
+sitecustomize.py
+file
+
+
+
+
+2007-02-28T07:32:55.000000Z
+5592905003fa129ee0895807fe419a29
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+

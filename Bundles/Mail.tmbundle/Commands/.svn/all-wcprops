@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands
+END
+Unwrap Paragraphs.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Unwrap%20Paragraphs.plist
+END
+Unquote Selection.plist
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Unquote%20Selection.plist
+END
+Reformat Quoted Text.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Reformat%20Quoted%20Text.plist
+END
+Encode Base 64 Line %3A Selection.plist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Encode%20Base%2064%20Line%20%253A%20Selection.plist
+END
+Rot 13 Line %3A Selection.plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Rot%2013%20Line%20%253A%20Selection.plist
+END
+Decode Base 64 Line %3A Selection.plist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Decode%20Base%2064%20Line%20%253A%20Selection.plist
+END
+Quote Selection.plist
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Quote%20Selection.plist
+END
+Send as HTML Email [with Safari].plist
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/68/trunk/Bundles/Mail.tmbundle/Commands/Send%20as%20HTML%20Email%20%5Bwith%20Safari%5D.plist
+END

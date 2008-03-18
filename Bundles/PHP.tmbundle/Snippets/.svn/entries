@@ -1,0 +1,736 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/PHP.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+require( ).tmSnippet
+file
+
+
+
+
+2007-03-09T00:41:47.000000Z
+50f16f37c098e6094954d2bae27d1b4c
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Start Docblock.tmSnippet
+file
+
+
+
+
+2007-02-21T07:56:48.000000Z
+5b5bf1b6af184f4b16a3be04eedce98a
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+%3C%3Fphp foreach (___) ___ %3C%3Fphp endforeach %3F%3E.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+e09ff6b6bac0404582c2462d80a91421
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+$_ENV[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+67b5ed165e9a15f47517acdd3bace5d0
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHP Error Catching.tmSnippet
+file
+
+
+
+
+2007-03-30T11:06:19.000000Z
+1f290082609125e51efa720909f7a21b
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+throw.tmSnippet
+file
+
+
+
+
+2007-05-03T12:21:17.000000Z
+cd59451656a77b4a8fce744f4210a7c6
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+include( ).tmSnippet
+file
+
+
+
+
+2007-03-09T00:41:47.000000Z
+747bf5d5eecadc39eee72c9cf44cb951
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc function signature.tmSnippet
+file
+290
+
+
+
+2007-11-17T23:18:55.000000Z
+7d715d1a2ee975d5b8ffbfaf8795908c
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+%3C%3Fphp echo ___ %3F%3E.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+743b5b206b62ba54482822fd0e2d79b9
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+%3C%3Fphp if (___) %3F%3E ___ %3C%3Fphp endif %3F%3E.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+875752ce8b85bf4b92997fc411eb16c6
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+switch( ) case%3A.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+0d154963640d336809055776ada22aa2
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+include_once( ).tmSnippet
+file
+
+
+
+
+2007-03-09T00:41:47.000000Z
+249d54e66ace962e24a55a94a7496441
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+new array( ).tmSnippet
+file
+
+
+
+
+2007-03-09T00:41:47.000000Z
+3005baddcef7b1b0c81cbf46b3fb2a64
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+if( ) else( ).tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+6a2c5b62a31c73f6b53b8a98c53d68f3
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+%3C%3Fphp if (___) %3F%3E ___ %3C%3Fphp else %3F%3E ___ %3C%3Fphp endif %3F%3E.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+99fa6259a1ee93e30f8719b4a8711b9f
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Special%3A Return Between PHP Tags.tmSnippet
+file
+111
+
+
+
+2007-08-19T23:29:49.000000Z
+dcceceaab61fb91c2407ee9e3bfaae3b
+2007-08-19T23:36:32.246689Z
+111
+gcheshire
+
+return TRUE;.tmSnippet
+file
+
+
+
+
+2007-02-25T14:24:28.000000Z
+4da9623d81ae9f189b0fd92f054811c5
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+echo ___.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+018912d4ff7e3bdd5c34668ff4158c10
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+$_FILES[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+db3c49228ce841d7a53daed2d75f34c5
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc class - post doc.tmSnippet
+file
+290
+
+
+
+2007-11-17T23:18:55.000000Z
+a505e159ed9875392ea8a00f2c0239bc
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+%3C%3Fphp else%3A %3F%3E.tmSnippet
+file
+252
+
+
+
+2007-10-27T01:37:57.000000Z
+8a03c23744ec2a16ce77d7179d8ec8cc
+2007-10-27T02:36:06.284135Z
+252
+gcheshire
+
+$_SERVER[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+ccef8162bfbf309bffa612510d078cb2
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+$_COOKIE[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+6850b9966c336bcf6c478112a14891e6
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+switch( ).tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+ad025e528f0039159f4910e3dad656c6
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+%3C%3Fphp echo htmlentities(___) %3F%3E.tmSnippet
+file
+
+
+
+
+2007-07-20T12:25:11.000000Z
+c940e0ceb5596d6c12015051af6f7e37
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc header.tmSnippet
+file
+475
+
+
+
+2008-03-09T19:04:32.000000Z
+6ad081ad3f245ec907aef0fba3e5a97f
+2008-03-09T19:35:27.684901Z
+475
+gcheshire
+
+foreach( ).tmSnippet
+file
+
+
+
+
+2007-07-24T08:33:01.000000Z
+25dd082753fcc0cbe9a67de21a54a414
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+$_GET[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+5d08115ecb5426ebbdbe48b00d86a8cd
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+while( ).tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+ce9e5cc1057d655058b92faef2d2efba
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+$_SESSION[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+dd3794a1b0882fa83219ea072f148f0f
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc function - post doc.tmSnippet
+file
+290
+
+
+
+2007-11-17T23:18:55.000000Z
+d06bb919cf740626b44ba0e63575694e
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+return $retVal;.tmSnippet
+file
+
+
+
+
+2007-02-25T14:24:28.000000Z
+6f2bc2f65a97b581142690bca5a5b978
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+$GLOBALS[''].tmSnippet
+file
+
+
+
+
+2007-05-03T12:21:17.000000Z
+748741abb806531f8c0f18662fb474f8
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+class { }.tmSnippet
+file
+284
+
+
+
+2007-11-15T14:35:14.000000Z
+444d1bbdb6f32ad8aa78c3c86122eca0
+2007-11-15T14:36:11.059058Z
+284
+gcheshire
+
+$_POST[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+46cf9a3a7acce7f27a4ceb49465cfec8
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc interface.tmSnippet
+file
+290
+
+
+
+2007-11-17T23:18:55.000000Z
+b02d3ab997d4fc7c263d964428db41d7
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+PHPDoc constant definition.tmSnippet
+file
+
+
+
+
+2006-10-30T17:40:33.000000Z
+6aac84cc98ca2072154868da3e87bdb8
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+$_REQUEST[''].tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+cbb7a00023bfa69c18886a027c592e2a
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+require_once( ).tmSnippet
+file
+
+
+
+
+2007-03-09T00:41:47.000000Z
+f6a420dbd19f1be2fbe5b7101d14c648
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc class.tmSnippet
+file
+290
+
+
+
+2007-11-17T23:18:55.000000Z
+4df1388aae17e9e6bb6bfbc1561a381c
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+for( ).tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+2f17cfa583f0ec073939d95c81a0af88
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc constant definition - post doc.tmSnippet
+file
+
+
+
+
+2006-10-30T17:40:33.000000Z
+e66b96110455a50c1f960c94b93a6de7
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+try { ___ } catch (___) { ___ }.tmSnippet
+file
+
+
+
+
+2007-05-03T12:21:17.000000Z
+dcb95520a6adea6fccb1f0010b2e14be
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+define( ).tmSnippet
+file
+
+
+
+
+2007-05-03T12:21:17.000000Z
+e53893a74f99ca30effd579ed76d13c8
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+%3C%3Fphp %3F%3E.tmSnippet
+file
+
+
+
+
+2007-03-29T21:59:33.000000Z
+dabfc30cd0f4d6a14fef3a4a38cf110f
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+do while( ).tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+b44aa671da668dfc0b2e9552cabd00f7
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+if %3F%3A a %3A b;.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+b9403723fceb40308237728cc5ed21ed
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc class var.tmSnippet
+file
+
+
+
+
+2006-10-30T17:40:33.000000Z
+de1d68be64d829e504df1e232b5a8ed5
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+if( ).tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+9a36c61bc4fcc98685fc1006314649fa
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+defined( ).tmSnippet
+file
+
+
+
+
+2007-03-09T00:41:47.000000Z
+4dd070eae7e848c8d4c72f72a51fdcbb
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+else {}.tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+fdd3339370640f74656023810b20d889
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+%3F%3E%E2%80%A6%3C%3Fphp.tmSnippet
+file
+
+
+
+
+2007-07-24T08:25:56.000000Z
+4a13255ad7ca13e001b0291c314eab6d
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Include TextMate Support Script.tmSnippet
+file
+
+
+
+
+2007-04-04T14:17:33.000000Z
+842d003a83e294cb0e00efdf2a0f0076
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Continue Block Comment.tmSnippet
+file
+
+
+
+
+2007-02-21T07:56:48.000000Z
+5da655cfd86916bf1dc1b07ca6123f93
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc function.tmSnippet
+file
+290
+
+
+
+2007-11-17T23:18:55.000000Z
+ea75d8c1fcfb2f96cd0fb9ea14151191
+2007-11-17T23:37:09.515059Z
+290
+gcheshire
+
+return FALSE;.tmSnippet
+file
+
+
+
+
+2007-02-25T14:24:28.000000Z
+e0f7964e0e8dc53b53876ce50a68a78a
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+PHPDoc class var - post doc.tmSnippet
+file
+
+
+
+
+2006-10-30T17:40:33.000000Z
+eecfa1623627c5f8938ed0a9c83a4162
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+function xx( ).tmSnippet
+file
+213
+
+
+
+2007-10-02T14:16:15.000000Z
+3962f76f83a937cff356e9e660e6bd39
+2007-10-02T14:36:18.871190Z
+213
+gcheshire
+
+elseif( ).tmSnippet
+file
+
+
+
+
+2007-02-27T13:16:56.000000Z
+fe947371842992956ec6739ea6b125be
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+

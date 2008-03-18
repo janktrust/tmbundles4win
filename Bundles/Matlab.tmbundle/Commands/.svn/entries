@@ -1,0 +1,64 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Matlab.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Open Function.plist
+file
+
+
+
+
+2005-11-18T03:07:30.000000Z
+d9cac1973a58738b94346fb02c488b86
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+subplot.tmCommand
+file
+
+
+
+
+2006-09-15T23:41:51.000000Z
+fe83a52ea1a04f6e58cd3d663d0cce00
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+= after !.tmCommand
+file
+
+
+
+
+2006-09-15T23:41:51.000000Z
+43cadf8819bdf5597d3aaeb7a08cd1a9
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+

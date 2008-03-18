@@ -1,0 +1,377 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets
+END
+fusebox_makeUrl __ (fm).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/fusebox_makeUrl%20__%20(fm).tmSnippet
+END
+for each (table) __ end for each (fet).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/for%20each%20(table)%20__%20end%20for%20each%20(fet).tmSnippet
+END
+query selection __ (qs).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/query%20selection%20__%20(qs).tmSnippet
+END
+write to console .. (wc).plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/write%20to%20console%20..%20(wc).plist
+END
+records in selection .. (ris).plist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/records%20in%20selection%20..%20(ris).plist
+END
+for each (array) __ end for each (fea).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/for%20each%20(array)%20__%20end%20for%20each%20(fea).tmSnippet
+END
+include .. (inc).plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/include%20..%20(inc).plist
+END
+write .. (w).plist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/write%20..%20(w).plist
+END
+array real .. set array .. (arrs).plist
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20real%20..%20set%20array%20..%20(arrs).plist
+END
+size of array .. (sa).plist
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/size%20of%20array%20..%20(sa).plist
+END
+if .. end if (if).plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/if%20..%20end%20if%20(if).plist
+END
+%3Cnumber __ %3A%3E (num).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Cnumber%20__%20%253A%253E%20(num).tmSnippet
+END
+while(not(end selection([..]))) end while (whe).plist
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/while(not(end%20selection(%5B..%5D)))%20end%20while%20(whe).plist
+END
+%3Cstring .. %3A%3E from session (ss).plist
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Cstring%20..%20%253A%253E%20from%20session%20(ss).plist
+END
+find in array .. (fia).plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/find%20in%20array%20..%20(fia).plist
+END
+query .. (q).plist
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/query%20..%20(q).plist
+END
+for each (string) __ end for each (fes).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/for%20each%20(string)%20__%20end%20for%20each%20(fes).tmSnippet
+END
+writeln .. (wl).plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/writeln%20..%20(wl).plist
+END
+for ( .. size of array(..)) .. end for (fors).plist
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/for%20(%20..%20size%20of%20array(..))%20..%20end%20for%20(fors).plist
+END
+session{__} (s).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/session%7B__%7D%20(s).tmSnippet
+END
+array text .. (art).plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20text%20..%20(art).plist
+END
+choose .. (ch).plist
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/choose%20..%20(ch).plist
+END
+for .. end for (for).plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/for%20..%20end%20for%20(for).plist
+END
+fusebox.head.addJS .. (js).plist
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/fusebox.head.addJS%20..%20(js).plist
+END
+array date .. set array .. (ards).plist
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20date%20..%20set%20array%20..%20(ards).plist
+END
+Active4D = block.plist
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/Active4D%20=%20block.plist
+END
+if .. else end if (ife).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/if%20..%20else%20end%20if%20(ife).plist
+END
+array boolean .. (arb).plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20boolean%20..%20(arb).plist
+END
+repeat .. until (rep).plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/repeat%20..%20until%20(rep).plist
+END
+size of array .. (sa) 2.plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/size%20of%20array%20..%20(sa)%202.plist
+END
+array string .. set array .. (arss).plist
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20string%20..%20set%20array%20..%20(arss).plist
+END
+a4d.debug.dump array .. (da).plist
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/a4d.debug.dump%20array%20..%20(da).plist
+END
+a4d.debug.dump collection($attributes) (dat).plist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/a4d.debug.dump%20collection($attributes)%20(dat).plist
+END
+method (..) .. end method (me).plist
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/method%20(..)%20..%20end%20method%20(me).plist
+END
+%3Cstring .. %3A%3E from attributes (at).plist
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Cstring%20..%20%253A%253E%20from%20attributes%20(at).plist
+END
+array longint .. (arl).plist
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20longint%20..%20(arl).plist
+END
+RowSet.newFromSelection .. (rs).plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/RowSet.newFromSelection%20..%20(rs).plist
+END
+fusebox redirect __ (fr).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/fusebox%20redirect%20__%20(fr).tmSnippet
+END
+$attributes .. (at).plist
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/$attributes%20..%20(at).plist
+END
+case of .. end case (case).plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/case%20of%20..%20end%20case%20(case).plist
+END
+%3Cstring .. %3A%3E from form field (ff).plist
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Cstring%20..%20%253A%253E%20from%20form%20field%20(ff).plist
+END
+XFA (xfa).plist
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/XFA%20(xfa).plist
+END
+array text .. set array .. (arts).plist
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20text%20..%20set%20array%20..%20(arts).plist
+END
+a4d.debug.dump collection .. (dc).plist
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/a4d.debug.dump%20collection%20..%20(dc).plist
+END
+fusebox.head.addCSS .. (css).plist
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/fusebox.head.addCSS%20..%20(css).plist
+END
+order by .. (ob).plist
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/order%20by%20..%20(ob).plist
+END
+while .. end while (wh).plist
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/while%20..%20end%20while%20(wh).plist
+END
+array real .. (arr).plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20real%20..%20(arr).plist
+END
+%3Ctime __ %3A%3E.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Ctime%20__%20%253A%253E.tmSnippet
+END
+Standard Header.plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/Standard%20Header.plist
+END
+case of .. else end case (casee).plist
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/case%20of%20..%20else%20end%20case%20(casee).plist
+END
+array boolean .. set array .. (arbs).plist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20boolean%20..%20set%20array%20..%20(arbs).plist
+END
+%3Cstring .. %3A%3E (st).plist
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Cstring%20..%20%253A%253E%20(st).plist
+END
+selection to array .. (sta).plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/selection%20to%20array%20..%20(sta).plist
+END
+for each .. end for each (fe).plist
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/for%20each%20..%20end%20for%20each%20(fe).plist
+END
+array longint .. set array .. (arls).plist
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20longint%20..%20set%20array%20..%20(arls).plist
+END
+method .. end method (mn).plist
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/method%20..%20end%20method%20(mn).plist
+END
+array date .. (ard).plist
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/array%20date%20..%20(ard).plist
+END
+%3CRowSet ..%3E %3C%3ARowSet%3E (rs).plist
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253CRowSet%20..%253E%20%253C%253ARowSet%253E%20(rs).plist
+END
+%3Cboolean __ %3A%3E (bool).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Cboolean%20__%20%253A%253E%20(bool).tmSnippet
+END
+writebr .. (wb).plist
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/writebr%20..%20(wb).plist
+END
+%3Cdate __%3A%3E.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/58/trunk/Bundles/Active4D.tmbundle/Snippets/%253Cdate%20__%253A%253E.tmSnippet
+END

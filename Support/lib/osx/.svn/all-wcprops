@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/84/trunk/Support/lib/osx
+END
+plist.bundle
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/54/trunk/Support/lib/osx/plist.bundle
+END
+keychain.bundle
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/svn/!svn/ver/84/trunk/Support/lib/osx/keychain.bundle
+END

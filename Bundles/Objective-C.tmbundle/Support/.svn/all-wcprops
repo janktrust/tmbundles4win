@@ -1,0 +1,179 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support
+END
+cocoa.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/cocoa.txt.gz
+END
+ExternalSnippetizer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/440/trunk/Bundles/Objective-C.tmbundle/Support/ExternalSnippetizer.rb
+END
+inspectClass.m
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/inspectClass.m
+END
+CocoaProtocols.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/CocoaProtocols.txt.gz
+END
+typedefdump.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/typedefdump.rb
+END
+list_to_regexp.rb
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/list_to_regexp.rb
+END
+generateMethodList.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/391/trunk/Bundles/Objective-C.tmbundle/Support/generateMethodList.rb
+END
+CocoaAnnotatedStrings.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/CocoaAnnotatedStrings.txt.gz
+END
+objc_selector_completion2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/442/trunk/Bundles/Objective-C.tmbundle/Support/objc_selector_completion2.rb
+END
+objc_completion2.rb
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/474/trunk/Bundles/Objective-C.tmbundle/Support/objc_completion2.rb
+END
+C++Lib.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/C++Lib.txt.gz
+END
+objcParser.rb
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/objcParser.rb
+END
+CocoaClasses.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/CocoaClasses.txt.gz
+END
+Collect Cocoa Definitions.sh
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/394/trunk/Bundles/Objective-C.tmbundle/Support/Collect%20Cocoa%20Definitions.sh
+END
+anonymousEnums.rb
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/anonymousEnums.rb
+END
+CocoaAnonymousEnums.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/CocoaAnonymousEnums.txt.gz
+END
+doc_references.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/doc_references.txt.gz
+END
+CocoaClassesWithAncestry.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/CocoaClassesWithAncestry.txt.gz
+END
+make_doc_references.rb
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/make_doc_references.rb
+END
+CLib.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/CLib.txt.gz
+END
+CocoaTypes.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/CocoaTypes.txt.gz
+END
+objc_completion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/385/trunk/Bundles/Objective-C.tmbundle/Support/objc_completion.rb
+END
+objc_selector_completion.rb
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/438/trunk/Bundles/Objective-C.tmbundle/Support/objc_selector_completion.rb
+END
+CocoaClassesWithFramework.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/CocoaClassesWithFramework.txt.gz
+END
+insert_super.py
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/insert_super.py
+END
+SpecialRules.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/385/trunk/Bundles/Objective-C.tmbundle/Support/SpecialRules.txt
+END
+CocoaFunctions.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/CocoaFunctions.txt.gz
+END
+CocoaNotifications.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/70/trunk/Bundles/Objective-C.tmbundle/Support/CocoaNotifications.txt.gz
+END
+CocoaConstants.txt.gz
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/381/trunk/Bundles/Objective-C.tmbundle/Support/CocoaConstants.txt.gz
+END

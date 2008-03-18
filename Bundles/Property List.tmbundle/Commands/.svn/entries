@@ -1,0 +1,76 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Property%20List.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Validate PLIST.plist
+file
+
+
+
+
+2005-11-01T05:41:04.000000Z
+f9751f1c16e0035873b2d7a7cf8b1e3d
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Convert to Old-Style ASCII.plist
+file
+
+
+
+
+2007-01-22T09:48:23.000000Z
+dbf6d0cd68fa121176ec0f7031c2143f
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Convert Binary to XML.tmCommand
+file
+
+
+
+
+2007-01-22T09:48:23.000000Z
+4656e0fb8a5716cefb050e315297a9d1
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Validate Preprocessed plist.plist
+file
+
+
+
+
+2007-01-18T03:15:33.000000Z
+57e9b87161d950a0bed7f74004e10664
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+

@@ -1,0 +1,41 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Experimental%20Wiki.tmbundle/Support/bin
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:12:47.482076Z
+61
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+linkify.rb
+file
+
+
+
+
+2007-05-31T11:11:23.000000Z
+c75b8cd19611e176307691858f8c09bc
+2007-07-29T06:12:47.482076Z
+61
+gcheshire
+has-props
+

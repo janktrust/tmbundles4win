@@ -1,0 +1,724 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/HTML.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+IE Conditional Comment%3A Internet Explorer 5_0 only.tmSnippet
+file
+
+
+
+
+2007-05-10T15:31:17.000000Z
+fd420471797be26f0562899ef4b7f3ba
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Arrow (arrow).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+6569ac3c75cfea1435546317c9da0dbc
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Ctitle%3E.plist
+file
+
+
+
+
+2006-06-24T18:40:42.000000Z
+b6ec490ca0136dbb2f088750aac63fd0
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cdiv%3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+cebf6cfae2df8f7c7135f25dc0649f10
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+IE Conditional Comment%3A Internet Explorer 5_x.tmSnippet
+file
+
+
+
+
+2007-05-10T15:31:17.000000Z
+86bc771dc712fd19bcff96f446c01a43
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Enter (enter).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+a87bc8be378cb0ed2f48d50489d7acbe
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Shift (shift).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+8478caababe4a95ab398187ff68d2798
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Right (right).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+fb038ff8462669a24d6c1340739b6c67
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Return (return).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+cad735dba97c447352e4486d9afe0c5d
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cbr %3A%3E.plist
+file
+
+
+
+
+2006-10-11T22:57:09.000000Z
+0aa4f57cad286a37928a5e991cc529da
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Wrap Selection In Tag.plist
+file
+
+
+
+
+2006-07-05T14:57:01.000000Z
+7850c4898e2ed7a89d5110b85a09247c
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+DocType XHTML 1.1.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+1de0ce716667f129ca3f8a91e69e85a7
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML   %3Cinput%3E.plist
+file
+
+
+
+
+2006-10-11T22:57:09.000000Z
+08b16da9e30ebdc88eae9bfbca73b167
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Strong.tmSnippet
+file
+
+
+
+
+2006-05-26T01:55:30.000000Z
+7ca61f8a1bdf2a0200812528a8a90f37
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cstyle%3E.plist
+file
+
+
+
+
+2006-11-03T23:33:55.000000Z
+473709a5030c7fd047a7a3c9fad8a586
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+IE Conditional Comment%3A Internet Explorer 6 only.tmSnippet
+file
+
+
+
+
+2007-05-10T15:31:17.000000Z
+cdd70aa3dfd563abfda2e7ce6fb1e2e6
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cscript%3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d64cb3ad7d6a93832ef3a9ae3cfbaac7
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Up (up).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+2e4830b1b2ec2e9e6a7087c3b5099c65
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Emphasize.tmSnippet
+file
+
+
+
+
+2006-05-26T01:55:30.000000Z
+74e2d6f90e8f6dfbdbe56ca1a97f5633
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Tab (tab).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+25d8c52116210a652a3a757db3db2213
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cbase%3E.plist
+file
+
+
+
+
+2006-10-11T22:57:09.000000Z
+18dbd7c8191b07c3bf59fcc510b7112d
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Backtab (backtab).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+85e13a0bf87e94677c371a8dab66e968
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+IE Conditional Comment%3A Internet Explorer 6 and below.tmSnippet
+file
+
+
+
+
+2007-05-10T15:31:17.000000Z
+e50abe482a97c7b9adff270852a19df8
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+IE Conditional Comment%3A Internet Explorer 7+.tmSnippet
+file
+
+
+
+
+2007-05-10T15:31:17.000000Z
+59e681846626a13c1893401b35d51bb0
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML   %3Ctextarea%3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+75ea2556f91757f16206c7726dd93066
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+HTML %E2%80%94 4.0 Transitional (doctype).plist
+file
+
+
+
+
+2006-11-01T19:40:02.000000Z
+65c80dbc3dc1b414a5a4bb5377253ea0
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Input with Label.tmSnippet
+file
+347
+
+
+
+2007-12-24T06:46:38.000000Z
+97c94dff1038bd286564b9666d3845fc
+2007-12-24T07:35:46.389095Z
+347
+gcheshire
+
+Smart return%3Aindent for tag pairs.plist
+file
+
+
+
+
+2007-06-07T11:53:56.000000Z
+7ba9b16f2fad076b2d33f381027dc22e
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Ca mailto%3A %3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+43a73f51e2635a1d9806e071892395e9
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Left (left).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+b87a7a508e5849e22a72c93cb8113cc9
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Wrap in %3C%3F= %E2%80%A6 %3F%3E.plist
+file
+
+
+
+
+2006-05-23T20:23:34.000000Z
+2609f96dabcb389041b2e4bf56105136
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Fieldset.tmSnippet
+file
+347
+
+
+
+2007-12-24T06:46:38.000000Z
+7348358320eed9f60e3f807e51d52a1d
+2007-12-24T07:35:46.389095Z
+347
+gcheshire
+
+Backspace (backspace).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+62820fc0a2befcbc6d54f91070ac3650
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+IE Conditional Comment%3A Internet Explorer 5_5 only.tmSnippet
+file
+
+
+
+
+2007-05-10T15:31:17.000000Z
+915c568c6765d5c9ceaccb23c0d87e2e
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cscript src...%3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+90b5a1064057d3e99da57359e90b9fa7
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+DocType XHTML 1.0 Transitional.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+398990cfc6f8341f633ee08cfd87fb6d
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cmeta%3E.plist
+file
+
+
+
+
+2006-10-11T22:57:09.000000Z
+4783638840d206d7818237b897ba2472
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+DocType XHTML 1.0 Strict.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+3577f8e8a325a88bb2c97fee2bbb48e8
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Ctable%3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+42994a666b4fd4e560ee738ef43a9c8a
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Command (command).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+dbd6f196bde412b4c409e09aec8156ea
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+IE Conditional Comment%3A NOT Internet Explorer.tmSnippet
+file
+
+
+
+
+2007-07-03T01:33:19.000000Z
+d08aff61924bd8cc4eac760df40540a4
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Option.tmSnippet
+file
+347
+
+
+
+2007-12-24T06:46:38.000000Z
+811089d17360c45bc508ae612a37c5d3
+2007-12-24T07:35:46.389095Z
+347
+gcheshire
+
+XHTML %3Clink%3E.plist
+file
+
+
+
+
+2006-10-11T22:57:09.000000Z
+65c15a2bab6fb4273f118eea1caaca35
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Escape (escape).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+12df34140aa49e2c80473af4dc29846e
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Embed QT movie (movie).plist
+file
+
+
+
+
+2006-10-11T22:57:09.000000Z
+2f55a5dc58ff458d845279bc0061fe46
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Control (control).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+eba979a006de58d406b94847e011876e
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cbody%3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+3356508607f229d43ba9549958df11cc
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Chead%3E.plist
+file
+
+
+
+
+2006-11-12T11:10:51.000000Z
+d767bd6752ffc9ed8b648c148dfbab8e
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Delete (delete).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+587a94e43a5112389aba39519fc324ad
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+DocType HTML 4.0 Strict.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+7f7627b0344ac8b0d29f059c4579779b
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Cform%3E.plist
+file
+
+
+
+
+2006-10-11T22:57:09.000000Z
+32eebcd35e277f35f03dd78250ca8e5b
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML &nbsp; NonBreakingSpace.plist
+file
+
+
+
+
+2005-11-21T22:48:30.000000Z
+eed483c1f162f6e92afaf10bd0ccd160
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+DocType XHTL 1.0 Frameset.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+cea024cb411ad68cef5610bddda83272
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+XHTML %3Ch1%3E.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d91f45955a5808fcbb3ccb640803c0df
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+IE Conditional Comment%3A Internet Explorer.tmSnippet
+file
+
+
+
+
+2007-05-10T15:31:17.000000Z
+22beaa243c752046f532b0c11ba9096c
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Down (down).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+5bba2d9449f495fc810779183376b348
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+
+Select Box.tmSnippet
+file
+347
+
+
+
+2007-12-24T06:46:38.000000Z
+ea75cea0bc0a68d913030bc60ccf5125
+2007-12-24T07:35:46.389095Z
+347
+gcheshire
+
+Option (option).plist
+file
+
+
+
+
+2006-06-14T03:05:40.000000Z
+597228142fca45f6ef448a1cab215bb3
+2007-07-29T06:20:36.903085Z
+64
+gcheshire
+

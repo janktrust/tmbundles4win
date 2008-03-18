@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Erlang.tmbundle/Syntaxes
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:12:47.482076Z
+61
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+HTML (Erlang).tmLanguage
+file
+420
+
+
+
+2008-02-18T01:00:34.000000Z
+279efdec6bdd8035369e383d7f6c6838
+2008-02-18T01:35:56.919118Z
+420
+gcheshire
+
+Erlang.plist
+file
+376
+
+
+
+2008-01-30T06:23:17.000000Z
+e1f62fe905f20d1615abec9c7aa53e22
+2008-01-30T06:35:33.450202Z
+376
+gcheshire
+

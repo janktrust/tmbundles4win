@@ -1,0 +1,124 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Lua.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+for i=1,10.plist
+file
+
+
+
+
+2006-02-26T08:39:10.000000Z
+d8a7f3d1c66941d75f1deb7e5fc69c3b
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+for k,v in pairs().plist
+file
+
+
+
+
+2006-02-26T08:39:10.000000Z
+34cf1def38b7b2cab49de908eb30a592
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+function (function).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+2954d419dd8f7d7a405482a78dc09708
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+table.sort.plist
+file
+
+
+
+
+2006-02-26T08:39:10.000000Z
+b75d8f977b15cb1ac94a3a143fa3fd72
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+table.concat.plist
+file
+
+
+
+
+2006-02-26T08:39:10.000000Z
+a4846399ef027e113a5be0e67fefb7b0
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+function (fun).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+1a095f60199344650fd9ff8cfed50432
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+local x = 1.plist
+file
+
+
+
+
+2006-02-26T08:39:10.000000Z
+71929ce0686c2169714f0e29fc12acab
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+
+for i,v in ipairs().plist
+file
+
+
+
+
+2006-02-26T08:39:10.000000Z
+2288dc073aeb86daa3948324bab46c9e
+2007-07-29T06:28:21.296280Z
+67
+gcheshire
+

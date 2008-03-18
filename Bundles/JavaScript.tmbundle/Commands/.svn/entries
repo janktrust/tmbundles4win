@@ -1,0 +1,88 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/JavaScript.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Documentation for Word.plist
+file
+
+
+
+
+2006-04-12T01:22:15.000000Z
+ba48581bda3e3a3716e8d33242951dce
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+New Method.tmCommand
+file
+
+
+
+
+2006-09-26T15:20:02.000000Z
+45f46fe829d35c33c5344e3883483a44
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+Copy as Bookmarklet to Clipboard.tmCommand
+file
+304
+
+
+
+2007-11-27T08:16:51.000000Z
+fe3e40bb821e396bd661a86baad03435
+2007-11-27T08:35:54.386058Z
+304
+gcheshire
+
+Reformat Document %3A Selection.tmCommand
+file
+430
+
+
+
+2008-02-21T09:52:34.000000Z
+5092d83127cf24ecce6a4861e4cbc65f
+2008-02-21T10:35:25.704540Z
+430
+gcheshire
+
+New Function.tmCommand
+file
+
+
+
+
+2006-09-26T15:20:02.000000Z
+c8b3fc44d0d9d99779e1ab0b13468e90
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+

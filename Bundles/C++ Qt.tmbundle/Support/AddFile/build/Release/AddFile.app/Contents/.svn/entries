@@ -1,0 +1,46 @@
+8
+
+dir
+278
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/C++%20Qt.tmbundle/Support/AddFile/build/Release/AddFile.app/Contents
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+MacOS
+dir
+
+Info.plist
+file
+
+
+
+
+2007-11-13T04:41:29.000000Z
+250f04c23fb3a23265324fa62f1103ad
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+
+Resources
+dir
+
+PkgInfo
+file
+
+
+
+
+2007-11-13T04:41:29.000000Z
+23b7d7d024abb0f558420e098800bf27
+2007-11-13T05:37:31.382936Z
+278
+gcheshire
+

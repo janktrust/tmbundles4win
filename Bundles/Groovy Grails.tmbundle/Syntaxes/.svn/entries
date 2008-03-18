@@ -1,0 +1,28 @@
+8
+
+dir
+291
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Groovy%20Grails.tmbundle/Syntaxes
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-11-19T04:39:04.936896Z
+291
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+GSP.tmLanguage
+file
+
+
+
+
+2007-11-15T07:35:53.000000Z
+a6445b50b3c4bb01bb8c98aad10fe8f7
+2007-11-19T04:39:04.936896Z
+291
+gcheshire
+

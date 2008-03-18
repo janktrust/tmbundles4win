@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets
+END
+Block Comment.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/Block%20Comment.tmSnippet
+END
+toLatin1().data() (latin).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/toLatin1().data()%20(latin).tmSnippet
+END
+qmake Project template stub.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/qmake%20Project%20template%20stub.tmSnippet
+END
+qWarning (warn).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/qWarning%20(warn).tmSnippet
+END
+Block Comment Newline.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/Block%20Comment%20Newline.tmSnippet
+END
+Q_PROPERTY.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/Q_PROPERTY.tmSnippet
+END
+foreach.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/foreach.tmSnippet
+END
+disconnect.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/disconnect.tmSnippet
+END
+connect.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/connect.tmSnippet
+END
+main (qmain).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/72/trunk/Bundles/Qt.tmbundle/Snippets/main%20(qmain).tmSnippet
+END

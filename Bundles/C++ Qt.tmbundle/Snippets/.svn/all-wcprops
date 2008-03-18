@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets
+END
+Block Comment.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/Block%20Comment.tmSnippet
+END
+toLatin1().data() (latin).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/toLatin1().data()%20(latin).tmSnippet
+END
+Block Comment Newline.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/Block%20Comment%20Newline.tmSnippet
+END
+qWarning (warn).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/qWarning%20(warn).tmSnippet
+END
+qmake Project template stub.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/256/trunk/Bundles/C++%20Qt.tmbundle/Snippets/qmake%20Project%20template%20stub.tmSnippet
+END
+QTimer%3A%3AsingleShot(___).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/!svn/ver/256/trunk/Bundles/C++%20Qt.tmbundle/Snippets/QTimer%253A%253AsingleShot(___).tmSnippet
+END
+Q_PROPERTY.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/Q_PROPERTY.tmSnippet
+END
+toUtf8()_data().tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/256/trunk/Bundles/C++%20Qt.tmbundle/Snippets/toUtf8()_data().tmSnippet
+END
+qSort(___).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/256/trunk/Bundles/C++%20Qt.tmbundle/Snippets/qSort(___).tmSnippet
+END
+foreach.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/foreach.tmSnippet
+END
+connect.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/connect.tmSnippet
+END
+disconnect.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/disconnect.tmSnippet
+END
+main (qmain).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/139/trunk/Bundles/C++%20Qt.tmbundle/Snippets/main%20(qmain).tmSnippet
+END

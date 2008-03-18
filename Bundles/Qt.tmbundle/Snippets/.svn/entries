@@ -1,0 +1,148 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Qt.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Block Comment.tmSnippet
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+1e5a6da56db4424b57eb9d902b19b39e
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+toLatin1().data() (latin).tmSnippet
+file
+
+
+
+
+2006-10-09T11:37:16.000000Z
+d72de5ed920065c3effd4d8d382f34d6
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+qmake Project template stub.tmSnippet
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+b5b6a61678c6b41a45e4517463d14974
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+qWarning (warn).tmSnippet
+file
+
+
+
+
+2006-10-09T11:37:16.000000Z
+29819550344692bd3b8758d59d2beb8d
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+Block Comment Newline.tmSnippet
+file
+
+
+
+
+2006-10-24T09:54:28.000000Z
+2197029164bb5063e6066564c40c6489
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+Q_PROPERTY.tmSnippet
+file
+
+
+
+
+2006-09-28T20:56:26.000000Z
+da2e4f47d4e95031402d70083e7f3e8c
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+foreach.tmSnippet
+file
+
+
+
+
+2006-09-28T20:56:26.000000Z
+080434078db2bb4a99f37c05ae0ca68b
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+disconnect.tmSnippet
+file
+
+
+
+
+2006-09-28T20:56:26.000000Z
+eec7e4b0b9974a0735743a8ec18def93
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+connect.tmSnippet
+file
+
+
+
+
+2006-09-28T20:56:26.000000Z
+153285f379dc644712f14d136dd0b845
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+
+main (qmain).tmSnippet
+file
+
+
+
+
+2006-10-09T11:37:16.000000Z
+8e74be1958dcde7cc32ca0c87120af81
+2007-07-29T07:00:32.949589Z
+72
+gcheshire
+

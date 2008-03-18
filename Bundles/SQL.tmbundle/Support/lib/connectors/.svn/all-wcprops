@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/83/trunk/Bundles/SQL.tmbundle/Support/lib/connectors
+END
+byteorder.rb
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/byteorder.rb
+END
+binary_writer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/binary_writer.rb
+END
+mysql.rb
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/83/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/mysql.rb
+END
+binary_reader.rb
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/binary_reader.rb
+END
+postgres-compat.rb
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/postgres-compat.rb
+END
+buffer.rb
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/74/trunk/Bundles/SQL.tmbundle/Support/lib/connectors/buffer.rb
+END

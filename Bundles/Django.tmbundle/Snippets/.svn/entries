@@ -1,0 +1,340 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Django.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+FilePathField (filepath).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+95fbb2d49f7187c7f10ed3dabda03130
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+ManyToManyField (manytomany).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+e366a07165ce26b530bde5774a067440
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+DateTimeField.tmSnippet
+file
+
+
+
+
+2006-05-27T20:40:28.000000Z
+d432da07a6fad11e39f0e3995230192e
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+IntegerField (integer).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+ffd7722f1140ac009c662746a8f04404
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+DateField (date).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+c906060696ca78f5bc508f61ca617568
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+CharField (char).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+489bef4e2bf3e6e56056ac9cb6fa15c6
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+IPAddressField (ipaddress).tmSnippet
+file
+97
+
+
+
+2007-08-15T04:17:51.000000Z
+251f9ad5c91ff4b0441a60fb010bd42f
+2007-08-15T04:36:34.163471Z
+97
+gcheshire
+
+PositiveIntegerField (posint).tmSnippet
+file
+97
+
+
+
+2007-08-15T04:17:51.000000Z
+10af4d9ced6a6b1c7725a0de7f4fd0f1
+2007-08-15T04:36:34.163471Z
+97
+gcheshire
+
+TimeField (time).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+60190025fbfdfdca37fda8de80dd3930
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+FileField (file).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+de9018ae3c638b12219d0c1d4744ebef
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+ForeignKey (fk).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+8dc38823ec3480e5bf05fbeb35401158
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+BooleanField (boolean).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+8ffecb874f7ef76f47b247b97ddb21f3
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+NullBooleanField (nullbool).tmSnippet
+file
+97
+
+
+
+2007-08-15T04:17:51.000000Z
+3441272dc44a47642eec146094f24093
+2007-08-15T04:36:34.163471Z
+97
+gcheshire
+
+Model Skeleton (model).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+655a550efeffeb98da1182fc0eb7679f
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+USStateField (ussstate).tmSnippet
+file
+
+
+
+
+2007-05-17T06:24:03.000000Z
+3ca2b7be267dc121056bb3c4658b0fda
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+PositiveSmallIntegerField (possmall).tmSnippet
+file
+97
+
+
+
+2007-08-15T04:17:51.000000Z
+b677bf4ba8de01e787cdc8a0434f1a6b
+2007-08-15T04:36:34.163471Z
+97
+gcheshire
+
+ImageField (image).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+3bf284064c5803864629f01e1247b798
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+PhoneNumberField (phonenumber).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+f46e19d0f1d7042a1b320d65a84c265a
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+URLField (url).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+977b288f4325045198911eb28680e684
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+CommaSeparatedIntegerField (commaseparatedinteger).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+218e410c7359bc2ce9053b53165158a7
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+TextField (text).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+c9d957201ce9691ef5ea6eb990eb1013
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+FloatField (float).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+c5b0223c65491e031c546dfe520eb1fa
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+SmallIntegerField (smallinteger).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+f53f4bede62664542f39e38f05c541fe
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+EmailField (email).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+7de9c1e5892afff27c178f414d3bebfb
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+AutoField (auto).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+152b531c172554a80a826e812122e583
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+
+SlugField (slug).tmSnippet
+file
+
+
+
+
+2006-06-14T12:10:50.000000Z
+cf21a3206649cf414d2d151ea5c7fdf4
+2007-07-29T06:11:22.903496Z
+60
+gcheshire
+

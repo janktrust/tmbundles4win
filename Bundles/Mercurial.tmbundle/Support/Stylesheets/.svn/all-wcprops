@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets
+END
+hg_info_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets/hg_info_style.css
+END
+hg_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets/hg_style.css
+END
+hg_log_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets/hg_log_style.css
+END
+hg_status_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets/hg_status_style.css
+END
+hg_help_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets/hg_help_style.css
+END
+hg_commit_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets/hg_commit_style.css
+END
+hg_annotate_style.css
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/68/trunk/Bundles/Mercurial.tmbundle/Support/Stylesheets/hg_annotate_style.css
+END

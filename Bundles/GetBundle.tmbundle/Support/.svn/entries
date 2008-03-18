@@ -1,0 +1,76 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/GetBundle.tmbundle/Support
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+as
+dir
+
+TextMate.icns
+file
+
+
+
+
+2006-10-17T20:19:03.000000Z
+512248f977337389b4f19500b09bd9d1
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+has-props
+
+bin
+dir
+
+notify.rb
+file
+261
+
+
+
+2007-11-02T15:20:30.000000Z
+8da60d5373a9efa6f798db68064bf06c
+2007-11-02T15:36:17.830377Z
+261
+gcheshire
+has-props
+
+nibs
+dir
+
+show_bundles.rb
+file
+
+
+
+
+2007-06-10T16:57:35.000000Z
+80b57343786c7e4aa38d5bb48706d82b
+2007-07-29T06:18:17.830149Z
+63
+gcheshire
+has-props
+

@@ -1,0 +1,136 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/PHP.tmbundle/Preferences
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Comments.plist
+file
+
+
+
+
+2006-04-15T13:46:06.000000Z
+7198ca992093ac866d14a615561c2eb3
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Add Magic Methods to the Symbol List.tmPreferences
+file
+
+
+
+
+2007-05-12T13:08:43.000000Z
+176bc6b9bd18a1afaf30798438dd3547
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Disable spellcheck in require.tmPreferences
+file
+
+
+
+
+2007-03-27T08:11:33.000000Z
+96e4c9e2fcf59992822fcf3cff77b084
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Symbols List%3A functions.tmPreferences
+file
+
+
+
+
+2007-05-22T12:05:03.000000Z
+fc5e965906767518de9bc2d5b6798130
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Indentation Rules.tmPreferences
+file
+
+
+
+
+2007-05-13T14:52:10.000000Z
+a01c10cf49b37da8f8b2020f3f454abf
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Completion%3A includes.tmPreferences
+file
+
+
+
+
+2007-05-03T15:55:03.000000Z
+474ebcf89a5f4a64ee1527923c08fdc3
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Completions.tmPreferences
+file
+93
+
+
+
+2007-08-14T02:16:35.000000Z
+bf95a22d3b4b0ba69ac0bc515f82cc00
+2007-08-14T19:39:30.939695Z
+93
+gcheshire
+
+Miscellaneous.plist
+file
+
+
+
+
+2005-09-05T20:34:51.000000Z
+204bb569d7773b3e781ce582b63e93e8
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+Enable Spellchecking for Docblocks.tmPreferences
+file
+
+
+
+
+2007-02-21T07:56:48.000000Z
+284d44bd67e591e912a27010157e5d50
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+

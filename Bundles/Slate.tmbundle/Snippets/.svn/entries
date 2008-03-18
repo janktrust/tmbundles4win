@@ -1,0 +1,172 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Slate.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+define prototype (proto).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+dd44a1bf44f6d6016034bffddb5da896
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+doWithIndex (dowith).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+7f7f79cf71adeca88939806cc353e4d5
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+do (do).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+7d2ce1955820aa1d062b542a34838848
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+until (until).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+16d6e5b6844e34eadb74c01d7b063942
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+If-then-else (ifte).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+966cfe813a108e126257a6c12afaa079
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+If-then (if).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+21de73785b9af5489b94175c6a8f2cdd
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+reject (reject).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+f6df578288f1689f3b97bd92f785e189
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+collect (collect).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+fb86984ab28c525047f62fb55628dcde
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+Block Header ([).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+5d8395bc0e7553c0447c9763f75c4830
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+select (select).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+ee1b5560049cf110e16d7ab27a55adb4
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+while (while).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+d897bb81fac47497865eb3d1afcfd5c5
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+inject into (inject).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+e44e9ca71bf3ce1c897ef43f6866c2d9
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

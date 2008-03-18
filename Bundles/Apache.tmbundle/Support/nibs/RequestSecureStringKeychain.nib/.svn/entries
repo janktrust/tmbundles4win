@@ -1,0 +1,53 @@
+8
+
+dir
+397
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Apache.tmbundle/Support/nibs/RequestSecureStringKeychain.nib
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2008-02-10T20:36:11.102518Z
+397
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+keyedobjects.nib
+file
+402
+
+
+
+2008-02-11T14:33:21.000000Z
+1ca0ab27ba38bc2e1b2d495a547badb0
+2008-02-11T14:35:38.619328Z
+402
+gcheshire
+has-props
+
+info.nib
+file
+402
+
+
+
+2008-02-11T14:33:21.000000Z
+715cf5ee65c3e20c0b718322122c3c31
+2008-02-11T14:35:38.619328Z
+402
+gcheshire
+
+classes.nib
+file
+402
+
+
+
+2008-02-11T14:33:21.000000Z
+6bcf625fcb179793db202c7e9fb5bc05
+2008-02-11T14:35:38.619328Z
+402
+gcheshire
+

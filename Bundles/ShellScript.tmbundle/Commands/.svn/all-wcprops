@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/74/trunk/Bundles/ShellScript.tmbundle/Commands
+END
+Open directory in Terminal.plist
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/!svn/ver/74/trunk/Bundles/ShellScript.tmbundle/Commands/Open%20directory%20in%20Terminal.plist
+END
+man.plist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/193/trunk/Bundles/ShellScript.tmbundle/Commands/man.plist
+END
+New Function.plist
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/74/trunk/Bundles/ShellScript.tmbundle/Commands/New%20Function.plist
+END
+Toggle Backticks.plist
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/74/trunk/Bundles/ShellScript.tmbundle/Commands/Toggle%20Backticks.plist
+END
+Make Current File Executable.plist
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/!svn/ver/74/trunk/Bundles/ShellScript.tmbundle/Commands/Make%20Current%20File%20Executable.plist
+END
+Execute Current File in Window.plist
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/svn/!svn/ver/487/trunk/Bundles/ShellScript.tmbundle/Commands/Execute%20Current%20File%20in%20Window.plist
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Syntaxes
+END
+Test.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Syntaxes/Test.java
+END
+JavaProperties.plist
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Syntaxes/JavaProperties.plist
+END
+test.properties
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Syntaxes/test.properties
+END
+JavaDoc.tmLanguage
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/360/trunk/Bundles/Java.tmbundle/Syntaxes/JavaDoc.tmLanguage
+END
+Java.plist
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/333/trunk/Bundles/Java.tmbundle/Syntaxes/Java.plist
+END

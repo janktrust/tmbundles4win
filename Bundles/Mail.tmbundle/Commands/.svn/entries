@@ -1,0 +1,124 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Mail.tmbundle/Commands
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Unwrap Paragraphs.plist
+file
+
+
+
+
+2007-03-17T03:20:29.000000Z
+5482ab0c6e6ca55a64d1a5d092365fe5
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Unquote Selection.plist
+file
+
+
+
+
+2006-07-31T12:49:00.000000Z
+7fafd7e21e97d11b18f42e6674befd90
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Reformat Quoted Text.plist
+file
+
+
+
+
+2006-07-31T12:49:00.000000Z
+f5f2a4fd06901e89fc0d659290561aaf
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Encode Base 64 Line %3A Selection.plist
+file
+
+
+
+
+2006-03-18T03:46:48.000000Z
+4f4cbe9dbef9c1fc576671de0f87ea6b
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Rot 13 Line %3A Selection.plist
+file
+
+
+
+
+2006-03-18T03:46:48.000000Z
+d36f7ea389f4c3bdfd10b6128a16a49d
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Decode Base 64 Line %3A Selection.plist
+file
+
+
+
+
+2006-03-18T03:46:48.000000Z
+dc97da23bd4d21afe3709a6fc300dbf0
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Quote Selection.plist
+file
+
+
+
+
+2006-07-31T12:49:00.000000Z
+49a25a0cff318b41f5f8542ffc958004
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Send as HTML Email [with Safari].plist
+file
+
+
+
+
+2006-06-18T18:17:09.000000Z
+eff6668e30483b7c6a6781cc332e4d48
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+

@@ -1,0 +1,472 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Java.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+param.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+9b4a45d6d1c4f7755deefddb006cc4cf
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+since.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+55ceb38855013fb77e16f3abf9d7c727
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+author.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+78c617ff85e79f504ab28aa356b5daff
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Java while statement.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+c122e74b47caead634182ec6f39422c6
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+JSTL c%3Aout.plist
+file
+
+
+
+
+2006-05-23T19:55:12.000000Z
+2011f2f4f98d738b0c1c97b8895e5e0f
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+Java JUnit test class def.plist
+file
+238
+
+
+
+2007-10-19T12:59:42.000000Z
+807a2cf4c82b27675e32c0bf4849f786
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+docRoot.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+93b0a34fdc4df4cde20017c8d167d03a
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+see.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+8726ef4a7a99bc4bc25f570d0bf5a8d4
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+value.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+9f87c448f2e5f106e20d51d47614154b
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+return.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+c7d66acfe7dc6fd50450408c48f5632d
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Doc Block.tmSnippet
+file
+359
+
+
+
+2008-01-06T08:53:30.000000Z
+a08bf2e948aca7348b8c4c2e8f4c59a3
+2008-01-06T09:35:38.420827Z
+359
+gcheshire
+
+linkplain.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+3a0384bece53c3863221b42bd004fb26
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+version.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+e2d11ac81a59247631e4ff93a223a677
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Java private method.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+9dbac75c661f882b3d51a82091d55083
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+Java logger.plist
+file
+
+
+
+
+2006-04-01T02:46:15.000000Z
+be2fc58a319f0921e18859996cc108d0
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+Java try%3Acatch%3Afinally.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+59eec5126e61ffd192735e923b1b7935
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+main.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+8f9bc87fde69461ab423254e1b7d6d1d
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+link.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+717562e268da20f416cc25fa192f7742
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Java if statement.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+31e5932b0efaaa51ea604f3005dded85
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+Java private var.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+8563b38b4f069a3c00b86ace757fc3f9
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+Java if%3Aelse statement.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+036e280aa9e610fc45ea5f67c9ae0c4d
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+deprecated.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+2427da49d7eb4bc696ddda1c00b05b68
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+bean setter and getter.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+375b2aa0a1214afee239dc1b6674eb81
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+Wrap Selection in Try%3ACatch.plist
+file
+
+
+
+
+2006-04-01T02:46:15.000000Z
+6f2204d4dab664ecb201429d791a727e
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+serialData.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+f4981ef90a930fbc4e96da89a9aecaac
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+code.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+1f54b3c0fd53ec7ca694f861c7a7f536
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Java const def.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+c0cffd95db96e54c27bb1a95f87caec0
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+serial.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+988ecd988b5b3480514fd7563f089338
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Continue Block Comment.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+67259b567796a7b103dad396eea5dc34
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+serialField.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+a56a7ee1678d0720f15239b3e2504ecb
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Class (class).plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+9eb1378c1fd6d8a6e8f36932a9e9ed91
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+throws.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+e530940fe6d6c0350907e97a3f0dc006
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+System.out.println.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+df76e601e7a66040ff895d82237fe91a
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+method.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+4caa3dbe4931e8b7d77b07a795fb58cd
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+inheritDoc.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+1887dd97db3b2a1810cc19e6eab0926e
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+
+Java public method.plist
+file
+
+
+
+
+2006-06-14T02:52:10.000000Z
+5383bf630c3bd0f735f99a4b558fb6b7
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+literal.tmSnippet
+file
+333
+
+
+
+2007-12-17T03:35:43.000000Z
+b8ee42b5ffd9d876861471aa8972079e
+2007-12-17T04:35:57.920889Z
+333
+gcheshire
+

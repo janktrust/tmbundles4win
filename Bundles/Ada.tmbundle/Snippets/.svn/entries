@@ -1,0 +1,268 @@
+8
+
+dir
+345
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Ada.tmbundle/Snippets
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+package body ___ end.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+b383cc283390b4e04b5ba79a6e869fd4
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+if ___ end if.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+25d44ad49941ec34c97aba806dabed84
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+access.tmSnippet
+file
+
+
+
+
+2007-12-23T09:57:46.000000Z
+df554bde2eaf5384dd800754193aa5f7
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+record ___ end record.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+20b6e429bc7ee2a5c42bd682aee131d0
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+aliased.tmSnippet
+file
+
+
+
+
+2007-12-23T09:57:46.000000Z
+e2d77a31141f934687e9f762f8be05ad
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+with ___;.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+f5992c37ef94b5f708bc769b5420eb5f
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+type ___ is ___.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+de80150437bac1b76e0ca9b590d08bef
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+return ___;.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+157ba39615af1fbe9f8c5416a28b2927
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+begin ___ end.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+2ddd92ea1aa031f70dfb0062c3c38cd9
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+with ___; use ___;.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+3bc0e642251a533d68d9ec708b74c45f
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+function ___ end.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+f9de543bb6deb8d3493a7852050882f0
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+procedure ___ end.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+84f2dba8a27ceeed6fc281776d124d55
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+while ___ loop ___ end loop.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+8a9dee69b2534be31d560062a6a8fe76
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+elsif ___ then.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+82a6c755a9b834d7cde6a65d49e32944
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+package ___ end.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+10101c36b96476de2c4852018b19999f
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+case ___ is ___ end case;.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+23cba32ea6790b2208b7d52b30e0438b
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+package ___ is ___.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+df1b1506e565da9f61f6317e6a84d686
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+use ___;.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+bdaee722b5ac50f1aaf734461c61a9e2
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+loop ___ end loop.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+31d4c4157db78a568cefd512db1fa603
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+when ___ =%3E.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+5fca60bf8db99ad3ee4cf1919279bd2a
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+
+for ___ loop ___ end loop.tmSnippet
+file
+
+
+
+
+2007-12-23T10:01:43.000000Z
+a5233edbadd30e96b606f132bed11443
+2007-12-23T10:35:59.567869Z
+345
+gcheshire
+

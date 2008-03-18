@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Python.tmbundle/Templates/Python%20Unittest
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:58:56.112073Z
+71
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+template.py
+file
+238
+
+
+
+2007-10-19T12:42:03.000000Z
+4280b6b706c7a8cf9fc74def817c8120
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+
+info.plist
+file
+238
+
+
+
+2007-10-19T12:42:03.000000Z
+25693e81fc3208125c702a9e59575652
+2007-10-19T13:38:41.536117Z
+238
+gcheshire
+

@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Standard%20ML.tmbundle/Syntaxes
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-30T19:05:04.169143Z
+81
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+CM.tmLanguage
+file
+216
+
+
+
+2007-10-05T23:54:59.000000Z
+109b8fbda3f0a820f44931833ccf914a
+2007-10-06T00:36:11.875404Z
+216
+gcheshire
+
+Standard ML.plist
+file
+172
+
+
+
+2007-09-14T15:47:37.000000Z
+ea675b2c21888d2f9335a2ffd010da73
+2007-09-14T16:36:21.165444Z
+172
+gcheshire
+

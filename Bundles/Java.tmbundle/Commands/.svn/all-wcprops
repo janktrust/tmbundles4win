@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Commands
+END
+Run Junit Tests.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Commands/Run%20Junit%20Tests.tmCommand
+END
+Compile & run java file.plist
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Commands/Compile%20&%20run%20java%20file.plist
+END
+JavaDoc Tag Reference.tmCommand
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/333/trunk/Bundles/Java.tmbundle/Commands/JavaDoc%20Tag%20Reference.tmCommand
+END
+ShowJavaDoc.plist
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/359/trunk/Bundles/Java.tmbundle/Commands/ShowJavaDoc.plist
+END
+ant.plist
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/66/trunk/Bundles/Java.tmbundle/Commands/ant.plist
+END

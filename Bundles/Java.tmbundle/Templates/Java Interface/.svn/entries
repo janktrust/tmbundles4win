@@ -1,0 +1,52 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Java.tmbundle/Templates/Java%20Interface
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+info.plist
+file
+
+
+
+
+2006-05-23T19:55:12.000000Z
+ebbfcc4b821ff7d2de976b836439f2c2
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+
+iface-insert.java
+file
+
+
+
+
+2005-11-08T21:47:33.000000Z
+22dc7bed1892315efe93fb38be77724f
+2007-07-29T06:25:30.170053Z
+66
+gcheshire
+

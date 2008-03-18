@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets
+END
+begin .. end (begin).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/begin%20..%20end%20(begin).tmSnippet
+END
+if.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/if.tmSnippet
+END
+unit (unit).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/unit%20(unit).tmSnippet
+END
+Newline.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/Newline.tmSnippet
+END
+property (prop).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/property%20(prop).tmSnippet
+END
+for.tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/for.tmSnippet
+END
+constructor, destructor (constructor).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/constructor,%20destructor%20(constructor).tmSnippet
+END
+try .. finally (try).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/try%20..%20finally%20(try).tmSnippet
+END
+class (class).tmSnippet
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/71/trunk/Bundles/Pascal.tmbundle/Snippets/class%20(class).tmSnippet
+END

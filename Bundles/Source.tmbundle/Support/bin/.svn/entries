@@ -1,0 +1,53 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Source.tmbundle/Support/bin
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+reindent.rb
+file
+
+
+
+
+2005-10-24T23:08:16.000000Z
+0375bd02826b423c21ad1f547f8066fe
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+has-props
+
+rubywrap.rb
+file
+
+
+
+
+2006-08-24T01:01:27.000000Z
+bbc3aa6e79474c3e00c0443f914b41b6
+2007-07-29T07:13:46.726772Z
+74
+gcheshire
+

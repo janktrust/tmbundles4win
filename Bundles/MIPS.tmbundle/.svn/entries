@@ -1,0 +1,61 @@
+8
+
+dir
+86
+https://tmbundles4win.googlecode.com/svn/trunk/Bundles/MIPS.tmbundle
+https://tmbundles4win.googlecode.com/svn
+
+
+
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2cd88471-f634-0410-b9bf-598fa6930d27
+
+Preferences
+dir
+
+Snippets
+dir
+
+info.plist
+file
+
+
+
+
+2007-03-04T20:11:31.000000Z
+967ba8429db6cd79cd6e243c9a41d7f1
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+README.txt
+file
+
+
+
+
+2005-01-25T13:00:08.000000Z
+52c7acd2fe16fe3914688b00fa5c02fe
+2007-07-29T06:32:33.658992Z
+68
+gcheshire
+
+Syntaxes
+dir
+
