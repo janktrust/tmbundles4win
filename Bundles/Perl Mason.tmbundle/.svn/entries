@@ -1,34 +1,0 @@
-8
-
-dir
-129
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Perl%20Mason.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-08-28T20:36:35.266982Z
-129
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-info.plist
-file
-
-
-
-
-2007-08-28T19:46:23.000000Z
-a537ffcf3530d77759e7b4885c9ef940
-2007-08-28T20:36:35.266982Z
-129
-gcheshire
-
-Snippets
-dir
-
-Syntaxes
-dir
-

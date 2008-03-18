@@ -1,58 +1,0 @@
-8
-
-dir
-86
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/SWeave.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-07-29T07:13:46.726772Z
-74
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-2cd88471-f634-0410-b9bf-598fa6930d27
-
-Commands
-dir
-
-Preferences
-dir
-
-Macros
-dir
-
-Snippets
-dir
-
-info.plist
-file
-340
-
-
-
-2007-12-21T02:16:23.000000Z
-6f78864406824b10699d1ce75b8dc7b5
-2007-12-21T02:35:49.214563Z
-340
-gcheshire
-
-Support
-dir
-
-Syntaxes
-dir
-

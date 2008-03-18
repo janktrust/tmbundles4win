@@ -1,34 +1,0 @@
-8
-
-dir
-128
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Python%20Django%20Templates.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-08-28T19:39:25.378573Z
-128
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-Snippets
-dir
-
-info.plist
-file
-
-
-
-
-2007-08-28T19:34:25.000000Z
-5b5392ce55473c1ea4ccb7e763fc3153
-2007-08-28T19:39:25.378573Z
-128
-gcheshire
-
-Syntaxes
-dir
-

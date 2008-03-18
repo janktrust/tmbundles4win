@@ -1,49 +1,0 @@
-8
-
-dir
-166
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Ruby%20RSpec.tmbundle/Support/spec
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-09-11T03:37:26.039835Z
-166
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-fixtures
-dir
-
-spec
-dir
-
-spec_helper.rb
-file
-
-
-
-
-2007-09-10T15:39:18.000000Z
-6cc659df607fa341c6575f2d0c2ac063
-2007-09-11T03:37:26.039835Z
-166
-gcheshire
-
-spec_mate_spec.rb
-file
-
-
-
-
-2007-09-10T15:39:18.000000Z
-68a81cd14f9217fb9189b7bdfcf5fd37
-2007-09-11T03:37:26.039835Z
-166
-gcheshire
-
-vendor
-dir
-

@@ -1,55 +1,0 @@
-8
-
-dir
-86
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Bundle%20Development.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-07-29T06:09:08.497357Z
-59
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-2cd88471-f634-0410-b9bf-598fa6930d27
-
-Commands
-dir
-
-Preferences
-dir
-
-Snippets
-dir
-
-info.plist
-file
-358
-
-
-
-2008-01-06T07:12:36.000000Z
-4f76b680a372ab901a86db223ce473f5
-2008-01-06T07:35:36.930145Z
-358
-gcheshire
-
-Support
-dir
-
-Syntaxes
-dir
-

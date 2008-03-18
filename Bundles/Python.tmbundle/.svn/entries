@@ -1,61 +1,0 @@
-8
-
-dir
-86
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Python.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-07-29T06:58:56.112073Z
-71
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-2cd88471-f634-0410-b9bf-598fa6930d27
-
-Commands
-dir
-
-Preferences
-dir
-
-Macros
-dir
-
-Snippets
-dir
-
-info.plist
-file
-
-
-
-
-2007-03-20T00:13:12.000000Z
-e0cbb55f49d3249431754bc743f2cbda
-2007-07-29T06:58:56.112073Z
-71
-gcheshire
-
-Support
-dir
-
-Syntaxes
-dir
-
-Templates
-dir
-

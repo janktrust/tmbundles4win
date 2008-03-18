@@ -1,58 +1,0 @@
-8
-
-dir
-86
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/CSS.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-08-01T20:12:55.451395Z
-83
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-2cd88471-f634-0410-b9bf-598fa6930d27
-
-DragCommands
-dir
-
-Commands
-dir
-
-Preferences
-dir
-
-Macros
-dir
-
-Snippets
-dir
-
-info.plist
-file
-
-
-
-
-2007-05-06T13:19:30.000000Z
-25420d1a13a35ec04b95080b984f402b
-2007-07-29T05:59:03.747568Z
-57
-gcheshire
-
-Syntaxes
-dir
-

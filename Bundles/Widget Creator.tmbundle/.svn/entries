@@ -1,49 +1,0 @@
-8
-
-dir
-86
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Widget%20Creator.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2007-07-29T07:19:38.182606Z
-77
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-
-
-
-
-
-
-
-
-
-
-2cd88471-f634-0410-b9bf-598fa6930d27
-
-Commands
-dir
-
-Snippets
-dir
-
-info.plist
-file
-
-
-
-
-2007-03-04T20:11:31.000000Z
-100dd32bf2093a58c7eddd02970abd58
-2007-07-29T07:19:38.182606Z
-77
-gcheshire
-
-Support
-dir
-

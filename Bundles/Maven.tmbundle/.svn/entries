@@ -1,55 +1,0 @@
-8
-
-dir
-452
-https://tmbundles4win.googlecode.com/svn/trunk/Bundles/Maven.tmbundle
-https://tmbundles4win.googlecode.com/svn
-
-
-
-2008-03-03T07:35:52.914224Z
-452
-gcheshire
-
-
-svn:special svn:externals svn:needs-lock
-
-Preferences
-dir
-
-Commands
-dir
-
-TODO.md
-file
-
-
-
-
-2008-03-02T06:32:29.000000Z
-a028e5443b49c8745b98c43217b503c5
-2008-03-03T07:35:52.914224Z
-452
-gcheshire
-
-Snippets
-dir
-
-info.plist
-file
-
-
-
-
-2008-03-02T06:32:29.000000Z
-c7c25971fe29d6d3e33d4b5339d8e71f
-2008-03-03T07:35:52.914224Z
-452
-gcheshire
-
-Support
-dir
-
-Syntaxes
-dir
-
