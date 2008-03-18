@@ -5,7 +5,7 @@ require 'fileutils'
 include FileUtils::Verbose
 
 ENV['LC_CTYPE'] = "en_US.UTF-8"
-ENV['PATH'] = '/usr/sbin:/usr/bin:/usr/sfw/bin:/opt/csw/bin:/opt/csw/sbin:/opt/csw/gnu:/opt/csw/gcc3/bin:/opt/csw/mysql5/bin:/opt/csw/postgresql/bin:/opt/csw/apache2/bin:/opt/csw/apache2/sbin'
+ENV['PATH'] = '/home/gtc/bin:/usr/sbin:/usr/bin:/usr/sfw/bin:/opt/csw/bin:/opt/csw/sbin:/opt/csw/gnu:/opt/csw/gcc3/bin:/opt/csw/mysql5/bin:/opt/csw/postgresql/bin:/opt/csw/apache2/bin:/opt/csw/apache2/sbin'
 
 TMREPO_DIR  = "/home/gtc/repos/svn_textmate"
 TRANSIT_DIR = "/home/gtc/repos/tm4win_transit"
@@ -64,4 +64,8 @@ system("svn add #{WINREPO_DIR}/trunk/* --force")
  
 puts "Check in trunk/ to repos..."
 system("svn ci #{WINREPO_DIR}/trunk/ -m \"Sync at #{Time.now()}\"")
+
+# Commit to GitHub mirror
+puts "Mirror to GitHub..."
+system("cd #{WINREPO_DIR}/trunk && git add . && git commit -m \"Sync at #{Time.now()}\" && git push")
 
