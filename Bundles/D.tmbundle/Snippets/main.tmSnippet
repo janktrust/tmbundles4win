@@ -3,19 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>class ${1:${TM_FILENAME/(.*?)(\..+)/$1/}} {
-	this($2) {
-		$0
-	}
-}
-</string>
+	<string>void main() {
+	${1}
+}</string>
 	<key>name</key>
-	<string>class … { … }</string>
+	<string>void main() { … }</string>
 	<key>scope</key>
 	<string>source.d</string>
 	<key>tabTrigger</key>
-	<string>class</string>
+	<string>main</string>
 	<key>uuid</key>
-	<string>E3D192EB-3C23-4B9A-9364-A301417F0434</string>
+	<string>644E0687-5DC6-49B4-838B-5CD72685225B</string>
 </dict>
 </plist>
