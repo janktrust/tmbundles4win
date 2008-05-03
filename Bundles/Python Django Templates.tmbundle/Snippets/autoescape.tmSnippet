@@ -3,14 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>|add:"${1:arg}"</string>
-	<key>keyEquivalent</key>
-	<string>@|</string>
+	<string>{% autoescape ${1:off} %}
+	$2
+{% endautoescape %}</string>
 	<key>name</key>
-	<string>add</string>
+	<string>autoescape</string>
 	<key>scope</key>
 	<string>text.html.django</string>
+	<key>tabTrigger</key>
+	<string>autoescape</string>
 	<key>uuid</key>
-	<string>AB73645D-3A5D-41F0-9E91-15662F41EC03</string>
+	<string>4D1DEEF8-0CFA-41FA-9F7C-D985E556B000</string>
 </dict>
 </plist>

@@ -2,21 +2,24 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>autoScrollOutput</key>
-	<true/>
 	<key>beforeRunningCommand</key>
 	<string>nop</string>
 	<key>command</key>
-	<string>mavenmate.sh -t</string>
+	<string>cd "$TM_DIRECTORY"
+FILE=`basename "$TM_FILENAME" .lgt`
+$LOGTALK_COMMAND "logtalk_compile($FILE), halt."
+lgt2txt
+open *.txt
+</string>
 	<key>input</key>
 	<string>none</string>
-	<key>keyEquivalent</key>
-	<string>^@M</string>
 	<key>name</key>
-	<string>Run Arbitrary Task …</string>
+	<string>Generate TEXT documentation</string>
 	<key>output</key>
-	<string>showAsHTML</string>
+	<string>openAsNewDocument</string>
+	<key>scope</key>
+	<string>source.logtalk</string>
 	<key>uuid</key>
-	<string>797B1987-A4CD-48D9-BE92-56351F22F6AB</string>
+	<string>69FAC018-D43E-4AF7-AAB2-65F200E53709</string>
 </dict>
 </plist>

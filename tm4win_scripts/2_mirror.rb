@@ -22,8 +22,8 @@ def verbose_rename (orig_name, new_name)
 end
 
 # Update TM repo
-system("svn up #{TMREPO_DIR + '/Bundles'}")
-system("svn up #{TMREPO_DIR + '/Support'}")
+system("svn up #{TMREPO_DIR + '/Bundles'} -r HEAD")
+system("svn up #{TMREPO_DIR + '/Support'} -r HEAD")
 
 # Delete old transit dirs
 rm_rf(TRANSIT_DIR + '/Bundles')
