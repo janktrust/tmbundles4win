@@ -1,11 +1,11 @@
 require "#{ENV["TM_SUPPORT_PATH"]}/lib/scriptmate"
 require "cgi"
 
-$SCRIPTMATE_VERSION = "$Revision: 9632 $"
+$SCRIPTMATE_VERSION = "$Revision: 9642 $"
 
 class RubyScript < UserScript
   def lang; "Ruby" end
-  def executable; @hashbang || ENV['TM_RUBY'] || 'ruby' end
+  def executable; ENV['TM_RUBY'] || 'ruby' end
   def args; ['-rcatch_exception', '-rstdin_dialog'] end
   def version_string
     ruby_path = %x{ #{executable} -e 'require "rbconfig"; print Config::CONFIG["bindir"] + "/" + Config::CONFIG["ruby_install_name"]'}
