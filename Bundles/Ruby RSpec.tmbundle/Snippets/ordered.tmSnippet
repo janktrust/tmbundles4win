@@ -3,14 +3,14 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>${1:mock}${1/^.+$/./}should_receive(:${2:message})</string>
+	<string>ordered</string>
 	<key>name</key>
-	<string>should_receive</string>
+	<string>ordered</string>
 	<key>scope</key>
 	<string>source.ruby.rspec</string>
 	<key>tabTrigger</key>
-	<string>shr</string>
+	<string>ord</string>
 	<key>uuid</key>
-	<string>0A7E08E5-4756-49BA-B015-FB3A4D11EA45</string>
+	<string>F0524EA5-3438-4238-871C-A5AAAAFC8CA3</string>
 </dict>
 </plist>
