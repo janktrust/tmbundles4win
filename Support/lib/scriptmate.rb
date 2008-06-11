@@ -10,7 +10,7 @@ require 'tempfile'
 $KCODE = 'u'
 require 'jcode'
 
-$SCRIPTMATE_VERSION = "$Revision: 9889 $"
+$SCRIPTMATE_VERSION = "$Revision: 9894 $"
 
 def my_popen3(*cmd) # returns [stdin, stdout, strerr, pid]
   pw = IO::pipe   # pipe[0] for read, pipe[1] for write
@@ -148,8 +148,8 @@ class UserScript
     
     saved = true
     if ENV.has_key? 'TM_FILEPATH' then
-      @display_name = File.basename(@path)
       @path = ENV['TM_FILEPATH']
+      @display_name = File.basename(@path)
       begin
         f = open(@path, 'w')
         f.write @content
@@ -171,6 +171,7 @@ class UserScript
       @temp_path = @path 
       begin
         f = open(@path, 'w')
+        ENV["TM_SCRIPT_IS_UNTITLED"] = "true"
         f.write @content
       rescue Errno::EACCES
         saved = false
@@ -180,9 +181,8 @@ class UserScript
       end
     end
     
-    if not saved # revert to writing to stdin if we haven't had success saving
-      @path = "-"
-      @display_name = "untitled" + default_extension
+    if not saved
+      raise Exception("Could not save file or write to temporary directory.")
     end
   end
   
