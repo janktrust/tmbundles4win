@@ -3,15 +3,15 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>t.time :${1:title}
-$0</string>
+	<string>named_scope :name${1:, :joins =&gt; :${2:table}}, :conditions =&gt; ${3:['${4:${5:field} = ?}', ${6:true}]}
+</string>
 	<key>name</key>
-	<string>Table column time</string>
+	<string>named_scope</string>
 	<key>scope</key>
-	<string>meta.rails.migration.create_table, meta.rails.migration.change_table</string>
+	<string>source.ruby.rails</string>
 	<key>tabTrigger</key>
-	<string>tcti</string>
+	<string>nc</string>
 	<key>uuid</key>
-	<string>4F5DDD37-D532-11DC-BD8E-00112475D960</string>
+	<string>1CB65A0D-4FEC-4438-9B4F-8B0BD13FB875</string>
 </dict>
 </plist>
