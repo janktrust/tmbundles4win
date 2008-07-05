@@ -2,16 +2,16 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>content</key>
+	<string>
+* $0</string>
+	<key>keyEquivalent</key>
+	<string></string>
 	<key>name</key>
-	<string>Symbol List: Methods</string>
+	<string>Continue Doc Block</string>
 	<key>scope</key>
-	<string>source.java meta.method.identifier</string>
-	<key>settings</key>
-	<dict>
-		<key>showInSymbolList</key>
-		<integer>1</integer>
-	</dict>
+	<string>comment.block.documentation.javadoc</string>
 	<key>uuid</key>
-	<string>FA4CD3FA-A79B-43E3-A432-DA53DA4A060D</string>
+	<string>02326442-41DB-4A66-902D-119B4A9B606D</string>
 </dict>
 </plist>
