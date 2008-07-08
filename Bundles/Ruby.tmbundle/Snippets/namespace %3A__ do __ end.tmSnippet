@@ -3,16 +3,16 @@
 <plist version="1.0">
 <dict>
 	<key>content</key>
-	<string>module ${1:${TM_FILENAME/(?:\A|_)([A-Za-z0-9]+)(?:\.rb)?/(?2::\u$1)/g}}
+	<string>namespace :${1:${TM_FILENAME/\.\w+//}} do
 	$0
 end</string>
 	<key>name</key>
-	<string>module .. end</string>
+	<string>namespace :.. do .. end</string>
 	<key>scope</key>
 	<string>source.ruby</string>
 	<key>tabTrigger</key>
-	<string>mod</string>
+	<string>nam</string>
 	<key>uuid</key>
-	<string>2B73EC5F-06D2-460C-A14F-6FA05AFCF0CC</string>
+	<string>05EE1046-5ED7-48F5-8693-1F066163B2F4</string>
 </dict>
 </plist>
