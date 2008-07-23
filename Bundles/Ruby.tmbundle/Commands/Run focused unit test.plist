@@ -12,7 +12,10 @@
 	<string># Assumes the current file is a unittest file
 # Runs with the currently-focused method as the test name
 
-args=$(${TM_RUBY:=ruby} &lt;&lt;"EOF"
+export RUBYLIB="$TM_BUNDLE_SUPPORT/RubyMate${RUBYLIB:+:$RUBYLIB}"
+export TM_RUBY=$(type -p "${TM_RUBY:-ruby}")
+
+args=$(${TM_RUBY} &lt;&lt;"EOF"
 
 n = ENV['TM_LINE_NUMBER'].to_i
 
@@ -27,7 +30,7 @@ spec      = $3 || $4 if lines.find { |line| line =~ /^\s*(specify|it)\s+('(.*)'|
 context   = $3 || $4 if lines.find { |line| line =~ /^\s*(context|describe)\s+('(.*)'|"(.*)")+\s*(\{|do)/ }
 end
 
-puts [name, spec, context].inspect
+# puts [name, spec, context].inspect
 
 if !name.empty?
 print "--name=#{name}"
@@ -41,8 +44,8 @@ echo -e "This doesn't appear to be a TestCase class."
 exit_show_tool_tip
 fi
 
-export RUBYLIB="$TM_BUNDLE_SUPPORT/RubyMate${RUBYLIB:+:$RUBYLIB}"
-"${TM_RUBY:-ruby}" -- "$TM_BUNDLE_SUPPORT/RubyMate/run_script.rb" $args</string>
+"${TM_RUBY}" -- "$TM_BUNDLE_SUPPORT/RubyMate/run_script.rb" $args
+</string>
 	<key>fileCaptureRegister</key>
 	<string>1</string>
 	<key>input</key>
