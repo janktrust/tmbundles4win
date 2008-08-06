@@ -1,7 +1,7 @@
 /*
 	${TM_NEW_FILE_BASENAME} library
 	
-	$Id: library.a4l 10373 2008-08-04 20:16:57Z aparajita $
+	$Id: library.a4l 3429 2006-05-26 06:20:45Z aparajita $
 */
 
 library "${TM_NEW_FILE_BASENAME}"

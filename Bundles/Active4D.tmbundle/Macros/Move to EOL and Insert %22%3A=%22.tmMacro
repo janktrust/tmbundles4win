@@ -10,18 +10,20 @@
 		</dict>
 		<dict>
 			<key>argument</key>
-			<string>&lt;br /&gt;</string>
+			<string> := </string>
 			<key>command</key>
 			<string>insertText:</string>
 		</dict>
 	</array>
 	<key>keyEquivalent</key>
-	<string>~@</string>
+	<string>@=</string>
 	<key>name</key>
-	<string>Move to EOL and Insert &lt;br /&gt;</string>
+	<string>Move to EOL and insert ":="</string>
 	<key>scope</key>
-	<string>text.html.strict.active4d</string>
+	<string>source.active4d</string>
+	<key>scopeType</key>
+	<string>local</string>
 	<key>uuid</key>
-	<string>A1477001-24E5-49F7-9B9A-E35718571FC6</string>
+	<string>3AA64E7F-F4EA-4C37-8810-922CF209EC5B</string>
 </dict>
 </plist>

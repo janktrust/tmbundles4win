@@ -8,7 +8,7 @@
 	</io>	
 </fusedoc>
 
-$Id: fbx_switch.a4d 10373 2008-08-04 20:16:57Z aparajita $
+$Id: fbx_switch.a4d 3429 2006-05-26 06:20:45Z aparajita $
 */
 
 $fuseaction := $fusebox{"fuseaction"}
