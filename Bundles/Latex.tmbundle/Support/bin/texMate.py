@@ -67,7 +67,7 @@ except:
             stat = self.stdout.close()
             return stat
 
-texMateVersion = ' $Rev: 10400 $ '
+texMateVersion = ' $Rev: 10443 $ '
 
 # 
 
@@ -523,7 +523,7 @@ if __name__ == '__main__':
         texStatus = runObj.wait()
         os.remove("/tmp/latexmkrc")
         if tmPrefs['latexAutoView'] and numErrs < 1:
-            stat = run_viewer(viewer,fileName,filePath,tmPrefs['latexKeepLogWin'],'pdfsync' in ltxPackages)
+            stat = run_viewer(viewer,fileName,filePath,tmPrefs['latexKeepLogWin'],'pdfsync' in ltxPackages or synctex)
         numRuns = commandParser.numRuns
         
     elif texCommand == 'bibtex':
@@ -555,10 +555,10 @@ if __name__ == '__main__':
             os.system('dvips ' + fileNoSuffix+'.dvi' + ' -o ' + psFile)
             os.system('ps2pdf ' + psFile)
         if tmPrefs['latexAutoView'] and numErrs < 1:
-            stat = run_viewer(viewer,fileName,filePath,tmPrefs['latexKeepLogWin'],'pdfsync' in ltxPackages)
+            stat = run_viewer(viewer,fileName,filePath,tmPrefs['latexKeepLogWin'],'pdfsync' in ltxPackages or synctex)
         
     elif texCommand == 'view':
-        stat = run_viewer(viewer,fileName,filePath,tmPrefs['latexKeepLogWin'],'pdfsync' in ltxPackages)
+        stat = run_viewer(viewer,fileName,filePath,tmPrefs['latexKeepLogWin'],'pdfsync' in ltxPackages or synctex)
         
     elif texCommand == 'sync':
         if 'pdfsync' in ltxPackages or synctex:
